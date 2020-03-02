@@ -5,6 +5,7 @@ Before we move forward, I want to be clear that there are a lot of concepts abou
 First, let's split this concept so we can understand what each word means on its own.
   * Belief is the act of being **convinced** that something is **true** because we **think** of it as **real**.
   * System is the **group** of things working **together** (in certain **order**) for a common **goal**.
+
 I think the definition of _"System"_ is quite easy, so for the most part I'll focus this chapter on the definition of _"Belief"_, and by the end of the chapter we will have a better understading of _"Belief Systems"_ as a whole.
 
 ### If you can sense it must be real
