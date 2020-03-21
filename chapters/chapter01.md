@@ -85,3 +85,5 @@ Anyway, I don't think there's a unique definition _"Belief Systems"_, so here ar
 > Belief systems defines a set of systems that we have accepted already as true to ourselves.
 
 Although I like that concept, I think it's not good enough; that's why the rest of the chapters are important.
+
+[Table of Content](../readme.md#table-of-content)

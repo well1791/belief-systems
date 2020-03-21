@@ -28,3 +28,5 @@ But let's recap what we discoveed at this point:
   * We decide how the hierarchy should be.
 
 I think it's fair enough to say that at certain age, we all tend to trust more on our own authority than any other authority
+
+[Table of Content](../readme.md#table-of-content)
