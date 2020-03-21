@@ -84,4 +84,4 @@ Anyway, I don't think there's a unique definition _"Belief Systems"_, so here ar
 
 > Belief systems defines a set of systems that we have accepted already as true to ourselves.
 
-I think the concept is partially good, so, not good enough; that's why the rest of the chapters are important.
+Although I like that concept, I think it's not good enough; that's why the rest of the chapters are important.
