@@ -36,9 +36,11 @@ However, sense perception will always be the first interface that help us associ
 
 ### If it is real it must be true
 
-*True* and *False* are values of logic, they both play an important role in our communication to the point that we can (somehow) associate "Yes" and "No" with "True" and "False" as things closely related but not equal. When we think about the word _"Reality"_ it happens something similar in our mind, we associate _"Reality"_ with _"Truthness"_ as well as _"Fake"_ with _"Falseness"_ but, if we want to explain this relationship we will find it is more complex than the "Yes/No". Why is that?. I want you to explore this with, let's start with this simple concept: **Reality is everything that we already consider is true to exists** (or simply it's not fake).
+*True* and *False* are values of logic, they both play an important role in our communication to the point that we can (somehow) associate "Yes" and "No" with "True" and "False" as things closely related but not equal. When we think about the word _"Reality"_ it happens something similar in our mind, we associate _"Reality"_ with _"Truthness"_ as well as _"Fake"_ with _"Falseness"_ but, if we want to explain this relationship we will find it is more complex than the "Yes/No". Why is that?. I want you to explore this with, let's start with this simple concept
 
-A simple example for the word _"fake"_ could be something like this: When we find some product is being duplicated to be identical to another one; we might call it _"fake"_. The definition of _"real"_ as well as _"fake"_ is based on certain specific knowledge, and this knowledge could be adquired in many different ways (including sense perception) but, the way we identify its fakeness is entirely based on the pre-existence of something that is already real, we can't think of something fake if there's nothing real. But, how do we know that something is real for the first time?.
+> Reality is everything that we already consider is true to exist.
+
+But I want to want to discard the word _"fake"_ first, a simple example could be when we find some product is being duplicated to be identical to another one; and we might call it _"fake"_ based on some conditions. The definition of _"real"_ as well as _"fake"_ is based on certain specific knowledge, and this knowledge could be adquired in many different ways (including sense perception) but, the way we identify its fakeness is entirely based on the pre-existence of something that is already real, we can't think of something fake if there's nothing real. But, how do we know that something is real for the first time?.
 
 Think about this: writing is real, as well as mathematics. We perceive these realities with our eyes first, we see the shapes of numbers and letters, we practice enough times until we memorize them, then we develop a pattern to recognize them but. When do we start to think of these systems (numbers and letters) as real?
 
@@ -46,7 +48,7 @@ The key word is interaction.
 
 And, interaction starts with perception, when we perceive something for the first time, there's just a one way interaction and that's because at first we are just mere receptors; but, that doesn't last long; the mind will always try to transform data into information. Information is the result of an expectation and it can be achieved also by interaction. Usually, our senses tries to response to any perception we receive by sending signals (like the example of the baby when he reproduces what has been recorded), and, if we get some response different to what we expect, we start the process of learning all over again; here's an example.
 
-You write a mathematical equation for someone else to solve it, that person solves it, you verify the answer matches your solution, if that's true then we conclude that mathematics as a system is real; because it's interactive, because someone else responses according to our expectation, because the pattern doesn't break, and so on; but, here we can also assume that the other person is part of the system because is able to understand what we already understand; in fact, when we learn things that are on top of an existing system, we tend to assume that these new things are also true (or real) just because we already believe in the systems they are all built in. That's the reason why we tend to believe a lot of people even thou we don't truly know all the facts; we just need them to say new things based on old things and we are ready to believe anything.
+You write a mathematical equation for someone else to solve it, that person solves it, you verify the answer matches your solution, if that's true then we conclude that mathematics as a system is real; because it's interactive, because someone else responses according to our expectation, because the pattern doesn't break, and so on; but, here we can also assume that the other person is part of the system because is able to understand what we already understand; in fact, when we learn things that are on top of an existing system, we tend to assume that these new things are also true (or real) just because we already believe in the systems they are all built in. That's the reason why we tend to believe a lot of people even thou we don't truly know all the facts; we just need them to say something new based on things we already know and we are ready to believe anything.
 
 But, as always, we can't just say we believe of something just because it's interactive, there's another _"reality"_ for weird and inexplicable cases.
 
@@ -78,12 +80,10 @@ In fact, you don't really need to come up with a precise definition.
 
 It's good enough if you can understand how deep is this meaning on everything you can perceive.
 
-But, if you came up with a definition; that's great! Congrats for that!
+If you came up with an idea already, that's great! But, I don't think there's a unique definition for _"Belief Systems"_ so, here is my own definition:
 
-Anyway, I don't think there's a unique definition _"Belief Systems"_, so here are my two cents:
+> A belief system defines a set of systems that we have accepted already as true to ourselves.
 
-> Belief systems defines a set of systems that we have accepted already as true to ourselves.
-
-Although I like that concept, I think it's not good enough; that's why the rest of the chapters are important.
+Although I like that definition I think it's not good enough but, that's the purpose of the book.
 
 [Table of Content](../readme.md#table-of-content)
