@@ -9,18 +9,18 @@ First, let's split this _"belief system"_ phrase so we can understand what each 
 
 I think the definition of _"System"_ is quite easy, so for the most part I'll focus this chapter to define _"Belief"_, and by the end of the chapter we will have a better understading of _"Belief Systems"_ as a whole.
 
-### If you can sense it, it must be real
+### If you can sense it then, it must be real
 
-Our senses are our first contact with reality; the mere sensation of touch is good enough to know that we are isolated or alone (like floating in the space). So, when we say we believe of something, the first notion of belief comes thanks to our perception, we are convinced that some particular thing truly exists just because it interacts with our perception.
+Our senses are our first contact with reality; the mere sensation of touch is good enough to know that we are not isolated or alone (like floating in the space). So, when we say we believe of something, the first notion of belief comes thanks to our perception. We are usually convinced that something truly exists just because it interacts with our perception.
 
-There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_, or perception of our senses. Also, I'll describe an understandable step by step that explains how our cognitive process works along with our sense perception, here they are:
+There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_ or you could say _"Perceiving through our Senses"_. It's important to understand this is the most basic way to gain knowledge; even if we aren't able to communicate to each other we can still learn things by ourselves thanks to our basic senses.
 
-  1. Perceive
-  2. Record
-  3. Recognize
-  4. Expect
+Perception is a process that involves awareness or recognition of sensing something, it means that perceiving by itself requires more than just sensing but, also thinking. On the other hand; sense is the capability to interact or estimulate any of our five senses.
 
-Let's think of babies to illustrate the steps above. Babies depend entirely on their most basic way to perceive things in order to learn all they can about their surroundings. We will assume the baby in our example has a vision good enough to differentiate color and depth.
+Sense perception is the interface that defines most of our reality, example; if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is the natural warning from your body that alerts you to avoid stepping out. The questions you can ask here could be like: _"Does cold weather exist and everyone else is able to feel the same thing as me? Is this cold for real or is this just imagination? Am I really feeling cold or it is not real?"_, the first kind of answer we should get must be something like: _"If you can sense then, it must be real"_ but, that answer is partially true.
+
+
+Let's think of babies to illustrate sense perception. Babies depend entirely on their most basic way to perceive things in order to learn all they can about their surroundings. We will assume the baby in our example has a vision good enough to differentiate color and depth.
 
 Now, imagine the baby open his eyes and sees a shape for the very first time and this shape does a gesture while producing some particular and repetitive sound.
 
