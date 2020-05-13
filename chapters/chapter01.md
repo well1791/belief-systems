@@ -1,5 +1,49 @@
 ## What is “belief system”?
 
+Let's imagine we're talking about life, purpose, relationships, interactions and so on but, while we are talking you notice that I use some words in a strange way, words like: belief, love, hapiness, etc; you also notice it's not quite different to what you already know but it's still different.
+
+At this point of uncertainty you should ask yourself at least one of these questions: Am I understanding right what he actually tries to explain? How much can this "bit different" change the true meaning of the entire conversation? Would it be right if I explore the meaning just by listening or should I ask for a concrete definition?
+
+The case above exposes the problem of ambiguity, which up to day is still a topic of debate, however, I want to give you some practical examples of this issue.
+
+#### Operation or Sign
+
+We know these estatements of mathematics are true:
+  * All real numbers can be either positive or negative, or zero.
+  * Addition is a binary operation.
+But, here is the catch, we use symbols "+" and "-" to denote both: positive/negative signs and that involves the addition operation also. Now, let's explore what issues can these ambiguos symbols bring us, consider this exercise:
+  * x = 2 + 4
+And answer this question: The symbol "+" is a sign or an operation? Ok, that one was easy. Let's see another exercise:
+  * x = 3 - 5 + 7
+And here is the question: Which symbol is a sign and which one is an operation? The answer might be not so clear now, so, let's see if we can apply the statements we defined at the begining of the example, and see how those concepts can help us solve this ambiguity.
+  1. If all real numbers but zero can be either positive or negative then, all numbers but zero have a sign, therefore; real numbers can be written with their respective sign as one single entity.
+  2. If addition is an operation, and operations can receive real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
+That means, the exercise can be written like this:
+  * x = +3 + -5 + +7
+But, the problem is still there, the ambiguity of the symbol difficults the reading. Let's define a new symbol ⊕ for the addition operation and see how it changes:
+  * x = +3 ⊕ -5 ⊕ +7
+Finally! The exercise is completely clear now.
+
+#### Mother or not
+
+Let's imagine there is a woman pregnant for the first time.
+  * Is she a mother because she is pregnant?
+  * Is she a mother after the baby borns?
+  * If she gives the baby for adoption, is she still considered a mother?
+  * If she has her baby and also adopts another one, is she a mother for both or just one of them?
+
+Next, let's imagine this woman had a pregnancy loss.
+  * If she was called mother while pregnant, can she be still called mother?
+  * If not, is it possible to stop being a mother?
+
+Now, in order to solve this dilemma, people need to create composed definitions in order to address each of this questions: adoptive mother, biological mother, putative mother, etc. The problem with these composed definitions like "some-word-here mother" is that the meaning of the single word "mother" is still lost. Also, kids are taught to address their parent as mother, and that would be ok if we had a concrete definition (which is not the case here), so, why don't we teach them to say "biological mother" as a single concept instead of just "mother"?
+
+## The problem of ambiguity
+
+Ambiguity is mostly discussed in philosophy and linguistic, and this problem doesn't seem to have an end any time soon, also, I'm not going to solve it either. However, the importance of knowing this problem is that each possible definition we can find for a single word might actually make sense if you understand the roots of this definition. The idea here is that, there's a big cosmovision that defines words accordingly in order to
+
+CONNECT ABOVE IDEA WITH BELOW
+
 Before we move forward, I want to be clear that there are a lot of explanations around _"belief, perception, systems, etc..."_, however, I want to be pragmatical with these and other meanings, and give you an easier way (and hopefully a new perspective) to understand them.
 
 First, let's split this _"belief system"_ phrase so we can understand what each word means on its own.
