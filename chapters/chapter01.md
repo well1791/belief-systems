@@ -20,7 +20,7 @@ And here is the question: Which symbol is a sign and which one is an operation? 
   2. If addition is an operation, and operations can receive real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
 That means, the exercise can be written like this:
   * x = +3 + -5 + +7
-But, the problem is still there, the ambiguity of the symbol difficults the reading. Let's define a new symbol ⊕ for the addition operation and see how it changes:
+But, the problem is still there, the mix between symbols and operations difficults the reading. So, let's define a new symbol ⊕ for the addition operation and see how it changes:
   * x = +3 ⊕ -5 ⊕ +7
 Finally! The exercise is completely clear now.
 
@@ -36,55 +36,50 @@ Next, let's imagine this woman had a pregnancy loss.
   * If she was called mother while pregnant, can she be still called mother?
   * If not, is it possible to stop being a mother?
 
-Now, in order to solve this dilemma, people need to create composed definitions in order to address each of this questions: adoptive mother, biological mother, putative mother, etc. The problem with these composed definitions like "some-word-here mother" is that the meaning of the single word "mother" is still lost. Also, kids are taught to address their parent as mother, and that would be ok if we had a concrete definition (which is not the case here), so, why don't we teach them to say "biological mother" as a single concept instead of just "mother"?
+Now, in order to solve this dilemma, people need to create composed definitions in order to address each of this questions: adoptive mother, biological mother, putative mother, etc. The problem with these composed definitions like "some-word-here mother" is that the meaning of the single word "mother" is still vague. Also in practice, kids are taught to address their parent as mother, and that would be ok if we had a concrete definition (which is not the case here). But, Why don't we teach them to refer to their parent as "biological mother" as a single concept instead of just "mother"? Is it because it's bad? Or, Is it because it's better for the kid to simply call their parent as "mother"?
 
-## The problem of ambiguity
+### The problem of ambiguity
 
-Ambiguity is mostly discussed in philosophy and linguistic, and this problem doesn't seem to have an end any time soon, also, I'm not going to solve it either. However, the importance of knowing this problem is that each possible definition we can find for a single word might actually make sense if you understand the roots of this definition. The idea here is that, there's a big cosmovision that defines words accordingly in order to
+Ambiguity is mostly discussed in philosophy and linguistic, and even today this is a broad topic to debate. The cases I'm exposing looks similar to a common problem called "lexical ambiguity" but it's slightly different, lexical ambiguity means that: for any sentence there could exist a word such that have multiple meanings; hence, the true meaning of the sentence could be misunderstood. But, most of the times the meanings are different.
+On the other hand, I want to introduce a concept I call "partial lexical ambiguity", which means: for any sentence there could exist a word such that have multiple meanings, and all these meanings share some similarities in their meaning but still they could be different on extension or application, hence, the true meaning of the sentence could be understood.
 
-CONNECT ABOVE IDEA WITH BELOW
+The importance of knowing this problem is that paradoxically speaking, it's thanks to this knowledge that we can clarify many other things. So, let's start with this simple rule: for each possible definition that we can find for a single word, there must exist a set of definitions for more different words including the one we found, with the only purpose of creating a system of meanings that will supposedly make sense in our cosmovision of reality.
 
-Before we move forward, I want to be clear that there are a lot of explanations around _"belief, perception, systems, etc..."_, however, I want to be pragmatical with these and other meanings, and give you an easier way (and hopefully a new perspective) to understand them.
+Let me give you an example, if we think about the word: god. We will share some common meaning about this word: it has to be more powerful than any human but, at the same time, depending on what we believe we will have many more definitions for the same word, also, the concrete meaning of this single word may differ drastically from different perspectives.
 
-First, let's split this _"belief system"_ phrase so we can understand what each word means on its own.
+### A belief system is...
+
+If you recognize this situtation where there are difference of meanings based on different perspectives, then congratulations you know what a belief system is. Anyway, the concept is still unclear so first, let's split this "belief system" phrase so we can understand what each word means on its own.
 
   * Belief is the act of being **convinced** that something is **true** because we **think** of it as **real**.
   * System is the **group** of **patterns** working **together**, in a certain **order** and for a common goal.
 
-I think the definition of _"System"_ is quite easy, so for the most part I'll focus this chapter to define _"Belief"_, and by the end of the chapter we will have a better understading of _"Belief Systems"_ as a whole.
+I think the definition of _"System"_ is quite easy. So, for the most part I'll focus this chapter to define _"Belief"_, and by the end of the chapter we will have a better understading of _"Belief Systems"_ as a whole idea.
 
-### If you can sense it then, it must be real
+### If you can sense it then, it should be real
 
-Our senses are our first contact with reality; the mere sensation of touch is good enough to know that we are not isolated or alone (like floating in the space). So, when we say we believe of something, the first notion of belief comes thanks to our perception. We are usually convinced that something truly exists just because it interacts with our perception.
+Our senses are our first contact with reality; the mere sensation of touch is good enough to help us understand that we are not isolated and alone, like inside a bubble floating without any direction into the deep space. So, when we say we believe of something, the first notion of belief comes thanks to our perceptions. We are usually convinced that something truly exists just because we have had some kind of experience with that and our perception.
 
-There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_ or you could say _"Perceiving through our Senses"_. It's important to understand this is the most basic way to gain knowledge; even if we aren't able to communicate to each other we can still learn things by ourselves thanks to our basic senses.
+There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_ or you could say _"Perceiving reality through our Senses"_. It's important to understand that this is the most basic way to gain knowledge; even if we aren't able to communicate to each other we can still learn things by ourselves thanks to these basic senses.
 
-Perception is a process that involves awareness or recognition of sensing something, it means that perceiving by itself requires more than just sensing but, also thinking. On the other hand; sense is the capability to interact or estimulate any of our five senses.
+Just think about it, if you can't perceive anything, then how would you even know anything? In fact, we need our eyes to perceive depth, shadows, recognize letters, etc; we need of touch to perceive the things that get in our way, temperature, texture, etc; we need taste to recognize flavors that might be toxic or healthy, among other things; we need smell to identify when something is burning quickly; I think hear is obvious at this point so let's stop here.
 
-Sense perception is the interface that defines most of our reality, example; if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is the natural warning from your body that alerts you to avoid stepping out. The questions you can ask here could be like: _"Does cold weather exist and everyone else is able to feel the same thing as me? Is this cold for real or is this just imagination? Am I really feeling cold or it is not real?"_, the first kind of answer we should get must be something like: _"If you can sense then, it must be real"_ but, that answer is partially true.
+Sense perception is the interface that defines most of our reality, for example; if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is a natural warning from your body to alert you to avoid going outside without a good coat. Now, the questions you can ask here could be:
+  * Can I believe entirely in my senses?
+  * Is everyone around me actually the same way as I feel?
+  * Is this cold for real or is this just a wrong perception of my body?
 
+If we consider ourselves as babies, we'll notice that we trusted our senses even before we were able to develop any kind of complex thought. So, the first answer sure will be: _"Yes! If you can sense then, it should be real!"_ but, for the other answers, there is a problem here: Sense perception is not enough.
 
-Let's think of babies to illustrate sense perception. Babies depend entirely on their most basic way to perceive things in order to learn all they can about their surroundings. We will assume the baby in our example has a vision good enough to differentiate color and depth.
+Let's imagine that I see some strange fruit somewhere in the forst, it looks good on the outside and it smells sweet. Next, let's say I dare to have a test of the fruit, I taste it and it's delicious. Ok, let's stop just right there, if I stick with the concept mentioned above, I'm not certain if I will live or die for the next couple hours, that's because I simply don't know what I'm eating and how can it affect my health. But, on the other side if I take my time to do some research first then, results will probably be different.
 
-Now, imagine the baby open his eyes and sees a shape for the very first time and this shape does a gesture while producing some particular and repetitive sound.
-
-From the moment the baby is able to see, his mind starts to record everything that can be perceived (like vision, smells, sounds, etc), even though at this point all this things don't represent anything, there's no meaning, no value, nothing but just data. Here, the process of recording starts when any of our senses perceives something, then our mind responses to that stimulation and records everything with all our senses (it's like taking a snapshot). In this case, the baby's mind will store every movement and sound all together in a sequential way, if the shape moves and emits a sound while moving, the baby will record that exact scene with everything that comes after it but, no matter how much the mind tries to record, the baby can't memorize everything in one shoot, only scenes that repeats frequently will be successfuly stored as patterns or associations. The more the baby records the more the baby will be able to recognize. In fact, anyone can notice the process of recognition of a baby simply because the baby tries to reproduce what has been recorded.
-
-If you watch a movie multiple times, sure at certain point you'll be able to predict what will happen next; and believe it or not this is what babies do; they predict what should happen next according to the recording (and the sequence). All repetitions eventually produce patterns and it is thanks to these patterns that the mind is able to predict what's next, finally every prediction produce an expectation.
-
-Once we have a pattern, our mind will try to reproduce it in order to assess we have learned the pattern correctly. The way we assess a pattern is by matching the expectation with our current perception; here's an example.
-
-Let's say someone moves his hands while saying "come" in front of a baby, as you know, the word as well as the gesture doesn't really have a defined meaning at this point, the task of the baby's mind is to transform all that data into information. The first step is to record everything multiple times, then after multiple repetitions the mind would produce a pattern based on the entire gesture. After a lot of repetitions, the baby is able to recognize the pattern whenever he sees it the next time. Then, the pattern will produce an expectation; the expectation here is to identify what triggers the pattern; for that, the baby will try to reproduce everything that has been recorded in order to identify what makes the pattern start or stop. Finally, after many more repetitions, all that data will be transformed into intormation, and the baby will be able to develop a meaning around the gesture and the sounds.
-
-Anyway, that explanation doesn't really describe all the possible ways we learn or asociate things in our mind but, it's just another perspective to explain the cognitive process. Plus, you can test this algorithm with multiple things (like studying maths or learning a new language).
-
-However, sense perception will always be the first interface that help us associate reality and belief but, we can't simply say we believe of something just because we can perceive it with our basic senses, there are more complex things that need a better explanation.
+Again, sense perception will always be the first interface to help us associate reality and belief but, we can't simply say we believe of something just because we can perceive it with our basic senses, there are situations that requires more than just basic perception, here is where we depend on our conscious.
 
 ### If it is real it must be true
 
-*True* and *False* are values of logic, they both play an important role in our communication to the point that we can (somehow) associate _"Yes"_ and _"No"_ with _"True"_ and _"False"_ as words closely related but not equal. When we think about the word _"Reality"_ it happens something similar in our mind, we associate _"Reality"_ with _"Truthness"_ as well as _"Fake"_ with _"Falseness"_ but, if we want to explain the relationship between _"Reality"_ and _"Truthness"_ we will find it's more complex to explain it compared to _"Yes/No"_. Why is that? I want you to explore this with me.
+*True* and *False* are values of truth, they both play an important role in our communication to the point that we can (somehow) associate _"Yes"_ and _"No"_ with _"True"_ and _"False"_ as words closely related but not equal. When we think about the word _"Reality"_ it happens something similar in our mind, we associate _"Reality"_ with _"Truthness"_ as well as _"Fake"_ with _"Falseness"_ but, if we want to explain the relationship between _"Reality"_ and _"Truthness"_ we will find it's more complex to explain it compared to _"Yes/No"_. Why is that? I want you to explore this with me.
 
-Before we start I want to want to discard the word _"fake"_ first, a simple example could be when we find some product is being duplicated to be identical to another one; and we might call it _"fake"_ based on some conditions. The definition of _"real"_ as well as _"fake"_ is based on certain specific knowledge, and this knowledge could be adquired in many different ways (including sense perception) but, the way we identify its fakeness is entirely based on the pre-existence of something that is already real, we can't think of something fake if there's nothing real. But, how do we know that something is real for the first time?.
+Before we start to dig into the implications of "true" and "false", I want to want to explore the word _"fake"_ first. A simple example could be this: when we find some product is being duplicated to be identical to another one; and we might call it _"fake"_ based on some conditions. The definition of _"real"_ as well as _"fake"_ is based on certain specific knowledge, and this knowledge could be adquired in many different ways (including sense perception) but, the way we identify its fakeness is entirely based on the pre-existence of something that is already real, we can't think of something fake if there's nothing real. But, how do we know that something is real for the first time?.
 
 Think about this, writing is real as well as mathematics, we perceive these realities with our eyes first, we see the shape of numbers and letters, we practice enough until we memorize them, then we develop a pattern to recognize them but, when do we start to think of these systems (numbers and letters) as real?
 
@@ -96,16 +91,13 @@ Here's an example: you write a mathematical equation for someone else to solve i
 
 But, as always, we can't just say we believe of something just because it's interactive, there's another _"reality"_ for weird and inexplicable cases.
 
-History has shown people experiencing different kind of mysteries that cannot be reproduced anymore in order to be comprehended, things that cannot be experienced by anyone except by one's self, and yet people is willing to think of these things as real. You could say that most religious ideas falls into this category; that might look like it's true but, I think religion doesn't really fit this category. Anyway the real question is: why is people so sure about those mysteries? What process did they follow in order to accept new ideas as true?
-
-I want to answer those questions in later chapters, but for now one thing is for sure, we all share one common reality and we know it because most people can understand what _"reality"_ means in a trivial conversation.
+History has shown people experiencing different kind of mysteries that cannot be reproduced anymore in order to be comprehended, things that cannot be experienced by anyone except by one's self, and yet people is willing to think of these testimonies as real. You could say that most religious ideas fall into this category but, the idea of the book is to understand why people believe what they believe, and also to recognize those beliefs actually make sense; if they don't make sense then we can conclude those beliefs are false.
 
 ### Being part of the system
 
 One thing that amazes me, it's our implicit conscious about the systems that surround us. Systems are easy to identify and yet we are completely unware of them, most of the time we just act without even noticing them.
 
 Stop reading for a few seconds and think about the paragraph above for a while.
-
 
 Ready?
 
