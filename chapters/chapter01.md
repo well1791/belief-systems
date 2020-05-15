@@ -2,26 +2,43 @@
 
 Let's imagine we're talking about life, purpose, relationships, interactions and so on but, while we are talking you notice that I use some words in a strange way, words like: belief, love, hapiness, etc; you also notice it's not quite different to what you already know but it's still different.
 
-At this point of uncertainty you should ask yourself at least one of these questions: Am I understanding right what he actually tries to explain? How much can this "bit different" change the true meaning of the entire conversation? Would it be right if I explore the meaning just by listening or should I ask for a concrete definition?
+At this point of uncertainty you should ask yourself at least one of these questions:
 
-The case above exposes the problem of ambiguity, which up to day is still a topic of debate, however, I want to give you some practical examples of this issue.
+  * Are you understanding exactly what I'm trying to explain?
+  * How much can this difference change the true meaning of the entire conversation?
+  * Would it be right if I explore the meaning just by listening?
+  * should I ask for a concrete definition on any of those words that I already know?
+
+Let me share a couple of examples so you see to what extend this kind of issues are common.
 
 #### Operation or Sign
 
-We know these estatements of mathematics are true:
+We know these rules of mathematics are true:
+
   * All real numbers can be either positive or negative, or zero.
-  * Addition is a binary operation.
-But, here is the catch, we use symbols "+" and "-" to denote both: positive/negative signs and that involves the addition operation also. Now, let's explore what issues can these ambiguos symbols bring us, consider this exercise:
+  * Addition is a binary operation and it can receive real numbers.
+
+But, here is the catch, we use symbols "+" to denote both: positive sign and the addition operation. Both words means different things and yet we can use the same symbol the same sentence without any problem, so, let's explore what issues can this ambiguos symbol bring us; consider this exercise:
+
   * x = 2 + 4
+
 And answer this question: The symbol "+" is a sign or an operation? Ok, that one was easy. Let's see another exercise:
+
   * x = 3 - 5 + 7
-And here is the question: Which symbol is a sign and which one is an operation? The answer might be not so clear now, so, let's see if we can apply the statements we defined at the begining of the example, and see how those concepts can help us solve this ambiguity.
+
+And here is the question: Which symbol is a sign and which one is an operation? The answer might be not so clear now, unless you apply some additional rules besides the ones that were mentioned at the beginning of the example. So, let's see if we can apply only the rules we have defined already to help us solve this problem.
+
   1. If all real numbers but zero can be either positive or negative then, all numbers but zero have a sign, therefore; real numbers can be written with their respective sign as one single entity.
-  2. If addition is an operation, and operations can receive real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
-That means, the exercise can be written like this:
+  2. If addition is an operation, and this operation can receive real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
+
+The propositions above means that it's perfectly valid to write the exercise like this, in fact you could write this in a calculator and you would get the right result:
+
   * x = +3 + -5 + +7
-But, the problem is still there, the mix between symbols and operations difficults the reading. So, let's define a new symbol ⊕ for the addition operation and see how it changes:
+
+Just to be clear, we are using the "+" to express explicitly both the sign and the operation, but as you may notice, the mix between symbols and operations difficults the reading. So, let's define a new symbol "⊕" for the addition operation and see how it changes:
+
   * x = +3 ⊕ -5 ⊕ +7
+
 Finally! The exercise is completely clear now.
 
 #### Mother or not
@@ -65,6 +82,7 @@ There are multiple and different ways to perceive things, but I want you to focu
 Just think about it, if you can't perceive anything, then how would you even know anything? In fact, we need our eyes to perceive depth, shadows, recognize letters, etc; we need of touch to perceive the things that get in our way, temperature, texture, etc; we need taste to recognize flavors that might be toxic or healthy, among other things; we need smell to identify when something is burning quickly; I think hear is obvious at this point so let's stop here.
 
 Sense perception is the interface that defines most of our reality, for example; if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is a natural warning from your body to alert you to avoid going outside without a good coat. Now, the questions you can ask here could be:
+
   * Can I believe entirely in my senses?
   * Is everyone around me actually the same way as I feel?
   * Is this cold for real or is this just a wrong perception of my body?
@@ -95,23 +113,21 @@ History has shown people experiencing different kind of mysteries that cannot be
 
 ### Being part of the system
 
-One thing that amazes me, it's our implicit conscious about the systems that surround us. Systems are easy to identify and yet we are completely unware of them, most of the time we just act without even noticing them.
-
-Stop reading for a few seconds and think about the paragraph above for a while.
+One thing that amazes me, it's our implicit conscious about the systems that surround us. Systems are easy to identify and yet we are completely unware of them, most of the time we just act without even noticing them. Let's do a mental exercise just right here, stop reading for a few seconds and think about what you already read.
 
 Ready?
 
-You will find that pretty much everything we know somehow repeats a cicle and we all somehow interact with all these cicles without fully understanding them; there's the rain, eating and sleeping, the sunset and sunrise, and more.
-
+You will find that pretty much everything we know somehow repeats a cicle and we all somehow interact with all these cicles without fully understanding them; there's the rain, eating and sleeping, the sunset and sunrise, numbers, and you get the idea.
 If you think "how a bank works", we already know that there must be some kind of process that triggers the cicle of the business. Someone needs something valuable to be stored, secured, and able to be accessed for the owner only, then someone else decides to provide the solution to this problem and you can imagine the rest. This is what we call a system.
 
-The word _"system"_ describes a set of rules, conditions, processes, decisions, etc... But, there's one thing in common with all systems: they all started as ideas, those ideas were shared through communication, and finally communication started with perception.
+The word _"system"_ describes a set of rules, conditions, processes, decisions, etc... But, there's one thing in common with all systems: they all started as ideas, those ideas were shared through communication, and finally communication is only possible thanks to our basic sense of perception: speaking and listening.
 
-Most of the time a single change in a system may affect dramatically a lot more systems; just imagine what would happen if we remove a couple of letters from the alphabet? It would trigger a lot of changes across all existing documents written in that particular language, and by documents I mean everything that can be written (even software). That means, we learn different systems and most of them are built on top of multiple other systems; like a hospital which depends on specialized doctors but also requires a good building, and the building requires designers, architects, constructors and so on.
+Most of the time, if you dare to push a single change in an existing system, it may affect dramatically a lot more systems. Just imagine what would happen if we remove a couple of letters from the alphabet? It would trigger a lot of changes across all existing documents written in that particular language, and by documents I mean everything that can we can use to read characters or symbols; things like paper, software, stones, etc.
+That also means, we learn different systems and most of them are built on top of multiple other systems; like a hospital which depends on specialized doctors but also requires a good building, and the building requires designers, architects, constructors, and all of them require to know how to communicate.
 
 ### Belief means...?
 
-Think again what _"Belief Systems"_ could mean and take the time to express your own ideas.
+Now, think again what _"Belief Systems"_ could mean and take the time to express it with your own ideas.
 
 Just stop reading for a few seconds.
 
@@ -119,12 +135,6 @@ It shouldn't take too long.
 
 In fact, you don't really need to come up with a precise definition.
 
-It's good enough if you can understand how deep is this meaning on everything you can perceive.
-
-If you came up with an idea already, that's great! But, I don't think there's a unique definition for _"Belief Systems"_ so, here is my own definition:
-
-> A belief system defines a set of systems that we have accepted already as true to ourselves.
-
-Although I like that definition I think it's not good enough but, that's the purpose of the book.
+It's good enough if you can understand how deep this meaning can be.
 
 [Table of Content](../readme.md#table-of-content)
