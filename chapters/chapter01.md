@@ -20,7 +20,7 @@ But, here is the catch, we use symbol "+" to denote both: the positive sign and 
 
   * x = 2 + 4
 
-And answer this question: The symbol "+" is a sign or an operation? Ok, that was an easy one, it clearly is an opeation. Let's see another exercise:
+And answer this question: The symbol "+" is a sign or an operation? Ok, that was an easy one, it clearly is an operation. Let's see another exercise:
 
   * x = 3 - 5 + 7
 
