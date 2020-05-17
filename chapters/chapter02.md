@@ -65,5 +65,7 @@ At this point we have a lot of information about authority; let's recap a little
   2. There's a hierarchy between authorities, there's always a higher authority.
   3. We decide the hierarchy of our authorities.
 
+
 [Chapter 02 - What is “belief system”?](chapter01.md##what-is-belief-system)
+
 [Table of Content](../readme.md#table-of-content)

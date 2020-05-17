@@ -166,5 +166,7 @@ In fact, you don't really need to come up with a precise definition.
 
 It's good enough if you understand how deep this meaning can be.
 
+
 [Chapter 02 - How do we develop a belief system?](chapter02.md#how-do-we-develop-a-belief-system)
+
 [Table of Content](../readme.md#table-of-content)
