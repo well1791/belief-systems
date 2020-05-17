@@ -16,7 +16,7 @@ We know these rules of mathematics are true:
   * All real numbers can be either positive or negative, or zero.
   * Addition is an operation that depend on two numbers.
 
-But, here is the catch, we use symbol "+" to denote both: the positive sign and the addition operation. Both words: sign and addition; means different things and yet we can use them in the same sentence without any apparent problem. So, let's explore what issues can this ambiguos symbol bring us; consider this exercise:
+But, here is the catch, we use symbol "+" to denote both: the positive sign and the addition operation. Both words: sign and operation; mean different things and yet we can use them in the same sentence without any apparent problem. So, let's explore what issues can this ambiguos symbol bring us; consider this exercise:
 
   * x = 2 + 4
 
