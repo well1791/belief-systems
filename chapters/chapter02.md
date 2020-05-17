@@ -58,11 +58,12 @@ Another way to obtain power is through admiration, which I personally think is t
 
 ## Two different authorities with same hierarchy can't coexist.
 
-## Recap
+## Conclusion
 
 At this point we have a lot of information about authority; let's recap a little bit and see what we have already:
   1. We are always obeying an authority, that includes our own will as authority.
   2. There's a hierarchy between authorities, there's always a higher authority.
   3. We decide the hierarchy of our authorities.
 
+[Chapter 02 - What is “belief system”?](chapter01.md##what-is-belief-system)
 [Table of Content](../readme.md#table-of-content)
