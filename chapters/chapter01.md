@@ -1,9 +1,9 @@
 ## What is “belief system”?
 
-Let's imagine we're talking about purpose of life, politics, relationships, and so on but, while we are talking you notice that I use some words in a strange way, maybe words like: exist, moral, love, hapiness, etc. After a few minutes of conversation, it seems that the meaning of those words are quite the same to what you already know, but at the same time you know it's not exactly the same, instead, you could say it's quite different. This is clearly a case of uncertainty, so, at this point of the conversation you should ask yourself at least one of these questions:
+Let's imagine we're talking about politics, relationships, travels and so on but, while we are talking, you notice that I use some words in a strange way, maybe words like: existence, morality, love, hapiness, etc. After a few minutes of conversation, it seems that the meaning of those words are quite the same to what you already know but, at the same time you know it's not exactly the same, instead, you could say it's quite different. This is clearly a case of uncertainty, so, at this point of the conversation you should ask yourself at least one of these questions:
 
   * Are you understanding exactly what I'm trying to explain?
-  * How much can these differences of meaning on words change the intentional meaning of the entire conversation?
+  * About the differences of meaning on words. How much can they change the intentional meaning of the entire conversation?
   * Would it be right if you explore the uncertainty of the meaning just by listening?
   * Should you ask for a concrete definition for any of the words that you notice aren't exactly what you think you know?
 
@@ -16,7 +16,7 @@ We know these rules of mathematics are true:
   * All real numbers can be either positive or negative, or zero.
   * Addition is an operation that depend on two numbers.
 
-But, here is the catch, we use symbol "+" to denote both: the positive sign and the addition operation. Believe or not, both words: sign and operation; mean two different things and yet somehow we use them in the same sentence as if they were the same without any apparent problem. However, the case here is that there is an ambiguity, so let's force a case for it:
+But, here is the catch, we use the symbol "+" to denote both: the positive sign and the addition operation. Believe or not, both words: sign and operation; mean two different things and yet somehow we use them in the same sentence as if they were the same without any apparent problem. However, the case here is that there is an ambiguity, so let's see an example:
 
   * x = 2 + 4
 
@@ -26,7 +26,7 @@ Ok, that was an easy one, it clearly is an operation. Let's change things a litt
 
   * x = 3 - 5 + 7
 
-Here is the question: Which symbol is a sign and which one is an operation? This time the answer might be not so clear, unless you already know how to deal with this kind of situations of course. However, if you need to explain this case to someone who is learning maths for the first time, it could be quite difficult. But, let's see if we can apply the rules that we have defined already to help us solve this problem.
+Here is the question: Which symbol is a sign and which one is an operation? This time the answer might be not so clear, unless you already know how to deal with this kind of situations of course. However, if you need to explain this case to someone who is learning maths for the first time, it could be quite difficult. Let's see if we can apply the rules that we have defined already to help us solve this problem.
 
   * If all real numbers but zero can be either positive or negative then, all numbers but zero have a sign, therefore; real numbers can be written with their respective sign as one single entity.
   * If addition is an operation that depend on two numbers, and the set of numbers includes the set of real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
@@ -35,13 +35,13 @@ The propositions above means that it's perfectly valid to write the exercise lik
 
   * x = +3 + -5 + +7
 
-In fact you could write this in a calculator and you would get the right result. Also, just to clarify, we are using the "+" symbol to express explicitly both the sign and the operation but, as you may have noticed, the mix between symbols and operations difficults the reading. So, let's define a different symbol: "⊕", for the addition operation, the symbol could be anything, I'm just suggesting something that's not quite common in use, anyway, let's see how this little change affects the reading:
+In fact you could write this in a calculator and you would get the right result. Also, just to clarify, we are using the "+" symbol to express explicitly both the sign and the operation but, as you may have noticed, the mix of symbols between signs and operations difficults the reading. So, let's define a different symbol for the addition operation: "⊕", the symbol could be anything, I'm just suggesting something that's not quite common in use, anyway, let's see how this little change affects the reading:
 
   * x = +3 ⊕ -5 ⊕ +7
 
-Finally! It's completely clear now, in fact, if the exercise were a multiplication we wouldn't have any issues reading it, and that's because the symbol for multiplication is clear. In this example the ambiguity of the symbol only have two meanings, and each meaning was concrete on its own: one is a sign and the other one is an operation, but, when we defined a unique symbol for one specific meaning, the reading improved drastically our understanding of the exercise.
+Finally! It's completely clear now, in fact, if the exercise was a multiplication we wouldn't have any issues reading it, because there is an explicit and not ambigous symbol for multiplication. In this example the ambiguity of the "+" symbol have two meanings: sign and operation, and each meaning has a concrete definition but, once we defined a unique symbol "⊕" and "+" for each specific meaning "operation" and "sign" then, the reading improved drastically.
 
-The next example doesn't have a defined set of meanings, nor it has an specific one defined.
+The next example doesn't have a defined set of meanings, nor it has a specific one defined.
 
 #### Mother or not
 
@@ -49,7 +49,7 @@ Let's imagine there is a woman who is pregnant for the first time, now, let's an
 
   * Is she a mother because she is pregnant?
 
-The possible answers should be yes or no, but what usually happens is that people reconsider their knowledge of the word mother before answering anything. However, for purpose of exercise let's answer: no, and see what's next.
+The answers must be concretely "yes" or "no" but, what usually happens is that people reconsider their knowledge of the word mother before answering anything. However, for purposes of the exercise, let's answer: "no" and see what's next.
 
   * Is she a mother after the baby borns?
 
@@ -57,35 +57,37 @@ That may sound a bit convincing but, again, let's answer: no, just until we are 
 
   * If she gives the baby for adoption, is she still considered a mother?
 
-For this question people may involve emotions and intentions before answering but, the problem with that kind of answers is that clearly the word have a meaning depending on case, and that's not what we want. So, let's say: no, she is not a mother yet even if she gave birth a child.
+For this question people may involve emotions and intentions before answering but, the problem with that kind of answers is that clearly the word have a meaning depending on case, and that's not what we want. So, let's say "no", she is not a mother yet even if she gave birth a child.
 
   * If she has her baby and also adopts another one, is she a mother for both or just one of them?
 
-This situation is different, she is taking care of her baby and the baby of someone else. Personally, at this point I would say: yes, that's because I believe that a mother is the one who makes sure that her children are prepared to face the world by their own, also, I would add that the meaning of mother implies an affective relationship and there are much more things about it, but, I just wanted to let you know that I've got my own conception of the word "mother". If you have a different perspective it's perfectly fine, we are just exploring the issues of ambiguity.
+This situation is different, she is taking care of her baby and the baby of someone else. Personally, at this point I would say: "yes" under certain conditions. I believe that "mother" is the title of someone who makes sure that her children are prepared to face the world by their own, also, I would add that the meaning of mother implies an affective relationship and much more things on top of it but, I just wanted to let you know that I've got my own conception of the word "mother". If you have a different perspective it's perfectly fine, we are just exploring the issues of ambiguity.
 
-Now, let's imagine this woman lost her children, it could be during or after pregnancy.
+Now, let's imagine that this woman lost her children, it could be during or after pregnancy.
 
   * If she was called mother while pregnant, can she be still called mother?
 
-The explanation I used earlier would suggest that the answer is: no, and I agreed.
+The explanation I used earlier would suggest that the answer is "no" and I agreed with that.
 
-  * If not, is it possible to stop being a mother?
+  * If the answer is no then, Is it possible to stop being a mother?
 
 Sure it's possible, the first requirement for someone to be a mother is to have someone that calls her mother but, the second requirement is that she must act as a mother.
-Using the statement above, if we switch the word mother for cop, it's logically the same, you can call cop whoever you want but, the person must act as a cop so the word actually to make sense.
+If we switch the word mother for cop, it's logically the same, you can call cop whoever you want to but, the person must act as a cop so the word actually to make sense.
 
-Now, to solve this dilemma meanings, people have created some compound definitions to address the possible cases that a "mother" can face: adoptive mother, biological mother, putative mother, etc. The problem with these compound definitions is that the meaning of the single word "mother" is still vague. Also in practice, kids are taught to address their parent as mother, and that would be ok if we had a concrete definition for the same word. But, if biological mother is perfectly valid then, why don't we teach them to refer their parent as "biological mother" as a single idea instead of only using the ambiguous word "mother"? Maybe the answer is: kids don't need to learn all that complexity at that age.
+Now, to solve this dilemma of meanings you could say that we could use the etymology of each words, so we all have a concrete definition in our present date based on the origin of that particular word, however; if we use etymology in that way, we will end up falling into a trap called "etymological fallacy". The problem with this fallacy is that words have redefined their meaning according to society, an example of this could be the word "bug" which can be understood as a software problem, not only that but, also, words depend on language, and there are languages that doesn't have one-to-one translation.
+
+The solution we see nowadays for ambiguity is "compound definitions" as I call it. If we think of the mother example, we will find that we already have words we need in order to refer to any kind of mother: adoptive mother, biological mother, putative mother, etc. But, the problem with these compound definitions is that the meaning of the single word "mother" is still vague. Also in practice, kids are taught to address their parent as mother, and that would be ok if we had a concrete definition for the same word. But, if we consider that the words "biological mother" are perfectly valid to address a mother then, why don't we teach kids to refer their parent as "biological mother" as a single idea instead of, only using the ambiguous word "mother"? I think that maybe the answer is: kids don't need to learn all that complexity at that age.
 
 ### The problem of ambiguity
 
-Ambiguity is mostly discussed in philosophy and linguistic, and even today this is a broad topic to debate. The "mother" example looks similar to a common problem called "lexical ambiguity" but, in fact, it is slightly different. Lexical ambiguity means that: for any sentence, there could exist a word such that have multiple meanings; hence, the intentional meaning of the sentence could be misunderstood. However, most of the time the possible meanings of a word are not related, as in the case of the "operation or sign" example; the same symbol "+" have two meanings that are completely different so the ambiguity is easily solved by using the right meaning at the right time.
-On the other hand, the ambiguity of "mother" could be described as follows: for any sentence, there could exist a word such that have multiple meanings, and all these meanings share a lot of similarities in commom but still they can differ in certain cases, hence, the intentional meaning of the sentence could be partially understood. As opposed to "lexical ambiguity", this problem will lead you to believe that you understood something completely right, but reality is that you actually understood just a part of it.
+Ambiguity is mostly discussed in philosophy and linguistic, and even today this is a broad topic to debate. The "mother" example looks similar to a common problem called "lexical ambiguity" but, in fact, it is slightly different. Lexical ambiguity means that: for any sentence, there could exist a word such that have multiple meanings; hence, the intentional meaning of the sentence could be misunderstood. However, most of the time the possible meanings of a word are not related, as in the case of the "operation or sign" example; the symbol "+" have two meanings that are completely different: addition and sign; so the ambiguity is supposed to be easily solved by using the right meaning at the right time, which means that the meaning depend on the semantic context.
 
+On the other hand, the ambiguity of the word "mother" could be described as follows: for any sentence, there could exist a word such that have multiple meanings, and all these meanings share a lot of similarities in commom but, still they can differ in certain cases, hence, the intentional meaning of the sentence could be partially understood. As opposed to "lexical ambiguity", this problem will lead you to believe that you understood something completely right but, reality is that you actually understood just a part of it.
 Here is an example for you: if we think about the word "god", we will share some common meaning about this word, maybe we could agreed that a god must be at least more powerful than any human, but, at the same time, depending on what we believe we will have many additional or different definitions for the same word.
 
-The importance of ambiguity is that paradoxically speaking, it's thanks to this knowledge that we can clarify many other things based the procedence of its meaning, words such as love, good, perfection, etc. May have a different meaning depending on what you believe. So, for a motivational coach "happyness" may mean that you should accomplish your dreams, but, for a buddhist monk "happyness" has nothing to do with your dreams. So, even if both perspectives seems to aim the same goal, in the end they are different.
+The importance of ambiguity is that paradoxically speaking, it's thanks to this knowledge that we can clarify many other things based on the procedence of its meaning, words such as love, good, perfection, etc. May have a different meaning depending on what your belief system is, so; for a motivational coach "happyness" may mean that you should accomplish your dreams, but, for a buddhist monk "happyness" has nothing to do with your dreams. So, even if both perspectives seems to aim the same goal, in the end they are different.
 
-Let's define a rule that help us solve this kind of ambiguity: for each possible definition that we can find for a word, there must exist a set of definitions for more different words sharing the same perspective, with the only purpose of creating a system of meanings that will supposedly and ultimately make sense in our world view of reality. What I just said simply means: depending of what you believe, the use of your words may have a different definition, and the definitions of those words must make sense in the entire perspective.
+Let's define a rule that help us solve this kind of ambiguity: for each possible definition that we can find for a word, there must exist a set of definitions for more different words sharing the same perspective, with the only purpose of creating a system of meanings that will supposedly and ultimately make sense in our world view of reality. What I just said simply means: depending of what you believe, the use of your words may have a different definition, and the definitions of those words must be related and coherently connected in order to make sense in bigger perspective.
 
 If we consider the example about the motivational coach and the buddhist monk, we could take some notes on them:
 
@@ -93,21 +95,21 @@ If we consider the example about the motivational coach and the buddhist monk, w
   * Both share the same languange and words.
   * Both have a different set of definitions for the some of the same words.
 
-Remember this is a common problem. So, next time you talk with someone, make sure to be clear on what perspective you are using.
+Remember this is a common problem. So, next time you have a debate, make sure to be clear on what perspective you are using.
 
 ### A belief system is...
 
-Have you ever experienced that kind of situations where people is arguing over differences of meaning just because they have different perspectives? If your answer is yes then, congratulations! You have experienced the problems of belief systems!
+If you experienced that kind of situations where people is arguing over differences of meaning just because they have different perspectives then, congratulations! You have experienced the problems of belief systems!
 Anyway, this concept is still unclear. So, let's split this "belief system" phrase so we can understand what each word means on its own.
 
-  * Belief is the act of being convinced that something is true because we think of it as real.
-  * System is the group of patterns working together, in a certain order and for a common goal.
+  * Belief is the act of being convinced that something is true.
+  * System is the group of patterns working together in a certain order.
 
-Here is an example about belief: there is knowledge we don't believe like peter pan or narnia, and there is knowledge that believe like the string theory or God created the world. Perhaps, the defitions might be not enough, so let's explore more of them individually.
+A not about belief, all beliefs are knowledge but knowledge itself is not true or false, in fact; there is knowledge we don't believe like "peter pan" or "narnia" but, maybe kids do believe in this, and, there is knowledge that we believe like "the string theory" or "God created the world". Let's explore more of these concepts.
 
 ### If you can sense it then, it should be real
 
-Our senses are our first contact with reality; the mere sensation of touch is good enough to help us understand that we are not isolated and alone, like inside a bubble away from everyone, floating without any direction into the deep space. So, when we say we believe of something, the first notion of belief comes thanks to our perceptions. We are usually convinced that something truly exists just because we have had some kind of experience with that before.
+Our senses are our first contact with reality; the mere sensation of touch is good enough to help us understand that we are not isolated and alone, like inside a bubble, floating without any direction into the deep space, away from everyone. So, when we say we believe in something, the first notion of belief comes thanks to our perceptions. We are usually convinced that something truly exists just because we have had some kind of experience with that before.
 
 There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_ or you could say _"Perceiving reality through our senses"_. It's important to understand that this is the most basic way to gain knowledge; even if we aren't able to communicate to each other we can still learn things by ourselves thanks to these basic senses.
 
@@ -123,7 +125,7 @@ If we consider ourselves as babies, we'll notice that we trusted our senses even
 
 Let's imagine that I'm walking through the forest and see some strange fruit for the first time, it looks good on the outside and it smells sweet. Next, let's say I dare to have a test of the fruit, and it's simply delicious. Ok, let's stop just right there, in that precise moment I'm not certain how can that fruit affect my health, and that's the kind of information that we can get through consiousness. If the fruit were to be poisonous it'll probably be too late to do anything but, if I were to research before acting the results were different.
 
-Again, sense perception will always be the first interface to help us associate reality but, we can't simply say we believe of something just because we can perceive it with our basic senses, there are situations that requires more than just basic perception, such situations depend mostly on consciousness.
+Again, sense perception will always be the first interface to help us associate reality but, we can't simply say we believe in something just because we can perceive it with our basic senses, there are situations that requires more than just basic perception, such situations depend mostly on consciousness.
 
 ### When does something becomes real?
 
