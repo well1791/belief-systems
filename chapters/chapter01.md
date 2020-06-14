@@ -1,49 +1,49 @@
-## What is “belief system”?
+## What is a belief system?
 
-Let's imagine we're talking about politics, relationships, travels and so on but, while we are talking, you notice that I use some words in a strange way, maybe words like: existence, morality, love, hapiness, etc. After a few minutes of conversation, it seems that the meaning of those words are quite the same to what you already know but, at the same time you know it's not exactly the same, instead, you could say it's quite different. This is clearly a case of uncertainty, so, at this point of the conversation you should ask yourself at least one of these questions:
+Let's imagine we're talking about politics, relationships, travels, and so on but, while we are talking, you notice that I use some words in a strange way, maybe words like existence, morality, love, happiness, etc. After a few minutes of conversation, it seems that the meaning of those words is quite the same as what you already know but, at the same time you know it's not the same, instead, you could say it's quite different. This is a case of uncertainty, so, at this point in the conversation you should ask yourself at least one of these questions:
 
   * Are you understanding exactly what I'm trying to explain?
   * About the differences of meaning on words. How much can they change the intentional meaning of the entire conversation?
   * Would it be right if you explore the uncertainty of the meaning just by listening?
   * Should you ask for a concrete definition for any of the words that you notice aren't exactly what you think you know?
 
-That is the kind of problems you get thanks to ambiguity but, let me share a couple more of examples so you see to what extend this kind of issues are common.
+That is the kind of problem you get thanks to ambiguity but, let me share a couple more examples so you see to what extent this kind of issue is common.
 
 #### Operation or Sign
 
 We know these rules of mathematics are true:
 
-  * All real numbers can be either positive or negative, or zero.
-  * Addition is an operation that depend on two numbers.
+  * All real numbers can be either positive or negative or zero.
+  * Addition is an operation that depends on two numbers.
 
-But, here is the catch, we use the symbol "+" to denote both: the positive sign and the addition operation. Believe it or not, both words: sign and operation; mean two different things and yet somehow we use them in the same sentence as if they were the same without any apparent problem. However, the case here is that there is an ambiguity, so let's see an example:
+But, here is the catch, we use the symbol "+" to denote both: the positive sign and the addition operation. Believe it or not, both words: sign and operation; mean two different things, and yet somehow we use them in the same sentence as if they were the same without any apparent problem. However, the case here is that there is an ambiguity, so let's see an example:
 
   * x = 2 + 4
 
 And answer this question: The symbol "+" is a sign or an operation?
 
-Ok, that was an easy one, it clearly is an operation. Let's change things a little bit:
+Ok, that was an easy one, it is an operation. Let's change things a little bit:
 
   * x = 3 - 5 + 7
 
-Here is the question: Which symbol is a sign and which one is an operation? This time the answer might be not so clear, unless you already know how to deal with this kind of situations of course. However, if you need to explain this case to someone who is learning maths for the first time, it could be quite difficult. Let's see if we can apply the rules that we have defined already to help us solve this problem.
+Here is the question: Which symbol is a sign and which one is an operation? This time the answer might be not so clear unless you already know how to deal with this kind of situation of course. However, if you need to explain this case to someone who is learning maths for the first time, it could be quite difficult. Let's see if we can apply the rules that we have defined already to help us solve this problem.
 
   * If all real numbers but zero can be either positive or negative then, all numbers but zero have a sign, therefore; real numbers can be written with their respective sign as one single entity.
-  * If addition is an operation that depend on two numbers, and the set of numbers includes the set of real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
+  * If the addition is an operation that depends on two numbers, and the set of numbers includes the set of real numbers, and real numbers can be written with their respective sign then, the arguments for the addition operation can be written with their respective sign.
 
 The propositions above means that it's perfectly valid to write the exercise like this:
 
   * x = +3 + -5 + +7
 
-In fact you could write this in a calculator and you would get the right result. Also, just to clarify, we are using the "+" symbol to express explicitly both the sign and the operation but, as you may have noticed, the mix of symbols between signs and operations difficults the reading. So, let's define a different symbol for the addition operation: "⊕", the symbol could be anything, I'm just suggesting something that's not quite common in use, anyway, let's see how this little change affects the reading:
+You could write this in a calculator and you would get the right result. Also, just to clarify, we are using the "+" symbol to express explicitly both the sign and the operation but, as you may have noticed, the mix of symbols between signs and operations difficult the reading. So, let's define a different symbol for the addition operation: "⊕", the symbol could be anything, I'm just suggesting something that's not quite common in use, anyway, let's see how this little change affects the reading:
 
   * x = +3 ⊕ -5 ⊕ +7
 
-Finally! It's completely clear now, in fact, if the exercise was a multiplication we wouldn't have any issues reading it, because there is an explicit and not ambigous symbol for multiplication:
+Finally! It's completely clear now, in fact, if the exercise was a multiplication we wouldn't have any issues reading it because there is an explicit and not ambiguous symbol for multiplication:
 
   * x = +3 * -5 * +7
 
-In this entire example, the ambiguity of the "+" symbol have two meanings: sign and operation, and each meaning has a concrete definition but, once we defined a unique symbol "⊕" and "+" for "operation" and "sign" respectively then, the reading improved drastically.
+In this entire example, the ambiguity of the "+" symbol has two meanings: sign and operation, and each meaning have a concrete definition but, once we defined a unique symbol "⊕" and "+" for "operation" and "sign" respectively then, the reading improved drastically.
 
 The next example doesn't have a defined set of meanings, nor it has a specific one defined.
 
@@ -53,134 +53,134 @@ Let's imagine there is a woman who is pregnant for the first time, now, let's an
 
   * Is she a mother because she is pregnant?
 
-The answer must be concretely "yes" or "no" but, what usually happens is that people reconsider their knowledge of the word mother before answering anything. However, for purposes of the exercise, let's answer: "no" and see what's next.
+The answer must be concrete "yes" or "no" but, what usually happens is that people reconsider their knowledge of the word mother before answering anything, that demonstrates the ambiguity of such word. However, for purposes of the exercise, let's answer: "no" and see what's next.
 
   * Is she a mother after the baby borns?
 
-That may sound a bit convincing but, again, let's answer: no, just until we are forced to change to yes.
+That may sound a bit convincing but, again, let's answer no, just until we are forced to change to yes.
 
   * If she gives the baby for adoption, is she still considered a mother?
 
-For this question people may involve emotions and intentions before answering but, the problem with that kind of answers is that clearly the word now have a meaning depending on the case: emotions and/or intentions, and that's not what we want, we want a word that keeps its meaning regardless of the case. So, let's say "no", she is not a mother yet even if she gave birth a child.
+For this question people may involve emotions and intentions before answering but, the problem with that kind of answers is that the word now has a meaning depending on the case: emotions and/or intentions, and that's not what we want, we want a word that keeps its meaning regardless of the case. So, let's say no, she is not a mother yet even if she gave birth to a child.
 
   * If she has her baby and also adopts another one, is she a mother for both or just one of them?
 
-This situation is different, she is taking care of her baby and the baby of someone else. Personally, at this point I would say that yes, she is a mother for both but, under certain conditions. I believe that "mother" is the title of someone who makes sure that her children are prepared to face the world by their own, also, I would add that the meaning of mother implies an affective relationship and much more things on top of it but, I just wanted to let you know that I've got my own definition of the word "mother" which you may agreed or not. So, If you have a different perspective it's perfectly fine, we are just exploring the issues of ambiguity.
+This situation is different, she is taking care of her baby and the baby of someone else. Personally, at this point, I would say yes, she is a mother for both but, under certain conditions. I believe that "mother" is the title of someone who makes sure that her children are prepared to face the world by their own, also, I would add that the meaning of mother implies an affective relationship and much more things on top of it but, I just wanted to let you know that I've got my definition of the word "mother" which you may agree or not. So, If you have a different perspective it's perfectly fine, we are just exploring the issues of ambiguity.
 
-Now, let's imagine that this woman lost her children, it could be during or after pregnancy and now has no kids to take care of.
+Now, let's imagine that this woman lost her children, it could be during or after pregnancy and now she has no children to take care of.
 
   * If she was called mother while pregnant, can she be still called mother?
 
-The explanation I used earlier would suggest that the answer is "no" because now there's no children to take care of, and I agreed with that.
+The explanation I used earlier would suggest that the answer is "no" because now there are no children to take care of, and I agreed with that.
 
   * If the answer is no then, Is it possible to stop being a mother?
 
 Sure it's possible, the first requirement for someone to be a mother is to have someone that calls her mother but, the second requirement is that she must act as a mother.
-If we switch the word mother to friend, it's logically the same, you can call friend whoever you want to but, the person must act as a friend so the word actually to make sense. Personally, I think that we could apply the same principle for any title: cop, president, senator, etc; regardless of its legal implication.
+If we switch the word "mother" for "friend", it's logically the same, you can call a friend whoever you want to but, the person must act as a friend so the word makes sense. I think that we could apply the same principle for any title: cop, president, teacher, etc; regardless of its legal implication.
 
-Now, to solve this dilemma of meanings you could say that we could use the etymology of words, so we all have a concrete definition in our present date based on the origin of each particular word, however; if we use etymology in that way, we will end up falling into a trap called "etymological fallacy". The problem with this fallacy is that nowadays words have redefined their meaning according to society, culture, and many other variables, an example of this could be the use of the word "bug"; which up to date can be understood as an insect and as a software problem. The problem is bigger if we consider that there are languages that doesn't have an equivalent word by word translation.
+Now, to solve this dilemma of meanings you could say that we could use the etymology of words, so we all have a concrete definition in our present date based on the origin of each particular word, however; if we use etymology in that way, we will end up falling into a trap called "etymological fallacy". The problem with this fallacy is that nowadays words have redefined their meaning according to society, culture, and many other variables, an example of this could be the use of the word "bug"; which up to date can be understood as an insect and as a software problem. The problem is bigger if we consider that there are languages that don't have an equivalent word by word translation.
 
-In any case, in our present day; the solutions we see for ambiguity is "compound definitions" as I call it. If we think of the mother example, we will find that we already have a set of words in order to refer to a mother for each possible case: adoptive mother, biological mother, putative mother, etc. But, the problem with these compound definitions is that the meaning of the single word "mother" is still vague. Also in practice, kids are taught to address their parent as mother, and that would be ok if we had a concrete definition for the same word. But, if we consider that the words "biological mother" are perfectly valid to address a mother then, why don't we teach kids to refer their parent as "biological mother" as a concrete idea instead of, only using the ambiguous word "mother"? I think that maybe the answer is: kids don't need to learn all that complexity at that age.
+In any case, in our present-day; the solutions we see for ambiguity are "compound definitions" as I call it. If we think of the mother example, we will find that we already have a set of words to refer to a mother for each possible case: adoptive mother, biological mother, putative mother, etc. But, the problem with these compound definitions is that the meaning of the single word "mother" is still vague. Also in practice, kids are taught to address their parents as mothers, and that would be ok if we had a concrete definition for the same word. But, if we consider that the words "biological mother" are perfectly valid to address a mother then, why don't we teach kids to refer their parent as "biological mother" as a concrete idea instead of, only using the ambiguous word "mother"? I think that maybe the answer is: kids don't need to learn all that complexity at that age.
 
 ### The problem of ambiguity
 
-Ambiguity means that a single word can have multiple meanings, the solution to this issue is mostly discussed in linguistic and philosophy, and I would say that even outside those fields this is a broad topic to debate. However, my goal is to, to recognize ambiguity and use it properly.
+Ambiguity means that a single word can have multiple meanings, the solution to this issue is mostly discussed in linguistic and philosophy, and I would say that even outside those fields this is a broad topic to debate. However, my goal is to be able to recognize ambiguity and use it properly.
 
-The "mother" example may look similar to a problem called "lexical ambiguity" but, in fact, it is different. Lexical ambiguity means that: for any sentence, there could exist a word such that have multiple meanings; hence, the intentional meaning of the sentence could be misunderstood. However, most of the time the possible meanings of a word are not related, as in the case of the "operation or sign" example; the symbol "+" have two meanings that are completely different: addition and sign; so the ambiguity is supposed to be easily solved by using the right meaning at the right time, that means that most of the time, the meaning of a word depends on the semantic context.
+The "mother" example may look similar to a problem called "lexical ambiguity" but it is different. Lexical ambiguity means that: for any sentence, there could exist a word such that have multiple meanings; hence, the intentional meaning of the sentence could be misunderstood. However, most of the time the possible meanings of a word are not related, as in the case of the "operation or sign" example; the symbol "+" has two meanings that are completely different: addition and sign; so the ambiguity is supposed to be easily solved by using the right meaning at the right time, that means that most of the time, the meaning of a word depends on the semantic context.
 
-On the other hand, the ambiguity of the word "mother" could be described as follows: for any sentence, there could exist a word such that have multiple meanings, and all these meanings share a lot of similarities in commom but, still they can differ in certain cases, hence, the intentional meaning of the sentence could be partially understood. As opposed to "lexical ambiguity", this problem will lead you to believe that you understood something completely right but, reality is that you actually understood just a part of it.
+On the other hand, the ambiguity of the word "mother" could be described as follows: for any sentence, there could exist a word such that have multiple meanings, and all these meanings share a lot of similarities in common but, still, they can differ in certain cases, hence, the intentional meaning of the sentence could be partially understood. As opposed to "lexical ambiguity", this problem will lead you to believe that you understood something completely right but, the reality is that you understood just a part of it.
 
-The importance of ambiguity is that paradoxically speaking, it's thanks to this knowledge that we can clarify many other things based on the procedence of its meaning, words such as love, good, perfection, etc. May have a different meaning depending on what your belief system is.
-Here is an example: for a motivational coach "happyness" may mean that you should accomplish your dreams and ambitions, but maybe, for a buddhist monk "happyness" has nothing to do with your dreams or ambitions. So, even if both perspectives seems to aim the same goal, the pathways to achieve it are different. That means that due to the lack of this knowledge of the pathways we are prone to understand things partially.
+The importance of ambiguity is that paradoxically speaking, it's thanks to this knowledge that we can clarify many other things based on the source of its meaning, words such as love, good, perfection, etc. May have a different meaning depending on what your belief system is.
+Here is an example: for a motivational coach "happiness" may mean that you should accomplish your dreams and ambitions, but maybe, for a Buddhist monk "happiness" has nothing to do with your dreams or ambitions. So, even if both perspectives seem to aim the same goal, the pathways to achieve it are different. That means that due to the lack of this knowledge of the pathways we are prone to understand things partially.
 
-Let's define a rule that help us solve this kind of ambiguity: for each possible definition that we can find for a word, there must exist a set of definitions for more different words sharing the same perspective, with the only purpose of creating a system of meanings that will supposedly and ultimately make sense in our world view of reality. What I just said simply means: depending of what you believe, the use of your words may have a different definition, and the definitions of those words must be related and coherently connected to each other in order to make sense in our bigger and wider perspective of reality.
+Let's define a rule that helps us solve this kind of ambiguity: for each possible definition that we can find for a word, there must exist a set of definitions for more different words sharing the same perspective, with the only purpose of creating a system of meanings that will supposedly and ultimately make sense in our world view of reality. What I just said simply means: depending on what you believe, the use of your words may have a different definition, and the definitions of those words must be related and coherently connected to make sense in our bigger and wider perspective of reality.
 
-If we consider the example about the motivational coach and the buddhist monk, we could take some notes on them:
+If we consider the example of the motivational coach and the Buddhist monk, we could take some notes on them:
 
   * Both have a different world view of reality.
-  * Both share the same languange and words.
-  * Both have a different set of definitions for the some of the same words.
+  * Both share the same language and words.
+  * Both have a different set of definitions for some of the same words.
 
 Remember this is a common problem. So, next time you have a debate, make sure to be clear on what perspective you are using.
 
 ### A belief system is...
 
-If you have experienced that kind of situations where people is arguing over differences of meaning just because they have different perspectives then, congratulations! You have experienced the problems of belief systems!
+If you have experienced that kind of situation where people are arguing over differences of meaning just because they have different perspectives then, congratulations! You have experienced the problems of belief systems!
 Anyway, this concept is still unclear. So, let's split this "belief system" phrase so we can understand what each word means on its own.
 
   * Belief is the act of being convinced that something is true.
   * System is the group of patterns working together in a certain order.
 
-Here is a note about belief. Any belief is knowledge but, not the other way around; this means we can know a lot of things but it doesn't mean that we believe in all the things we know. There is knowledge that most adults don't believe like the existence of "peter pan" or "narnia", and there is knowledge that most adults believe like "capitalism" or "socialism". This also implies that no matter how much you can force someone to believe in something, even if that person says to believe it, if that person is not convinced that such thing is true then there is no belief, just knowledge.
+Here is a note about belief. Any belief is knowledge but, not the other way around; this means we can know a lot of things but it doesn't mean that we believe in all the things we know. There is the knowledge that most adults don't believe; as the existence of "peter pan" or "Narnia", and there is the knowledge that most adults do believe; as "capitalism" or "socialism". This also implies that no matter how much you can force someone to believe in something, even if that person says to believe in it, if that person is not convinced that such thing is true then there is no belief, just knowledge.
 
 ### If you can sense it then, it should be real
 
 Our senses are our first contact with reality; the mere sensation of touch is good enough to help us understand that we are not isolated and alone, like inside a bubble floating away without any direction into the deep space. So, when we say we believe in something, the first notion of belief comes thanks to our perceptions. We are usually convinced that something truly exists just because we have had some kind of prior experience with that.
 
-There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_ or you could say _"Perceiving reality through our senses"_. It's important to understand that this is the most basic way to gain knowledge. Here is an hipotetical idea; even if we aren't able to communicate to each other we can still learn things by ourselves thanks to our basic senses.
+There are multiple and different ways to perceive things, but I want you to focus on the most basic one: _"Sense Perception"_ or you could say "Perceiving reality through our senses". It's important to understand that this is the most basic way to gain knowledge. Here is a hypothetical idea; even if we aren't able to communicate with each other we can still learn things by ourselves thanks to our basic senses.
 
-Just think about it, if you can't perceive anything, then how would you even know anything? It is a fact that we need our eyes to perceive colors, depth, shadow, recognize letters, etc; we need the sensation of touch to perceive the things that get in our way, temperature, texture, flow of air, etc; we need taste to recognize flavors that might be dangerous in large quantities like salt, among other things; we need smell to identify quickly when something is burning; I think hear is obvious at this point so let's stop here.
+Just think about it, if you can't perceive anything, then how would you even know anything? It is a fact that we need "sight" to perceive colors, depth, shadow, recognize letters, etc; we need the sensation of "touch" to perceive the things that get in our way, temperature, texture, the flow of air, etc; we need "taste" to recognize flavors that might be dangerous in large quantities like salt, among other things; we need "smell" to identify quickly when something is burning; I think hearing is obvious at this point so let's stop here.
 
 Sense perception is the interface that defines most of our reality, here is an example: if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is a natural warning from your body to alert you to avoid going outside without a good coat. So, the example implies that we associate some notions of good and bad based on pleasant and unpleasant feelings respectively. But, if we only stick with this idea we would be pretty much like animals, and we know that this is not the case. Anyway, as always we must ask some questions before jumping into conclusions:
 
   * Can I believe entirely in my senses?
-  * Does everyone around me actually feel the same way as I feel?
+  * Does everyone around me feel the same way as I feel?
   * Is this cold real or is it a wrong perception of my body?
 
-If we consider ourselves as babies, we'll notice that we trusted our senses even before we were able to develop any kind of complex thought. So, the first attempt to answer will probably be: _"Yes! If you can sense then, it should be real!"_ but, Would you trust your senses if you're under the effects of some kind of drug? We know the answer for that but, again, Would you trust your senses if you're not under any drug effects, I mean; completely sober?
+If we consider ourselves as babies, we'll notice that we trusted our senses even before we were able to develop any kind of complex thought. So, the first attempt to answer will probably be _"Yes! If you can sense then, it should be real!"_ but, Would you trust your senses if you're under the effects of some kind of drug? We know the answer for that but, again, Would you trust your senses if you're not under any drug effects, I mean; completely sober?
 
-Let's imagine that I'm walking through the forest and I see some strange fruit for the first time, it looks good on the outside and it smells sweet. Next, let's say I dare to have a test of the fruit and it's simply delicious. Ok, let's stop just right there, in that precise moment I'm not certain how can that fruit affect my health, and that's the kind of information that we can get through consiousness. If the fruit were to be poisonous it'll probably be too late to do anything but, if I had the chance to research things before acting the results would be different.
+Let's imagine that I'm walking through the forest and I see some strange fruit for the first time, it looks good on the outside and it smells sweet. Next, let's say I dare to have a test of the fruit and it's simply delicious. Ok, let's stop just right there, in that precise moment I'm not certain how can that fruit affect my health, and that's the kind of information that we can get through consciousness. If the fruit were to be poisonous it'll probably be too late to do anything but, if I had the chance to research things before acting the results would be different.
 
-Again, sense perception will always be the first interface to help us associate reality but, we can't simply say we believe in something just because we can perceive it with our basic senses, there are situations that requires more than just basic perception, such situations depend mostly on consciousness.
+Again, sense perception will always be the first interface to help us associate reality but, we can't simply say we believe in something just because we can perceive it with our basic senses, some situations require more than just basic perception, such situations depend mostly on consciousness.
 
-### When does something becomes real?
+### When do something becomes real?
 
-*True* and *False* are values of truth, they both play an important role in our communication to the point that somehow we can associate _"yes"_ and _"no"_ with _"true"_ and _"false"_ respectively as words closely related but not entirely equal. When we think about the word _"reality"_ it happens something similar in our mind, we associate _"real"_ with _"truthness"_ as well as _"unreal"_ with _"falseness"_ but, can reality be false?
+*True* and *False* are values of truth, they both play an important role in our communication to the point that somehow we can associate "yes" and "no" with "true" and "false" respectively as words closely related but not entirely equal. When we think about the word _"reality"_ it happens something similar in our mind, we associate _"real"_ with _"truthness"_ as well as _"unreal"_ with _"falseness"_ but, can reality be false?
 
-Let's start with what "unreal" or "fake" is, consider this example; when we know that some product is being illegally duplicated to be identical to another; we may be able to idenfity if such product is fake or not based on some conditions. Here, the definition of real as well as fake is based on certain specific knowledge, and this knowledge could be adquired in many different ways including sense perception but, the way we identify its fakeness is entirely based on the preexistence of something that we already consider is real. We can't think of something that is unreal if there's nothing real first. If you think about fantasy or fictional character as examples, even these kind of creations are founded on reality.
+Let's start with what "unreal" or "fake" is, consider this example; when we know that some product is being illegally duplicated to be identical to another; we may be able to identify if such product is fake or not based on some conditions. Here, the definition of real as well as fake is based on certain specific knowledge, and this knowledge could be acquired in many different ways including sense perception but, the way we identify its fakeness is entirely based on the preexistence of something that we already consider is real. We can't think of something unreal if there's nothing real first. If you think about fantasy or fictional character as examples, even these kind of creations is founded on reality.
 
-Now, regarding real things think about this, language and mathematics are both real systems, we perceive these realities with our eyes, we see the shape of numbers and letters, we practice enough until we memorize them then, we are able to recognize these systems but, At what point did we start to think of these systems as real?
+Now, regarding real things think about this, language and mathematics are both real systems, we perceive these realities with our eyes, we see the shape of numbers and letters, we practice enough until we memorize them then, we can recognize these systems but, At what point did we start to think of these systems as real?
 
-Interaction is the key word, and interaction starts with perception. When we perceive something for the first time, at first it's just a one way interaction, and that's because at first we are just mere receptors, example: we are just seeing or maybe feeling something. What happens next is that, usually our mind tries to response to any perception we receive by sending signals towards the direction where we are perceiving such things then, we learn the responses we receive and finally we develop a mental map; which in order words is a set of patterns based on our interactions, or you could say, what we learn is an expectation based on a prior association between sending and receiving signals. Our process of learning involves this case: if we get some response different to what we expect, we start the process of learning all over again until we find at least some minimal detail that could help us reproduce the pattern we need in order to interact. This concept is based on my own experience, so maybe, this process does not apply to all cases but I consider that it's fundamental for almost all kind of learning processes and interactions.
+Interaction is the keyword, and interaction starts with perception. When we perceive something for the first time, at first it's just a one way interaction, and that's because at first, we are just mere receptors, for example, we are just seeing or maybe feeling something. What happens next is that, usually our mind tries to respond to any perception we receive by sending signals towards the direction where we are perceiving such things then, we learn the responses we receive and finally we develop a mental map; which in order words is a set of patterns based on our interactions, or you could say, what we learn is an expectation based on a prior association between sending and receiving signals. Our process of learning involves this case: if we get some response different to what we expect, we start the process of learning all over again until we find at least some minimal detail that could help us reproduce the pattern we need to interact. This concept is based on my own experience, so maybe, this process does not apply to all cases but I consider that it's fundamental for almost all kinds of learning processes and interactions.
 
 So, I think that when we learn any system, our repeated interactions generate a conviction of that system. But, there is a way to test if the system learned by any person is a real system or not based on interaction. Here's the description of the test: If two people say to understand the same system then, they should be able to interact by only using that particular system. If that's true then, both should come up with the same responses, these responses must be expected to be valid based on the system they are using, only then, the understanding of that system is considered to be real. Now, this explanation also implies a few other things:
 
-  * If at least two people can interact using a particular system then, we say such interaction is systematic; which means: there are rules and patterns to learn in order to interact.
-  * If at least two people can understand a particular system then: it's communicable and replicable; which means: it doesn't depend on a unique personal experience but, instead, the experience can be shared and reproduced multiple times.
+  * If at least two people can interact using a particular system then, we say such interaction is systematic; which means: there are rules and patterns to learn to interact.
+  * If at least two people can understand a particular system then: it's communicable and replicable; which means: it doesn't depend on uniquely personal experience but, instead, the experience can be shared and reproduced multiple times.
 
-Based on the statements above, if both are true then, the system is real and valid. But, before you continue let me clarify what "real" means here; it's real if it exists for at least two people other than one's self. Saying that something is real doesn't implies that it must be valid, it could be perfectly invalid and still real. So the possibilities of existence for any system are these:
+Based on the statements above, if both are true then, the system is real and valid. But, before you continue let me clarify what "real" means here; it's real if it exists for at least two people other than one's self. Saying that something is real doesn't imply that it must be valid, it could be perfectly invalid and still real. So the possibilities of existence for any system are these:
 
-  * An unreal and valid system, example: board games, sci-fi movies, fantansy novels, etc.
+  * An unreal and valid system, for example, board games, sci-fi movies, fantasy novels, etc.
   * An unreal and invalid system, example: the forbidden language of this book fairies, a map from Ecuador to the elves land.
   * A real and valid system, example: capitalism, physics, programming, etc.
   * A real and invalid system, example: someone speaking gibberish, or playing dungeons and dragons in a wrong way.
 
-Here's an example: you're a mathematician and you meet another mathematician but you both don't speak the same language. So, you write a lot of mathematical equations for him to solve them, this person solves them all, after that, you verify that his answers match yours. The amount of equations are supposed to help us reduce the chances of coincidence, so our expectation should be that he must to solve all exercises correctly. Let's analyse the all possible results of the example above; for this we must consider that there are no coindences due to the amount of exercises.
+Here's an example: you're a mathematician and you meet another mathematician but you both don't speak the same language. So, you write a lot of mathematical equations for him to solve them, this person solves them all, after that, you verify that his answers match yours. The number of equations is supposed to help us reduce the chances of coincidence, so our expectation should be that he must solve all exercises correctly. Let's analyze all the possible results of the example above; for this, we must consider that there are no coincidences due to the number of exercises.
 
   * If he doesn't write anything at all, or, if all answers are completely different then, one of the systems must be false.
   * If both answers are completely the same then, we can conclude that they can understand the same system, therefore; the system is real and valid.
   * If there is at least one answer different then, one of the systems is real but invalid.
 
-Anyway, there seems to be a field that is outside of any logical method. History has recorded information of people experiencing different kind of mysteries that cannot be reproduced anymore in order to be comprehended, things that cannot be experienced by anyone except by one's self, and yet there is people who is willing to think of these testimonies as true. At this point you may be tempted to think that most religious beliefs fall into this category but, the idea of this book is to give you a broader view of this kind of beliefs and help you assess each of these belief systems, before jumping into conclusions.
+Anyway, there seems to be a field that is outside of any logical method. History has recorded information of people experiencing different kinds of mysteries that cannot be reproduced anymore to be comprehended, things that cannot be experienced by anyone except by one's self, and yet some people are willing to think of these testimonies as true. At this point you may be tempted to think that most religious beliefs fall into this category but, the idea of this book is to give you a broader view of this kind of belief and help you assess each of these belief systems, before jumping into conclusions.
 
 ### Being part of the system
 
-One thing that amazes me, it's our implicit conscious about the systems that surround us. Systems are easy to identify and yet we are completely unaware of them, most of the time we just act without even noticing them. Let's do a mental exercise just right here, stop reading for a few seconds and think about all the systems that have been already mentioned in this chapter.
+One thing that amazes me, it's our implicit consciousness about the systems that surround us. Systems are easy to identify and yet we are completely unaware of them, most of the time we just act without even noticing them. Let's do a mental exercise just right here, stop reading for a few seconds, and think about all the systems that have been already mentioned in this chapter.
 
 Ready?
 
-They are a lot right? Also, if you think about them a bit further, you will find that pretty much everything we know somehow repeats a cicle and we all somehow interact with all these cicles without fully understanding them; examples are: the rain, eating and sleeping, the sunset and sunrise, numbers, and so on.
+They are a lot, right? Also, if you think about them a bit further, you will find that pretty much everything we know somehow repeats a cycle and we all somehow interact with all these cycles without fully understanding them; examples are the rain, eating and sleeping, the sunset and sunrise, numbers, and so on.
 
-The statement above implies that in every one's reality we can be part of a system without even knowing about it, the example is clear if we think about nature or a kidnapping. But, this also rise the next question: Systems are discovered or invented? Well, on one hand the solar system wasn't actually invented, we just translated that knowledge to our language and that's how we understand and recognize the solar system nowadays but, on the other hand, the way a car works wasn't actually out there waiting to be discovered, instead, there was some planification and trials before someone gets with a valid formula. So, I think it's perfectly valid to say that systems are discovered and invented.
+The statement above implies that in everyone's reality we can be part of a system without even knowing about it, the example is clear if we think about nature or a kidnapping. But, this also raises the next question: Systems are discovered or invented? Well, on one hand, the solar system wasn't invented, we just translated that knowledge to our language and that's how we understand and recognize the solar system nowadays but, on the other hand, the way the car works wasn't out there waiting to be discovered, instead, there was some planning and trials before someone gets with a valid formula. So, I think it's perfectly valid to say that systems are discovered and invented.
 
-The idea of a _"system"_ implicitly describes a set of rules, conditions, processes, decisions, etc... But, there's a process that all systems share in common:
+The idea of a "system" implicitly describes a set of rules, conditions, processes, decisions, etc... But, there's a process that all systems share in common:
 
-  * All systems started as ideas wether they were invented or not.
+  * All systems started as ideas whether they were invented or not.
   * Ideas were shared through communication.
   * Communication is only possible through perception.
 
-Something interesting about systems is that, if you dare to push a single change in an existing system, depending on the change it may affect dramatically a lot more systems. Just imagine what would happen if we remove a couple of letters from the alphabet? It would trigger a lot of changes across all existing documents written in that particular language, and by documents I mean everything that we can use to write and read characters or symbols; things like paper, software, stones, etc.
-That just demonstrates the fact that, most of the systems we learn are built on top of multiple other systems; like a hospital which depends on specialized doctors but also, the building requires designers, architects, constructors, and all of them depend on communication.
+Something interesting about systems is that, if you dare to push a single change in an existing system, depending on the change it may affect dramatically a lot more systems. Just imagine what would happen if we remove a couple of letters from the alphabet? It would trigger a lot of changes across all existing documents written in that particular language, and by documents, I mean everything that we can use to write and read characters or symbols; things like paper, software, stones, etc.
+That just demonstrates the fact that most of the systems we learn are built on top of multiple other systems; like a hospital that depends on specialized doctors but also, the building requires designers, architects, constructors, and all of them depend on communication.
 
 ### Conclusion
 
@@ -192,13 +192,13 @@ Let's recap a bit about the content of this chapter:
   * We can be part of a system without eve knowing about it.
   * Systems could be built one upon another.
 
-Next, let's connect the dots. We depend on our perceptions in order to associate reality, now it's thanks to perception that we can discover existing systems, also, if we were to create a new system, it's thanks to perception that we can share information through communication. But, the problem of communication may involve ambiguity, for those cases it's important to assess if we're understanding what the sender is intentionally trying to transmit. Now, assuming that we were understading correctly then, we could test that knowledge using interaction based on the expected results that the same knowledge propose as valid. If we don't assess our knowledge we could fall into the trap of believing things that real but invalid or worse, believe things that are not real.
+Next, let's connect the dots. We depend on our perceptions to associate reality, now it's thanks to "perception" that we can discover existing systems, also, if we were to create a new system, it's thanks to "perception" too that we can communicate with each other. But, the problem of communication may involve ambiguity, for those cases, it's important to assess if we're understanding what the sender is intentionally trying to transmit. Now, assuming that we were understanding correctly then, we could test that knowledge using interaction based on the expected results that the same knowledge proposes as valid. If we don't assess our knowledge we could fall into the trap of believing things that could be real but invalid, or even worse believe in unreal things.
 
 > A belief system is a systematic set of beliefs that defines a world view of reality.
 
-Before we close this chapter, here is a question for you. Have you ever tought what would happen if you take two words from two different belief systems and use them together without realizing it? Think of the answer as trying to mix oil and water, it simple won't make sense. This is what happens most of the times when two people have a debate from different perspectives, both assume the same definitions of words for both sides and that is a bad assumption. My observation on this matter is that, if two belief systems overlaps in definitions, we must always stick to one belief system entirely and reject the other, otherwise, we will end up with a broken belief system; which means: a broken world view of reality.
+Before we close this chapter, here is a question for you. Have you ever thought about what would happen if you take two words from two different belief systems and use them together without realizing it? Think of the answer as the result of trying to mix oil and water, it simply won't make sense. This is what happens most of the time when two people have a debate from different perspectives, both assume the same definitions of words for both sides and that is a bad assumption. My observation on this matter is that, if two belief systems overlap in definitions, we must always stick entirely to one belief system and reject the other, otherwise, we will end up with a broken belief system; or in other words is a broken world view of reality, which may explain the big issues of society nowadays.
 
-Here is an example of a broken system:
+The legal age is a good example of a broken system. In Ecuador, the legal age for anyone to be considered an adult and responsible for adulthood is 18 years old.
 
 [Chapter 02 - How do we develop a belief system?](chapter02.md#how-do-we-develop-a-belief-system)
 
