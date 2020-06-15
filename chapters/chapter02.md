@@ -56,7 +56,7 @@ My thought is that the only way to keep an effective authority ruled by fear, is
 
 Another way to obtain power is through admiration, which I personally think is the most effective one. When people obey orders because of admiration there is always a pleasant attitude from the obeying part, a willingness to step forward and be the first one to obey, this is the kind of power you'll notice in what is commonly know as _"natural leaders"_.
 
-## Two different authorities with same hierarchy can't coexist.
+## Two different authorities can't coexist.
 
 ## Conclusion
 

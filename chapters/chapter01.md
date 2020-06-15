@@ -91,7 +91,7 @@ The "mother" example may look similar to a problem called "lexical ambiguity" bu
 On the other hand, the ambiguity of the word "mother" could be described as follows: for any sentence, there could exist a word such that have multiple meanings, and all these meanings share a lot of similarities in common but, still, they can differ in certain cases, hence, the intentional meaning of the sentence could be partially understood. As opposed to "lexical ambiguity", this problem will lead you to believe that you understood something completely right but, the reality is that you understood just a part of it.
 
 The importance of ambiguity is that paradoxically speaking, it's thanks to this knowledge that we can clarify many other things based on the source of its meaning, words such as love, good, perfection, etc. May have a different meaning depending on what your belief system is.
-Here is an example: for a motivational coach "happiness" may mean that you should accomplish your dreams and ambitions, but maybe, for a Buddhist monk "happiness" has nothing to do with your dreams or ambitions. So, even if both perspectives seem to aim the same goal, the pathways to achieve it are different. That means that due to the lack of this knowledge of the pathways we are prone to understand things partially.
+Here is an example, for a motivational coach "happiness" may mean that you should accomplish your dreams and ambitions, but maybe, for a Buddhist monk "happiness" has nothing to do with your dreams or ambitions. So, even if both perspectives seem to aim the same goal, the pathways to achieve it are different. That means that due to the lack of this knowledge of the pathways we are prone to understand things partially.
 
 Let's define a rule that helps us solve this kind of ambiguity: for each possible definition that we can find for a word, there must exist a set of definitions for more different words sharing the same perspective, with the only purpose of creating a system of meanings that will supposedly and ultimately make sense in our world view of reality. What I just said simply means: depending on what you believe, the use of your words may have a different definition, and the definitions of those words must be related and coherently connected to make sense in our bigger and wider perspective of reality.
 
@@ -121,7 +121,7 @@ There are multiple and different ways to perceive things, but I want you to focu
 
 Just think about it, if you can't perceive anything, then how would you even know anything? It is a fact that we need "sight" to perceive colors, depth, shadow, recognize letters, etc; we need the sensation of "touch" to perceive the things that get in our way, temperature, texture, the flow of air, etc; we need "taste" to recognize flavors that might be dangerous in large quantities like salt, among other things; we need "smell" to identify quickly when something is burning; I think hearing is obvious at this point so let's stop here.
 
-Sense perception is the interface that defines most of our reality, here is an example: if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is a natural warning from your body to alert you to avoid going outside without a good coat. So, the example implies that we associate some notions of good and bad based on pleasant and unpleasant feelings respectively. But, if we only stick with this idea we would be pretty much like animals, and we know that this is not the case. Anyway, as always we must ask some questions before jumping into conclusions:
+Sense perception is the interface that defines most of our reality, here is an example, if you decide to take a walk and you feel the freezing air outside; that unpleasant feeling is a natural warning from your body to alert you to avoid going outside without a good coat. So, the example implies that we associate some notions of good and bad based on pleasant and unpleasant feelings respectively. But, if we only stick with this idea we would be pretty much like animals, and we know that this is not the case. Anyway, as always we must ask some questions before jumping into conclusions:
 
   * Can I believe entirely in my senses?
   * Does everyone around me feel the same way as I feel?
@@ -139,7 +139,7 @@ Again, sense perception will always be the first interface to help us associate 
 
 Let's start with what "unreal" or "fake" is, consider this example; when we know that some product is being illegally duplicated to be identical to another; we may be able to identify if such product is fake or not based on some conditions. Here, the definition of real as well as fake is based on certain specific knowledge, and this knowledge could be acquired in many different ways including sense perception but, the way we identify its fakeness is entirely based on the preexistence of something that we already consider is real. We can't think of something unreal if there's nothing real first. If you think about fantasy or fictional character as examples, even these kind of creations is founded on reality.
 
-Now, regarding real things think about this, language and mathematics are both real systems, we perceive these realities with our eyes, we see the shape of numbers and letters, we practice enough until we memorize them then, we can recognize these systems but, At what point did we start to think of these systems as real?
+Now, regarding real things, think about this, language and mathematics are both real systems, we perceive these realities with our eyes, we see the shape of numbers and letters, we practice enough until we memorize them then, we can recognize these systems but, At what point did we start to think of these systems as real?
 
 Interaction is the keyword, and interaction starts with perception. When we perceive something for the first time, at first it's just a one way interaction, and that's because at first, we are just mere receptors, for example, we are just seeing or maybe feeling something. What happens next is that, usually our mind tries to respond to any perception we receive by sending signals towards the direction where we are perceiving such things then, we learn the responses we receive and finally we develop a mental map; which in order words is a set of patterns based on our interactions, or you could say, what we learn is an expectation based on a prior association between sending and receiving signals. Our process of learning involves this case: if we get some response different to what we expect, we start the process of learning all over again until we find at least some minimal detail that could help us reproduce the pattern we need to interact. This concept is based on my own experience, so maybe, this process does not apply to all cases but I consider that it's fundamental for almost all kinds of learning processes and interactions.
 
@@ -150,14 +150,14 @@ So, I think that when we learn any system, our repeated interactions generate a 
 
 Based on the statements above, if both are true then, the system is real and valid. But, before you continue let me clarify what "real" means here; it's real if it exists for at least two people other than one's self. Saying that something is real doesn't imply that it must be valid, it could be perfectly invalid and still real. So the possibilities of existence for any system are these:
 
-  * An unreal and valid system, for example, board games, sci-fi movies, fantasy novels, etc.
-  * An unreal and invalid system, example: the forbidden language of this book fairies, a map from Ecuador to the elves land.
-  * A real and valid system, example: capitalism, physics, programming, etc.
-  * A real and invalid system, example: someone speaking gibberish, or playing dungeons and dragons in a wrong way.
+  * An unreal and invalid system, for example, the forbidden language of snake fairies, an elvish map to the center of the planet, or someone speaking gibberish.
+  * An unreal and valid system, for example, fantasy board games or novels, sci-fi movies, etc.
+  * A real and invalid system, for example, someone playing a board game in a wrong way, or someone being bad at maths.
+  * A real and valid system, for example, capitalism, physics, programming, etc.
 
-Here's an example: you're a mathematician and you meet another mathematician but you both don't speak the same language. So, you write a lot of mathematical equations for him to solve them, this person solves them all, after that, you verify that his answers match yours. The number of equations is supposed to help us reduce the chances of coincidence, so our expectation should be that he must solve all exercises correctly. Let's analyze all the possible results of the example above; for this, we must consider that there are no coincidences due to the number of exercises.
+Here's an example, you're a mathematician and you meet another mathematician but you both don't speak the same language. So, you write a lot of mathematical equations for him to solve them, this person solves them all, after that, you verify that his answers match yours. The number of equations is supposed to help us reduce the chances of coincidence, so our expectation should be that he must solve all exercises correctly. Let's analyze all the possible results of the example above; for this, we must consider that there are no coincidences due to the number of exercises.
 
-  * If he doesn't write anything at all, or, if all answers are completely different then, one of the systems must be false.
+  * If he doesn't write anything at all, or, if all answers are completely different then, one of the systems must be unreal or invalid.
   * If both answers are completely the same then, we can conclude that they can understand the same system, therefore; the system is real and valid.
   * If there is at least one answer different then, one of the systems is real but invalid.
 
@@ -171,7 +171,7 @@ Ready?
 
 They are a lot, right? Also, if you think about them a bit further, you will find that pretty much everything we know somehow repeats a cycle and we all somehow interact with all these cycles without fully understanding them; examples are the rain, eating and sleeping, the sunset and sunrise, numbers, and so on.
 
-The statement above implies that in everyone's reality we can be part of a system without even knowing about it, the example is clear if we think about nature or a kidnapping. But, this also raises the next question: Systems are discovered or invented? Well, on one hand, the solar system wasn't invented, we just translated that knowledge to our language and that's how we understand and recognize the solar system nowadays but, on the other hand, the way the car works wasn't out there waiting to be discovered, instead, there was some planning and trials before someone gets with a valid formula. So, I think it's perfectly valid to say that systems are discovered and invented.
+The statement above implies that in everyone's reality we can be part of a system without even knowing about it, the example is clear if we think about nature or a kidnapping, in both cases we could be part of a system without knowing about it. But, this also raises the next question: Systems are discovered or invented? Well, on one hand, the solar system wasn't invented, we just translated that knowledge to our language and that's how we understand and recognize the solar system nowadays but, on the other hand, the way the car works wasn't out there waiting to be discovered, instead, there was some planning and trials before someone gets with a valid formula. So, I think it's perfectly valid to say that systems are discovered and invented.
 
 The idea of a "system" implicitly describes a set of rules, conditions, processes, decisions, etc... But, there's a process that all systems share in common:
 
@@ -182,23 +182,40 @@ The idea of a "system" implicitly describes a set of rules, conditions, processe
 Something interesting about systems is that, if you dare to push a single change in an existing system, depending on the change it may affect dramatically a lot more systems. Just imagine what would happen if we remove a couple of letters from the alphabet? It would trigger a lot of changes across all existing documents written in that particular language, and by documents, I mean everything that we can use to write and read characters or symbols; things like paper, software, stones, etc.
 That just demonstrates the fact that most of the systems we learn are built on top of multiple other systems; like a hospital that depends on specialized doctors but also, the building requires designers, architects, constructors, and all of them depend on communication.
 
+The importance of communication relies for the most part on being as clear as possible, which implies no ambiguity at all. Also, as systems can be applied through interaction, it's the same system that proves us if the understanding is real and valid, this is, as we all understand the same system, then we all expect what the system expects to happen.
+
+### A broken belief system
+
+Before we close this chapter, here is a question for you. Up to this point, have you ever thought about what would happen if you take two words from two different belief systems and use them together without realizing it? Think of the answer as the result of trying to mix oil and water, it does not mix. My observation on this matter is that, if two belief systems overlap in definitions, we must always stick entirely to one belief system and reject the other, otherwise, we will end up with a broken world view of reality; or in other words a real but invalid belief system.
+
+The legal age is a good example of a broken system. In Ecuador, the legal age for anyone to be considered an adult must start from 18 years old. But, what does it mean for anyone to become an adult?
+Let's consider the driver's license, for anyone to be legally able to drive a card, there is a process that evaluates if a person is capable of bearing with such responsibility. The reason we have that process is that we want all people to be aware of the risk that involves using a car, and the risk is for everyone even for people not using a car. I think we could agree that for pretty much all possible titles we want to apply the same principle. If we talk about someone getting the title of doctor in medicine or an architect, the less we want is someone not knowing what he is doing.
+When we think about the legal age, there is no process, there is no evaluation, there is no course. So, What are all the expectations for anyone that becomes an adult? What are all the duties and responsibilities that an adult must be aware of? I can tell from my experience that the age doesn't qualify anyone to be considered a legal adult. I would even say that nowadays there is a lot of people who are above the legal age and is not capable of taking the decisions of an adult, they don't act like adults, there are even people that it is not able to take full responsibility for their own life. This kind of issue should cause a huge concern in society because of this false expectation of adulthood.
+
+The meaning of "adult" is frequently split into two main ideas: physically adult and mentally adult. I think this is problematic because a non-mentally adult should not apply for the benefits of a legal adult because he is not aware of the responsibilities he should bear, instead, someone else must take responsibility of that person, so, following this line of thought I conclude that a non-mentally adult shouldn't be treated as an adult at all. Think about this, as adults, we could vote or not for the next president but, if some person is voting for anyone with no intention of caring who is he voting for, How can you expect social consciousness? The intention of voting is what makes the voting fair but, a non-mentally adult voting shouldn't count in the process because he has no intention of contributing to his nation. Now, imagine the difference if we only allow voting for people who care about his nation.
+
+Ok, let's analyze what we have here, on one side we have people making sure that every legal title is valid, and on the other hand we have people defending the idea of adults at a certain age. We could rephrase both ideas like this:
+
+  * Assign a title based on the ability to take responsibility.
+  * Assign a title based on age.
+
+Both lines of thought are different defines a different system on their own, as a result, both systems overlap on the way they allow people to act in society. So, there is an ambiguity on the way that our legal constitution assigns titles, and our task here is to determine which system works best. As I said already this dilemma lefts us with a broken belief system, we believe in the system because that's how the world works, but at the same time, this system is broken due to the way it defines some methods of social interaction.
+
+There are a lot of different cases of broken belief systems, however, being able to recognize the problem allows us to act proactively against it.
+
 ### Conclusion
 
 Let's recap a bit about the content of this chapter:
 
-  * The problem of ambiguity can be subtle but still profound, in the end, it all depends on perspective.
-  * Perception is our interface to reality, it doesn't define reality but it helps us interact with it. However, perception alone is not enough.
-  * All systems are interactive, also, we can test the reality of them with interaction.
-  * We can be part of a system without eve knowing about it.
-  * Systems could be built one upon another.
+  * The problem of ambiguity can be subtle but still profound, it's important to recognize perspectives.
+  * Perception is interface that help us interact with reality but, it's not totally reliable.
+  * Reality is interactive, interaction is perceptible.
+  * Systems could be a combination of real or unreal and valid or invalid.
+  * We can be part of a system without even knowing about it.
 
-Next, let's connect the dots. We depend on our perceptions to associate reality, now it's thanks to "perception" that we can discover existing systems, also, if we were to create a new system, it's thanks to "perception" too that we can communicate with each other. But, the problem of communication may involve ambiguity, for those cases, it's important to assess if we're understanding what the sender is intentionally trying to transmit. Now, assuming that we were understanding correctly then, we could test that knowledge using interaction based on the expected results that the same knowledge proposes as valid. If we don't assess our knowledge we could fall into the trap of believing things that could be real but invalid, or even worse believe in unreal things.
+Next, let's connect the dots. We depend on our perceptions to associate reality, now it's thanks to "perception" that we can discover existing systems, also, if we were to create a new system, it's thanks to "perception" too that we can communicate such system. But, the problem of communication may involve ambiguity, for those cases, it's important to assess if we're understanding what the sender is intentionally trying to transmit. Now, assuming that we were understanding correctly then, we could test that knowledge using interaction based on the expected results that the same knowledge proposes as valid. If we don't assess our knowledge we could fall into the trap of believing things that could be real but invalid, or even worse believe in unreal and invalid things.
 
-> A belief system is a systematic set of beliefs that defines a world view of reality.
-
-Before we close this chapter, here is a question for you. Have you ever thought about what would happen if you take two words from two different belief systems and use them together without realizing it? Think of the answer as the result of trying to mix oil and water, it simply won't make sense. This is what happens most of the time when two people have a debate from different perspectives, both assume the same definitions of words for both sides and that is a bad assumption. My observation on this matter is that, if two belief systems overlap in definitions, we must always stick entirely to one belief system and reject the other, otherwise, we will end up with a broken belief system; or in other words is a broken world view of reality, which may explain the big issues of society nowadays.
-
-The legal age is a good example of a broken system. In Ecuador, the legal age for anyone to be considered an adult and responsible for adulthood is 18 years old.
+Finally, at this point, I think this is the best definition I came up with for what a belief system means. A belief system is a systematic set of beliefs that defines a world view of reality.
 
 [Chapter 02 - How do we develop a belief system?](chapter02.md#how-do-we-develop-a-belief-system)
 
