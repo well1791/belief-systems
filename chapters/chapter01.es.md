@@ -8,7 +8,7 @@ Espero que sí, pero de no ser así, es bueno saber que este es un caso de incer
   * Respecto a las diferencias de significado en las palabras. ¿Cuánto podrían ellas cambiar el significado intencional de toda la conversación?
   * ¿Deberías pedir una definición concreta para cada palabra que no parece tener un significado claro?
 
-Este es el tipo de problemas que existe gracias a la ambiguedad, y es el inicio de un sin fin de posibilidades. Permíteme compartir un par de ejemplos más para que veas hasta que punto este tipo de problemas son comunes.
+Este es el tipo de problemas que existe gracias a la ambiguedad, y es el inicio de un mar de posibilidades. Permíteme compartir un par de ejemplos más para demostrar hasta que punto este tipo de problemas son comunes.
 
 #### Operación o signo
 
