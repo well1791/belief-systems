@@ -1,4 +1,4 @@
-- [Tabla de contenido](../tabla-de-contenido.md)
+- [Tabla de contenido](./tabla-de-contenido.md)
 
 ---
 
@@ -118,7 +118,7 @@ Ahora, sólo para reforzar la importancia del sentido práctico de las palabras 
 
 ## El problema de la ambiguedad
 
-El tema principal de esta sección son las deficiones vagas y/o ambiguas. Y algo que pensé por un tiempo para resolver este dilema de significados era usar la etimología. Así, al día de hoy todos tendríamos una definición concreta basados en el origen de cada palabra en particular, sin embargo; si usáramos la etimología de esta manera, terminaríamos cayendo en una trampa llamada "falacia etimológica". El problema con esta falacia es que las palabras actuales han redefinido su significado de acuerdo al cambio social, cultural, y muchas otras variables, un ejemplo de esto podría ser la palabra "bug"; que en su significado original en inglés se entiende como insecto o bicho pero, su significado contemporáneo es mayormente reconocido como "error de software", e incluso podríamos decir que hasta cierto punto se pierde el significado original de la palabra debido a este significado contemporáneo popular, es por esta razón que es una falacia, porque es falso pensar que todas las palabras de hoy deben significar lo mismo que cuando se originaron. Ahora, si consideramos que existen lenguajes que no tienen una traducción equivalente palabra por palabra, el problema con la etimología se vuelve peor, por ejemplo "software" no tiene una traducción directa al español.
+El tema principal de esta sección son las definiciones vagas y/o ambiguas. Y algo que pensé por un tiempo para resolver este dilema de significados era usar la etimología. Así, al día de hoy todos tendríamos una definición concreta basados en el origen de cada palabra en particular, sin embargo; si usáramos la etimología de esta manera, terminaríamos cayendo en una trampa llamada "falacia etimológica". El problema con esta falacia es que las palabras actuales han redefinido su significado de acuerdo al cambio social, cultural, y muchas otras variables, un ejemplo de esto podría ser la palabra "bug"; que en su significado original en inglés se entiende como insecto o bicho pero, su significado contemporáneo es mayormente reconocido como "error de software", e incluso podríamos decir que hasta cierto punto se pierde el significado original de la palabra debido a este significado contemporáneo popular, es por esta razón que es una falacia, porque es falso pensar que todas las palabras de hoy deben significar lo mismo que cuando se originaron. Ahora, si consideramos que existen lenguajes que no tienen una traducción equivalente palabra por palabra, el problema con la etimología se vuelve peor, por ejemplo "software" no tiene una traducción directa al español.
 
 En cualquier caso, al día de hoy; las soluciones que vemos para ambiguedad son "definiciones compuestas" como yo lo llamo. Si pensamos en el ejemplo de "madre o no", encontraremos que ya hay un conjunto de palabras para referirse a cada sutuación posible que pueda presentar una madre: madre adoptiva, madre biológica, madre putativa, etc. Pero, el problema con estas definiciones compuestas es que el significado de la palabra "madre" sigue siendo vago.
 
@@ -282,4 +282,4 @@ Finalmente, creo que en este punto la mejor definición que tengo para sistemas 
 
 ---
 
-[Tabla de contenido](../tabla-de-contenido.md)
+[Tabla de contenido](./tabla-de-contenido.md)
