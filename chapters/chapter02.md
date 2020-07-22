@@ -1,13 +1,3 @@
-## How do we develop a belief system?
-
-Developing a belief system is absolutely logic, here are the steps that I think explain all you need to know in order to understand your current belief systems:
-
-  1. Authority
-  2. Source
-  3. Judgement
-
-The list above should include a fourth one: **Act** but, that step doesn't really need a deep explanation. However, the first one in the list: **Authority** is the base of pretty much everything. Hopefully by understanding the first concept, the rest of the steps will become easier.
-
 ### Authority
 
 The word authority is commonly associated to some kind of leadership or mandatory role by some government, and not only that but, we also tend to mix the idea that authority can be a thing by itself and can be a person too, for instance: we say that the laws of a country are authority but, we also say that the president is the maximum authority of a country, and here we could ask "Who has total authority: the law or the president?". We know that the president becomes a president thanks to the law but, also the president has all the right to change the law. Now, the dilemma in this example isn't a problem actually, but, it serve its illustrates the issues of lack of concrete definition.
@@ -18,7 +8,7 @@ Now, if we analyze the paragrapah above, we can logicaly say that we are free to
 
 The introduction might look confusing at first and you might have a lot of questions for now, so let's start again step by step.
 
-===========================================================================
+=====
 
 Authority is the ability to give orders, and of course, every authority must expect their orders to be fulfilled; otherwise authority will make no sense. If, for example, you command someone to do something and that person doesn't do anything; then, it's clear that you are not an authority to that person; even if the current law says so.
 
@@ -68,8 +58,3 @@ At this point we have a lot of information about authority; let's recap a little
   1. We are always obeying an authority, that includes our own will as authority.
   2. There's a hierarchy between authorities, there's always a higher authority.
   3. We decide the hierarchy of our authorities.
-
-
-[Chapter 02 - What is “belief system”?](chapter01.md##what-is-belief-system)
-
-[Table of Content](../readme.md#table-of-content)
