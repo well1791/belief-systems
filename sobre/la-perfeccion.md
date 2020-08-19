@@ -1,0 +1,3 @@
+# Perfección
+
+Cumplimiento del propósito
