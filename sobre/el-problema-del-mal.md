@@ -172,10 +172,17 @@ Así que, entonces, ¿Realmente qué significa "bueno" para Dios?
 
 De forma sencilla podríamos decir que lo contrario del mal, o del pecado, o de la desobediencia, es la obediencia a la voluntad de Dios.
 
-Ciertamente esto presenta un problema más grande en cuanto a definición, pues todo aquello que Dios ordene es bueno, sea que esto atente con nuestra propia vida o consciencia. Sin embargo, ese es un tema que voy a desarrollar en otro ensayo.
+Ciertamente esto presenta un problema mucho más grande, pues, si todo aquello que Dios ordena es bueno, entonces, ya sea que Sus ordenes atenten con nuestra vida o consciencia, aún sigue siendo bueno. Además también se presenta el siguiente problema, si siempre debemos obedecer a Dios para no hacer mal, entonces, ¿Qué voluntad tiene el hombre para tomar decisiones propias? Y en ese contexto se debe cuestionar que es la voluntad libre y la voluntad propia. Estos temas están fuera del alcance de este ensayo, pero, son preguntas que planeo desarrollar en otro ensayo, por ahora, es sufiente entender que hacer la voluntad de Dios es la única equivalencia real y por consiguiente significado concreto de "bueno".
 
 ## Conclusión
 
-El problema del mal sugiere que Dios debería eliminar el mal para ser absolutamente bueno. Ciertamente Dios podría eliminar la capacidad de desobediencia de cualquier criatura que Él quisiera, pero evidentemente no es así. Así pues, desde la perspectiva de Dios, es buena la existencia del mal (entiéndase desobediencia), pero, así como Dios aprueba la existencia del mal, paralelamente, Él también rechaza la aplicación del mal.
+El problema del mal sugiere que Dios debería eliminar el mal para ser absolutamente bueno, pero, luego de haber argumentado el origen de la existencia del mal y entender que el mal existe desde que Dios considera que es incorrecto desobedecer Su voluntad, entonces, la relación de este argumento con respecto al problema del mal sería la siguiente: si el problema del mal está en el hecho de obedecer o no la voluntad del Dios, entonces, existen dos soluciones posibles
 
-Por otro lado, haciendo un análisis adicional del tema, si malo es todo aquello que desobedece la voluntad de Dios, entonces, el mal existe desde que Dios considera que es incorrecto el hecho de que sea desobedecida su voluntad. Como resultado, para eliminar el mal, Dios debería ser indiferente a la obediencia de su voluntad, pero, si Dios fuera así, entonces Dios no sería ni "bueno" ni "malo", eso finalmente convertiría a Dios en un ser indiferente a todo, o simplemente no tiene interés por nada. Así pues, es necesario que exista el mal, no porque la existencia del mal sea mala, sino todo lo contrario, es bueno que exista el mal, pero es malo que se haga el mal.
+  * Que ninguna criatura sea capaz de desobedecer la voluntad de Dios.
+  * Que Dios sea indiferente a cualquiera que quiera desobedecer su voluntad.
+
+Según la biblia, Él podría eliminar la capacidad de desobediencia de cualquier criatura que Él quisiera, pero evidentemente sabemos por experiencia propia, y por testimonio de la biblia que no es así. Así pues, desde la perspectiva de Dios, es bueno que el hombre sea capaz de desobedecer Su voluntad, entiéndase, ser capaz de hacer mal o pecar, pero, así como Dios aprueba la existencia del mal, paralelamente, Él también rechaza la aplicación o ejecución del mal, es decir, Dios rechaza que actue en pos de aquella capacidad.
+
+Por otro lado, meditando sobre la segunda premisa, si Dios fuera indiferente a la desobediencia de Su voluntad, entonces, no tendría sentido si quiera obedecerlo en primera instancia, y si eso es cierto, entonces Dios no sería ni bueno ni malo, pues al ser indiferente realmente no importa que cualquier persona haga lo que quiera hacer.
+
+Pero, si pensamos este argumento desde otra perspectiva, podemos concluir que es lógicamente bueno que exista el mal, entiéndase, es bueno que exista la capacidad de desobedecer la voluntad de Dios, porque, es gracias a que Dios le importa la obediencia de Su voluntad que existe la capacidad de juzgar o mejor dicho la diferencia entre bueno y malo.
