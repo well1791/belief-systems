@@ -4,7 +4,7 @@ Es un tema filosófico que intenta responder de forma satisfactoria la relación
 
 El problema se plantea con base en estas premisas:
 
-  * ¿Existe el mal? Respuesta, porque ciertamente existe una apreciación innata de aquello que consideramos malo como el sufrimiento o la injusticia por ejemplo. Sin embargo, también es cierto que no existe una definición concreta que sea satisfactoria para todos en este mismo sentido.
+  * ¿Existe el mal? Respuesta, sí porque ciertamente existe una apreciación innata de aquello que consideramos malo como el sufrimiento o la injusticia por ejemplo. Sin embargo, también es cierto que no existe una definición concreta que sea satisfactoria para todos en este mismo sentido.
   * ¿Existe Dios? Según la biblia, sí existe.
 
 Ahora, la segunda pregunta presupone atributos y características sobre el título de Dios, pero, voy a a enfocarme concretamente en aquellas dos características que son el punto de análisis de este problema.
