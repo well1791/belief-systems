@@ -148,7 +148,17 @@ Si recapitulamos el momento de la creación del hombre, vemos que hay varias tar
   >
   > -- Traducción NBLA (Nueva Biblia de las Américas).
 
-Cuando Dios ha creado a Adán y Eva, les ordena a multiplicarse, a someter la tierra y a ejercer dominio sobre todo ser viviente. Si Adán o Eva incumplían alguna de éstas órdenes, entonces, habrían desobedecido o pecado, pero, ya que estas órdenes no tienen ninguna limitante, es decir, no hay una expectativa de tiempo de cuándo debían cumplir con todo ello, o cuál es el orden de prioridad, así pues, aún si ellos quisieran cumplir con éstas órdenes, deberían pedir explicitamente más detalles.
+Cuando Dios crea a Adán y Eva, les ordena a multiplicarse, a someter la tierra y a ejercer dominio sobre todo ser viviente. Si Adán o Eva incumplían alguna de éstas órdenes, entonces, habrían desobedecido o pecado, pero, ya que estas órdenes no tienen ninguna limitante, es decir, no hay una expectativa de tiempo de cuándo debían cumplir con todo ello, o cuál es el orden de prioridad, así pues, aún si ellos quisieran cumplir o desobedecer éstas órdenes, debían pedir explicitamente más detalles.
+
+Más adelante, en el capítulo dos, vemos que Dios le da ordenes particulares a Adán, y esto lo sabemos por el contenido del capítulo.
+
+  1. Adán es creado primero
+  1. Se le asignan tareas
+  1. Se le ordena que le de nombre a los animales, y Adán ve que no hay ayuda idonea para él, entiéndase, Adán entendía la relación que representaba una pareja de animales.
+  1. Dios, crea a Eva
+  1. Cuando Eva entra en escena, los animales ya tienen nombres, y Adán ya tiene tareas que desempeñar.
+
+Pero, nos vamos a enfocar en las tareas particulares de Adán.
 
   > -- Génesis 2
   >
@@ -156,7 +166,7 @@ Cuando Dios ha creado a Adán y Eva, les ordena a multiplicarse, a someter la ti
   >
   > -- Traducción NBLA (Nueva Biblia de las Américas).
 
-Respecto a las órdenes particulares que recibió únicamente Adán, la primera oportunidad de desobediencia es simplemente negarse a cultivar o cuidar el huerto, al hacer eso, estaría infringiendo la voluntad de Dios, y eso ya sería considerado desobediencia, o pecado. Pero, ya que el hombre fue creado con la naturaleza de trabajar, sería absurdo ir en contra de su naturaleza el no hacer tales cosas, así que es virtualmente imposible, pues sería como pedirle a un pez que corra sobre las nubes.
+Respecto a las órdenes que recibió Adán únicamente, la primera oportunidad de desobediencia es simplemente negarse a cultivar o cuidar el huerto, al hacer eso, estaría infringiendo la voluntad de Dios, y eso ya sería considerado desobediencia o pecado. Pero, ya que el hombre fue creado con la naturaleza de trabajar, sería absurdo ir en contra de su naturaleza y no hacer tales cosas, así que es virtualmente imposible, pues, sería como pedirle a un pez que corra sobre las nubes.
 
   > -- Génesis 2
   >
@@ -166,7 +176,7 @@ Respecto a las órdenes particulares que recibió únicamente Adán, la primera 
 
 La segunda oportunidad de pecado que recibe Adán, es comer del fruto del árbol prohibido, que como leemos luego en el capítulo tres, esto es lo que realmente sucede.
 
-Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, pues, evidentemente a Eva no se le fue dada ninguna prohibición, pero, por una vez que Adán comió del fruto prohibido es que sucede algo.
+Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, pues, evidentemente a Eva no se le fue dada ninguna prohibición, a pesar de que Adán sí le comparte las mismas tareas y prohibiciones a Eva, pero, desde el momento en que Adán comió del fruto prohibido es que sucede algo.
 
   > -- Génesis 3
   >
@@ -174,7 +184,7 @@ Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, 
   >
   > -- Traducción NBLA (Nueva Biblia de las Américas).
 
-La biblia registra en orden cronológico el orden de quienes comen del fruto prohibido, es decir, primero Eva "Cuando la mujer vio... y comió" y luego Adán "... y él comió". En este punto la biblia en el nuevo testamento confirma que Eva fue engañada, mientras que Adán no. Esta acción de Adán al ceder a la petición de su mujer, y obedecer a Eva antes que a Dios fue el inicio de la desobediencia o pecado.
+La biblia registra en orden cronológico el orden de quienes comen del fruto prohibido, es decir, primero Eva "Cuando la mujer vio... y comió" y luego Adán "... y él comió". En este punto la biblia en el nuevo testamento confirma que Eva fue engañada (1 Timoteo 2:14), mientras que Adán no. Esta acción de Adán, de obedecer a Eva antes que a Dios fue el inicio de la desobediencia o pecado.
 
 Si pensamos en lo que todo lo que se ha planteado hasta ahora, podemos formar esta línea de pensamiento sobre estos detalles.
 
