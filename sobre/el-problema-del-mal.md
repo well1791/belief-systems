@@ -176,7 +176,7 @@ Respecto a las órdenes que recibió Adán únicamente, la primera oportunidad d
 
 La segunda oportunidad de pecado que recibe Adán, es comer del fruto del árbol prohibido, que como leemos luego en el capítulo tres, esto es lo que realmente sucede.
 
-Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, pues, evidentemente a Eva no se le fue dada ninguna prohibición, a pesar de que Adán sí le comparte las mismas tareas y prohibiciones a Eva, pero, desde el momento en que Adán comió del fruto prohibido es que sucede algo.
+Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, pues, evidentemente a Eva no se le fue dada ninguna prohibición, a pesar de que Adán sí le comparte las mismas tareas y prohibiciones a Eva. La observación pertinente en esta sección es que desde el momento en que Adán comió del fruto prohibido algo diferente sucede.
 
   > -- Génesis 3
   >
@@ -184,13 +184,13 @@ Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, 
   >
   > -- Traducción NBLA (Nueva Biblia de las Américas).
 
-La biblia registra en orden cronológico el orden de quienes comen del fruto prohibido, es decir, primero Eva "Cuando la mujer vio... y comió" y luego Adán "... y él comió". En este punto la biblia en el nuevo testamento confirma que Eva fue engañada (1 Timoteo 2:14), mientras que Adán no. Esta acción de Adán, de obedecer a Eva antes que a Dios fue el inicio de la desobediencia o pecado.
+La biblia registra en orden cronológico el orden de quienes comen del fruto prohibido, es decir, primero Eva "Cuando la mujer vio... y comió" y luego Adán "... y él comió". En este punto la biblia en el nuevo testamento confirma que Eva fue engañada (1 Timoteo 2:14), mientras que Adán no. Esta acción de Adán, de obedecer a Eva antes que a Dios fue el inicio de la desobediencia o pecado, y el hecho de que una vez que Adán comió del fruto prohibido fueron abierto los ojos de ambos, confirma sobre quién recae la desobediencia (o la orden de obedecer).
 
 Si pensamos en lo que todo lo que se ha planteado hasta ahora, podemos formar esta línea de pensamiento sobre estos detalles.
 
   * Todo aquello que desobedece la voluntad de Dios es considerado malo.
   * Dios creó al hombre con la capacidad de desobedecer a Dios, es decir, de hacer el mal.
-  * Dios permite una criatura ya desobediente entre al huerto, es decir, esta criatura mala, comparte espacio con criaturas que hasta ahora no han conocido la maldad de primera mano.
+  * Dios permite una criatura ya desobediente entrar al huerto, es decir, esta criatura mala, comparte espacio con criaturas que hasta ahora no han conocido la maldad de primera mano.
 
 Ahora, Dios sabe que al permitir una criatura mala en el huerto, aumentaría la probabilidad de propagar el mal en el resto de criaturas, sin embargo, este aparente riesgo no parece ser malo desde la perspectiva de Dios, pues si hubiera sido malo, entonces Dios hubiera prohibido que tal cosa suceda!
 
