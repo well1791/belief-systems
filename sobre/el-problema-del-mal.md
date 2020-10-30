@@ -186,25 +186,81 @@ Interesantemente, cuando Eva come del fruto prohibido realmente no sucede nada, 
 
 La biblia registra en orden cronológico el orden de quienes comen del fruto prohibido, es decir, primero Eva "Cuando la mujer vio... y comió" y luego Adán "... y él comió". En este punto la biblia en el nuevo testamento confirma que Eva fue engañada (1 Timoteo 2:14), mientras que Adán no. Esta acción de Adán, de obedecer a Eva antes que a Dios fue el inicio de la desobediencia o pecado, y el hecho de que una vez que Adán comió del fruto prohibido fueron abierto los ojos de ambos, confirma sobre quién recae la desobediencia (o la orden de obedecer).
 
-Si pensamos en lo que todo lo que se ha planteado hasta ahora, podemos formar esta línea de pensamiento sobre estos detalles.
+Adicionalmente, el nuevo testamento registra un significado concreto respecto a pecado, que aparentemente, redefine la idea conceptual de la misma palabra.
+
+  > -- 1 Juan 3:4
+  >
+  > 4 Todo el que practica el pecado, practica también la infracción de la ley, pues el pecado es infracción de la ley
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+El significado que se le asigna al pecado finalmente es: infracción de la ley. La tradición judía reconoce "La Ley" como las órdenes y mandamientos que Dios dictó a los israelitas por medio de Moisés, cuando salieron de egipto, es decir, los libros del Génesis a Deutoronomio. Ahora bien, a pesar de que "La Ley" está aparentemente limitada a esos 5 libros, lo cierto es que Jesús expone que su implicación es mucho más extensa, así pues, en teoría en esos 5 libros está todo aquello que el hombre puede desobedecer. Además, si consideramos que ley es la palabra usada para referirnos a una orden impuesta por una autoridad superior, entonces, todo lo que Dios ordena se considera inmediatamente una ley, así pues es fácil entender que todo aquello que Dios ha ordenado y que no se ha sido obedecido, se vuelve una transgreción a la obediencia de su voluntad, es decir, a la ley.
+
+Por último, si pensamos en lo que todo lo que se ha planteado hasta ahora, podemos formar esta línea de pensamiento.
 
   * Todo aquello que desobedece la voluntad de Dios es considerado malo.
   * Dios creó al hombre con la capacidad de desobedecer a Dios, es decir, de hacer el mal.
   * Dios permite una criatura ya desobediente entrar al huerto, es decir, esta criatura mala, comparte espacio con criaturas que hasta ahora no han conocido la maldad de primera mano.
+  * Dios sabe que al permitir una criatura mala en el huerto, aumentaría la probabilidad de propagar el mal en el resto de criaturas, sin embargo, este aparente riesgo no parece ser malo desde la perspectiva de Dios, pues si hubiera sido malo, entonces Dios hubiera prohibido que tal cosa suceda!
 
-Ahora, Dios sabe que al permitir una criatura mala en el huerto, aumentaría la probabilidad de propagar el mal en el resto de criaturas, sin embargo, este aparente riesgo no parece ser malo desde la perspectiva de Dios, pues si hubiera sido malo, entonces Dios hubiera prohibido que tal cosa suceda!
-
-Así que, entonces, ¿Realmente qué significa "bueno" para Dios?
+Entonces, ¿Realmente qué significa "bueno" para Dios?
 
 ### ¿Qué es el bien?
 
-De forma sencilla podríamos decir que lo contrario del mal, o del pecado, o de la desobediencia, es decir, bueno sola y únicamente es la obediencia a la voluntad de Dios.
+De forma sencilla podríamos decir que bueno es lo contrario del mal, que a su vez es pecado, que a su vez es desobediencia, o dicho de otro modo, bueno es únicamente la obediencia a la voluntad de Dios.
 
-Ciertamente esto presenta un problema mucho más grande, pues, si todo aquello que Dios ordena es bueno, entonces, ya sea que Sus ordenes atenten con nuestra vida o consciencia, aún sigue siendo bueno. Además también se presenta el siguiente problema, si siempre debemos obedecer a Dios para no hacer mal, entonces, ¿Qué voluntad tiene el hombre para tomar decisiones propias? Y en ese contexto se debe cuestionar que es la voluntad libre y la voluntad propia. Estos temas están fuera del alcance de este ensayo, pero, son temas que planeo desarrollar en otro momento, por ahora, es sufiente entender que hacer la voluntad de Dios es la única equivalencia real y por consiguiente significado concreto de "bueno".
+A pesar de teóricamente es correcto, esta afirmación también presenta otros problemas:
 
-Luego, si volvemos a preguntarnos "¿Por qué Dios permite que entre un desobediente entre obedientes?", pues la respuesta debería ser que realmente no importa cuantos desobedientes entren, pues, la tarea de obedecer no depende de ninguna influencia sino de la conviccion de una decisión, o sea que, estar convencido de mantener la decisión de obedecer debía ser la mentalidad primordial de Adán. Pero, vemos que Adán prefirió obedecer a su mujer antes que a Dios.
+  * No hay dignidad humana. Si todo aquello que Dios ordena es bueno, entonces, si Sus ordenes atentan contra nuestra vida o consciencia, ¿Aún sigue siendo bueno?.
+  * La contradicción. Si Dios ordena "no matar" y luego ordenar a un grupo de personas a matar otro grupo, entonces, ¿Es posible obedecer y desobedecer al mismo tiempo?.
+  * El "libre albedrío". Si siempre debemos obedecer a Dios para no hacer mal, entonces, ¿Qué voluntad tiene el hombre para tomar decisiones propias?.
+  *
 
-Sin embargo, ya que Dios sabía que esta desobediencia ocurriría, a pesar de que no consideró buena la desobediencia, tomó provecho del mismo mal para volverlo en un bien mayor, y ésto se lo conoce como el evangelio de Dios o "buenas noticias" de Dios.
+Todos esos temas están fuera del alcance de este ensayo, pero, son temas que planeo desarrollar en otro momento, por ahora, es sufiente entender que hacer la voluntad de Dios es la única equivalencia real y por consiguiente significado concreto de "bueno".
+
+Pero, ya que el objetivo de esta sección es explorar la perspectiva de Dios sobre el bien. Si esta vez nos preguntamos "¿Por qué Dios permite que entre un desobediente entre obedientes?", la respuesta debería ser que realmente no importa cuantos desobedientes entren, pues, la tarea de obedecer no depende de ninguna influencia sino de la conviccion de una decisión, o sea que, estar convencido de mantener la decisión de obedecer debía ser la mentalidad primordial de Adán, pero, vemos que Adán prefirió obedecer a su mujer antes que a Dios.
+
+¿Entonces Dios premeditó la desobediencia de Adán? Realmente no parece que ese fuera el caso, es decir, Dios sabía que habia dotado al hombre con la capacidad de desobedecer, y como todo buen maestro ya habia considerado un plan para cada posibilidad, así que, sea que el hombre desobedezca o no, ya existía un plan ante la posibilidad del error, entonces, a pesar de que Dios no consideró buena la desobediencia, tomó provecho del mismo mal para volverlo en un bien mayor, según Su propio plan. A esto se lo conoce en el nuevo testamento como el evangelio de Dios, o, según su traducción del griego: "buenas noticias" de Dios.
+
+Ahora, solo para aclarar la perspectiva que propone el nuevo testamento sobre la obediencia, Jesús en reiteradas ocaciones enfatiza este comportamiento de obediencia a la voluntad de Dios, he aquí algunas citas:
+
+  > -- Mateo 6:10
+  >
+  > 10 Venga tu reino. Hágase tu voluntad, así en la tierra como en el cielo.
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+  > -- Mateo 7:21
+  >
+  > 21 No todo el que me dice: «Señor, Señor», entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+  > -- Lucas 22:42
+  >
+  > 42 diciendo: Padre, si es tu voluntad, aparta de mí esta copa; pero no se haga mi voluntad, sino la tuya.
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+  > -- Juan 4:34
+  >
+  > 34 Jesús les dijo*: «Mi comida es hacer la voluntad del que me envió y llevar a cabo Su obra.
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+  > -- Juan 6:38
+  >
+  > 38 Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió.
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+  > -- Juan 7:17
+  >
+  > 17 Si alguno está dispuesto a hacer la voluntad de Dios, sabrá si Mi enseñanza es de Dios o si hablo de Mí mismo.
+  >
+  > -- Traducción NBLA (Nueva Biblia de las Américas).
+
+De la misma manera, aparte de los evangelios, los apóstoles también escriben sobre la obediencia a Dios en el resto del nuevo testamento, pero en lugar de citar versículos, prefiero animar al lector a leer y encontrar lo que la biblia dice sobre la obediencia.
 
 ## Conclusión
 
