@@ -224,39 +224,17 @@ Pero, ya que el objetivo de esta sección es explorar la perspectiva de Dios sob
 
 Ahora, solo para aclarar la perspectiva que propone el nuevo testamento sobre la obediencia, Jesús en reiteradas ocaciones enfatiza este comportamiento de obediencia a la voluntad de Dios, he aquí algunas citas:
 
-  > -- Mateo 6:10
+  > -- Mateo 6:10 - Venga tu reino. Hágase tu voluntad, así en la tierra como en el cielo.
   >
-  > 10 Venga tu reino. Hágase tu voluntad, así en la tierra como en el cielo.
+  > -- Mateo 7:21 - No todo el que me dice: «Señor, Señor», entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.
   >
-  > -- Traducción NBLA (Nueva Biblia de las Américas).
-
-  > -- Mateo 7:21
+  > -- Lucas 22:42 - diciendo: Padre, si es tu voluntad, aparta de mí esta copa; pero no se haga mi voluntad, sino la tuya.
   >
-  > 21 No todo el que me dice: «Señor, Señor», entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.
+  > -- Juan 4:34 - Jesús les dijo*: «Mi comida es hacer la voluntad del que me envió y llevar a cabo Su obra.
   >
-  > -- Traducción NBLA (Nueva Biblia de las Américas).
-
-  > -- Lucas 22:42
+  > -- Juan 6:38 - Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió.
   >
-  > 42 diciendo: Padre, si es tu voluntad, aparta de mí esta copa; pero no se haga mi voluntad, sino la tuya.
-  >
-  > -- Traducción NBLA (Nueva Biblia de las Américas).
-
-  > -- Juan 4:34
-  >
-  > 34 Jesús les dijo*: «Mi comida es hacer la voluntad del que me envió y llevar a cabo Su obra.
-  >
-  > -- Traducción NBLA (Nueva Biblia de las Américas).
-
-  > -- Juan 6:38
-  >
-  > 38 Porque he descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió.
-  >
-  > -- Traducción NBLA (Nueva Biblia de las Américas).
-
-  > -- Juan 7:17
-  >
-  > 17 Si alguno está dispuesto a hacer la voluntad de Dios, sabrá si Mi enseñanza es de Dios o si hablo de Mí mismo.
+  > -- Juan 7:17 - Si alguno está dispuesto a hacer la voluntad de Dios, sabrá si Mi enseñanza es de Dios o si hablo de Mí mismo.
   >
   > -- Traducción NBLA (Nueva Biblia de las Américas).
 
@@ -273,4 +251,4 @@ En la primera premisa según la biblia, Dios podría eliminar la capacidad de de
 
 Sobre la segunda premisa, si Dios fuera indiferente a la desobediencia de Su voluntad, entonces, no tendría sentido si quiera obedecerlo en primera instancia, y si eso es cierto, entonces Dios no sería ni bueno ni malo, pues al ser indiferente realmente no importa que cualquier persona haga lo que quiera hacer, y a su vez, tampoco tendría sentido que Dios tuviera intensión de darle órdenes a Adán y/o a Eva, pues si al final no le importara lo que ambos hicieran tampoco importara darles tareas que hacer.
 
-Finalmente, si pensamos todo este tema desde otra perspectiva, podemos concluir que es lógicamente bueno que exista el mal, entiéndase, es bueno que exista la capacidad de desobedecer la voluntad de Dios, porque, es gracias a que Dios le importa la obediencia de Su voluntad, que existe la capacidad de juzgar o mejor dicho, existe la posibilidad de diferenciar entre bueno y malo.
+Finalmente, si pensamos todo este tema desde otra perspectiva, podemos concluir que es lógicamente bueno que exista el mal, entiéndase, es bueno que exista la capacidad de desobedecer la voluntad de Dios, que a su vez significa que a Dios le importa la obediencia de Su voluntad, es decir, es gracias a que Dios le importa la obediencia de Su voluntad, que existe la capacidad de juzgar o mejor dicho, existe la posibilidad de diferenciar entre bueno y malo.
