@@ -6,14 +6,14 @@
 
 ## ¿Cómo se desarrolla un sistema de creencias?
 
-Todo empieza desde que somos muy pequeños, más precisamente, desde que somos capaces de aprender. El único problema de usar la palabra "aprender" es que es difícil explicar cómo funciona el aprendizaje. Sin embargo, aún así, creo que podemos reconocer al menos dos fuentes de aprendizaje.
+Todo empieza desde que somos muy pequeños, más precisamente, desde que somos capaces de aprender. El único problema de usar la palabra "aprender" es que es difícil explicar cómo funciona el aprendizaje. Sin embargo, aún así, creo que podemos reconocer al menos dos formas de aprendizaje.
 
   * Aprender por experiencia propia, es decir, nosotros desarrollamos conceptos, ideas o teorías propias.
-  * Aprender por experiencia externa, es decir, alguien se encarga de instruirnos.
+  * Aprender por experiencia ajena, es decir, alguien se encarga de instruirnos.
 
-El ejemplo más evidente del primer caso son los niños, ellos naturalmente tienden a repetir por cuenta propia todo aquello que frecuentan. Del mismo modo, cuando dejamos de ser niños, somos más capaces de asociar y entender cosas sin necesidad de que alguien nos explique. Pero, aunque el aprendizaje por cuenta propia es útil, también tenemos mayor incidencia a cometer errores, esto es debido a que precisamente es una primera experiencia, es decir, no hay preparación previa, y de fondo eso explica el por qué somos abiertos a "aprender del error".
+El ejemplo más evidente del primer caso son los niños, ellos naturalmente tienden a repetir por cuenta propia todo aquello que frecuentan. Del mismo modo, cuando dejamos de ser niños, somos más capaces de asociar y entender cosas sin necesidad de que alguien nos explique. Pero, aunque el aprendizaje por cuenta propia es útil, también tenemos mayor incidencia a cometer errores, es decir, no hay preparación previa, y de fondo eso explica el por qué somos abiertos "aprender del error".
 
-Luego tenemos la forma más común de introducirnos en la sociedad, aprendemos por la experiencia de otras personas, usualmente esto empieza gracias a nuestros padres, ellos nos imponen ciertas reglas de comportamiento hasta que las hacemos habituales, y eventualmente llegamos a ser parte de la sociedad sin saber cómo, ni cuándo pasó. De la misma manera, cuando recibimos educación académica básica, somos preparados de varias formas, y sin darnos cuenta de ello todas estas experiencias se van sumando a nuestra perspectiva del mundo. Incluso si no hubiera educación previa, el simple hecho de socializar hace que aprendamos la cultura y tradición del lugar.
+Luego tenemos la forma más común de introducirnos en la sociedad, donde aprendemos por la experiencia de otras personas. Usualmente esto empieza gracias a nuestros padres, ellos nos imponen ciertas reglas de comportamiento hasta que las hacemos habituales, y eventualmente llegamos a ser parte de la sociedad sin ser conscientes del todo. De la misma manera, cuando recibimos educación académica básica o cuando empezamos a socializar, somos preparados de varias formas, y sin darnos cuenta de ello todas estas experiencias se van sumando a nuestra perspectiva del mundo.
 
 Con respecto al último párrafo, ¿Hay algún problema en creer lo que nos dicen? Lo cierto es que, como criaturas sociables tenemos la predisposición natural de creer todo aquello que recibimos desde que somos muy pequeños, o sea que, normalmente no nos detenemos a cuestionar si debemos aceptar como verdad lo que nos dicen. Mi respuesta ante este asunto es: mientras seamos conscientes de lo que recibimos siempre debemos cuestionar pero, incluso si quisieramos discernir la verdad, en muchas ocaciones estamos obligados a actuar por fe.
 
@@ -47,8 +47,11 @@ Otra vez, según el capítulo anterior, mientras ambos sistemas de creencias no 
 
 Así mismo, para querer entender ¿Qué es bueno o malo? Debemos considerar todo lo que implica la extensión y defición que tenemos de la misma palabra. En mala hora no es fácil encontrar información concreta que diga definitivamente todo lo que es bueno o malo.
 
-De hecho, según la forma de pensamiento que sigamos, esta defición se divide en dos categorias: objetiva y subjetiva. Si la definición es subjetiva la respuesta es dependiente del sujeto, y por ello también es variable por cada sujeto. Si la definición es objetiva la respuesta es constante, así pues lo que es malo ahora siempre será malo sin importar el tiempo ni la situación.
+De hecho, según la forma de pensamiento que sigamos, esta defición se divide en dos categorias: objetiva y subjetiva. Si la definición es subjetiva la respuesta es dependiente del sujeto, y por ello también es variable para cada sujeto. Si la definición es objetiva la respuesta es constante, así pues lo que es bueno o malo ahora siempre será bueno o malo sin importar el tiempo ni la situación.
 
+## Juzgar o no juzgar
+
+La capacidad de diferenciar entre bueno y malo se lo conoce como juzgar.
 
 ---
 
