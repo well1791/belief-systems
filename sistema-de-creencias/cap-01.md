@@ -14,29 +14,29 @@ Por absurdo que parezca, ciertamente somos capaces de jugar con las palabras de 
 
 Respuesta: no respondas todavía.
 
-Querido lector, mi consejo en este libro es proceder de la misma manera con que con la primera pregunta de éste capítulo, simplemente ignora la urgencia de contestar de inmediato, y en su lugar meditemos un poco antes de articular tan si quiera una palabra.
+Querido lector, mi consejo en este libro es proceder de la misma manera con que con la primera pregunta de este capítulo, simplemente ignora la urgencia de contestar de inmediato, y en su lugar meditemos un poco antes de articular tan si quiera una palabra.
 
 ### La intención del mensaje
 
-Cada vez que alguien formula una pregunta, hay una serie de pensamientos atravesando la mente que van desde el interrogante hasta la respuesta, pero al momento de expresarnos surge el mayor de los problemas: la comunicación!, observa estos ejemplos:
+Es común que en casi toda conversación haya un intercambio de preguntas y respuestas, pero es más común que al momento de expresarnos el mayor problema sea la comunicación! Comunicación es el acto de transmitir información, pero toda información depende de un contexto para tener sentido, es decir, transmitir cualquier dato al azar sin propósito de ser usado no es comunicación. Imagina por un momento que estas cruzando por la calle y escuchas estas preguntas:
 
   * ¿Por qué el cielo es gris?
   * ¿Para qué el pasto rojo?
   * ¿Cómo se vuelve azul el sol?
 
-Tal vez, a simple vista las preguntas parecen absurdas, pero juzgarlas de esa forma es simplemente un error. Si observas nuevamente las preguntas, notarás que ninguna de ellas añade algún contexto en donde ubicarlas, y por su falta de contexto sencillamente no podemos decir si las preguntas son válidas o no. Si por ejemplo, el contexto de las preguntas fuera un videojuego o una novela fantástica, entonces tal vez tendrían sentido, tal vez haya un juego que permite cambiar el color del sol, o hay una novela que tiene un propósito intrigante con el color del pasto. El contexto es un arma poderosa capaz de dar sentido o volver absurdo cualquier mensaje.
+Tal vez, a simple vista las preguntas parecen absurdas, pero juzgarlas de esa forma es simplemente un error. Si observas nuevamente las preguntas, notarás que ninguna de ellas añade algún contexto en donde ubicarlas. La falta de contexto nos impide decir si las preguntas son válidas o no. Si por ejemplo, el contexto de las preguntas fuera un videojuego o una novela fantástica, entonces tal vez tendrían sentido, tal vez haya un juego que permite cambiar el color del sol, o hay una novela que tiene un propósito intrigante con el color del pasto. El contexto es un arma poderosa capaz de dar sentido o volver absurdo cualquier mensaje.
 
-Tambíen hay ocaciones donde queremos interpretar más allá de la intención del mensaje, queremos interpretar la intención del transmisor. Si por ejemplo  alguien pregunta por vacantes de trabajo, lo más común es asumir que esa persona está es buscando una oportunidad laboral, pero podría suceder que la intención de la persona en realidad es presumir, o tal vez esta reuniendo información con fines estadísticos.
+Así también hay ocaciones donde queremos interpretar más allá de la intención del mensaje, queremos interpretar la intención del transmisor. Si por ejemplo  alguien pregunta por vacantes de trabajo, lo más común es asumir que esa persona está buscando una oportunidad laboral, pero podría suceder que la intención de la persona en realidad es presumir, o tal vez solo esta reuniendo información con fines estadísticos para su propio trabajo.
 
-Cuando hablamos de la intención del mensaje hablamos de entender correctamente lo que el transmisor quiere preguntar, sin llegar al extremo de juzgar su pregunta por la falta de contexto, o intepretar la intención del transmisor por quere asumir más de lo que la persona está diciendo.
+Cuando hablamos de la intención del mensaje hablamos de entender correctamente lo que el transmisor quiere transmitir, sin llegar al extremo de juzgar su pregunta por la falta de contexto, o intepretar la intención del transmisor por quere asumir más de lo que la persona está diciendo.
 
-Llevar una conversación puede ser tan trivial como problemática, y en cualquiera de esos casos no somos conscientes de que estamos entendiendo a medias por el uso de expresiones ambiguas, en mala hora la ambiguedad es tan frecuente que simplemente pasa desapercibida. Considera estas preguntas:
+Llevar una conversación puede ser tan trivial como problemática, y en cualquiera de esos casos usualmente no somos conscientes de que estamos entendiendo todo a medias, esto por causa de las expresiones ambiguas, en mala hora la ambigüedad es tan frecuente que simplemente pasa desapercibida. Considera estas preguntas:
 
   * ¿Estás entendiendo exactamente lo que el transmisor quiere decir intencionalmente?
   * ¿Sabes si el transmisor tiene un significado ligeramente diferente a alguna palabra que tu ya conoces?
   * Asumiendo que la pregunta anterior fue afirmativa, entonces, ¿Cuánto podría esta palabra cambiar el significado intencional de toda la conversación?
 
-Desde la perspectiva de la historia, la ambiguedad es el inicio de un mar de posibilidades mayormente no deseadas. Permíteme compartir más ejemplos para demostrar hasta que punto este tipo de problemas son comunes.
+Desde la perspectiva de la historia, la ambigüedad es el inicio de un mar de posibilidades mayormente no deseadas. Permíteme compartir más ejemplos para demostrar hasta que punto este tipo de problemas son comunes.
 
 ### ¿Operación o signo?
 
@@ -56,31 +56,36 @@ Ok, tal vez el ejercicio es bastante fácil, pero aunque no parezca, hay un pequ
   - El signo positivo
   - La operación de adición
 
-Y por extraño que parezca, somos capaces de usar estos conceptos de forma intercambiable en ejercicios matemáticos sin inconveniente alguno (o eso parece), sin embargo, este es un caso de ambiguedad. Considera el siguiente ejemplo:
+Hay que resaltar que el significado de "signo" y de "operación" no es equivalente, y por extraño que parezca, somos capaces de usar estos conceptos de forma intercambiable en ejercicios matemáticos sin inconveniente alguno (o eso parece), sin embargo, este es un caso de ambigüedad. Considera el siguiente ejemplo:
 
   * x = 3 - 5 + 7
 
 ¿Cuál símbolo es un signo y cuál es una operación? Esta vez la respuesta podría no ser tan evidente, a menos que obviamente ya sepas como lidiar con este tipo de situaciones. Pero, para estudiantes nuevos en matemáticas la respuesta podría tener dos resultados diferentes según la agrupación de términos que usen:
 
-  * x = 3 - (5 + 7)   =>   3 - 12   =>   -9
   * x = (3 - 5) + 7   =>   -2 + 7   =>   5
+  * x = 3 - (5 + 7)   =>   3 - 12   =>   -9
 
 Normalmente las reglas de matemáticas definen una prioridad para resolución de operaciones, es decir, en este caso la operación de resta debe resolverse primero que la de adición; entonces, según esa definición, el segundo resultado es válido: x = 5.
 
-Pero, ya que resolver el ejercicio no es el objetivo de esta sección, vamos a enfocarnos en resolver el problema de ambiguedad que existe sobre el símbolo "+". Para ello veamos si podemos aplicar las reglas que hemos definido al inicio del ejemplo, para despejar la ambiguedad.
+Pero, ya que resolver el ejercicio no es el objetivo de esta sección, vamos a enfocarnos en resolver el problema de ambigüedad que existe sobre el símbolo "+". Para ello veamos si podemos aplicar las reglas que hemos definido al inicio del ejemplo, para despejar la ambigüedad.
 
-  1. Si todos los números reales excepto cero pueden ser o positivos, o negativos; entonces, todos los números excepto cero tienen un signo, por lo tanto; los números reales pueden ser escritos con sus respectivos signos como un solo valor.
-  1. Si la adición es una operación que depende de dos números, y el conjunto de todos los números incluye el conjunto de los números reales, y los números reales pueden ser escritos con su respectivo signo; entonces, los argumentos para la operación de adición pueden ser escritos con su respectivo signo.
+  * Si todos los números reales excepto cero pueden ser o positivos, o negativos; entonces,
+  * Todos los números excepto cero tienen un signo; por lo tanto,
+  * Los números reales pueden ser escritos con sus respectivos signos como un solo valor.
 
-Las proposiciones de arriba indican que es perfectamente válido escribir el ejercicio
+Y
+
+  * Si la adición es una operación que depende de dos cantidades
+    * Y las cantidades pueden ser representadas por los números reales
+    * Y los números reales pueden ser escritos con su respectivo signo; entonces,
+  * Los argumentos para la operación de adición pueden ser escritos con su respectivo signo.
+
+Entonces, es perfectamente válido escribir el ejercicio anterior de la siguiente forma.
 
   * x = 3 - 5 + 7
-
-De la siguiente manera.
-
   * x = +3 + -5 + +7
 
-De hecho, si escribes este ejercicio tal como lo ves en una calculadora, tendrías la respuesta correcta. Ahora, solo para aclarar lo que ha sucedido hasta ahora, estoy usando el símbolo "+" para expresar explícitamente los dos conceptos que el mismo símbolo representa: 1. El signo positivo y 2. La operación de adición, pero, como ya habrás notado, usar el mismo símbolo para expresar ambos conceptos hace que el ejercicio sea innecesariamente más difícil de entender.
+De hecho, si copias el ejercicio en una calculadora, tendrías la respuesta correcta. Ahora, solo para aclarar lo que ha sucedido hasta ahora, estoy usando el símbolo "+" para expresar los dos conceptos que el mismo símbolo representa: 1. El signo positivo y 2. La operación de adición, pero, como ya habrás notado, usar el mismo símbolo para expresar ambos conceptos hace que el ejercicio sea innecesariamente más difícil de entender.
 
 Para agregar un poco de claridad en este punto, podríamos agrupar términos y el resultado sería mucho mas evidente, pero, tendríamos que escribir mucho más, y al final no estamos resolviendo el problema de raíz, es decir, aún seguimos usando el símbolo "+" de forma ambigua. Observa el ejemplo anterior usando paréntesis.
 
@@ -88,17 +93,18 @@ Para agregar un poco de claridad en este punto, podríamos agrupar términos y e
 
 Pero, como dije antes, el signo "+" sigue siendo ambiguo, es decir, aún mantiene dos significados diferentes.
 
-Si definieramos un símbolo diferente para la operación de adición, por ejemplo: "⊕", la lectura de la operación tendría un efecto diferente en nuestras mentes. Aparte, recuerda que estamos buscando un símbolo que sea visualmente diferente al clasico "+", a fin de poder identificarlo propiamente como operación de adición y no como signo positivo. Entonces, veamos cómo este pequeño cambio afecta la comprensión del ejercicio.
+Si definieramos un símbolo diferente para la operación de adición, por ejemplo: "⊕", la lectura de la operación tendría un efecto diferente en nuestras mentes. Aparte, recuerda que estamos buscando un símbolo que sea visualmente diferente al clásico "+", a fin de poder identificarlo propiamente como operación de adición y no como signo positivo. Así pues, veamos cómo este pequeño cambio afecta la comprensión del ejercicio.
 
   * x = +3 ⊕ -5 ⊕ +7
 
 Finalmente! El ejercicio es mucho más claro ahora.
 
-Ahora, solo para ampliar la perspectiva del problema, si el ejercicio fuera una multiplicación no tendríamos ningún problema en leerlo, y eso es porque la operación de múltiplicación ya cuenta con un símbolo explícito y no ambiguo:
+Ahora, solo para ampliar la perspectiva del problema, si el ejercicio fuera una multiplicación no tendríamos ningún problema en leerlo, y eso es porque la operación de múltiplicación ya cuenta con un símbolo explícito y no ambiguo, compara los ejercicios:
 
-  * x = +3 &times; -5 &times; +7
+  * x = +3 ⊕ -5 ⊕ +7 (adición)
+  * x = +3 &times; -5 &times; +7 (multiplicación)
 
-En todo este ejemplo, intento demostrar que el símbolo "+" es ambiguo porque comparte dos definiciones diferentes: 1. Signo positivo y 2. Operación de adición, pero también intento demostrar que una vez que definimos un símbolo único: "⊕" y "+" para "operación" y "signo" respectivamente; entonces, el entendimiento del ejercicio mejora drásticamente.
+En todo este ejemplo, intento demostrar que el símbolo "+" es ambiguo porque comparte dos definiciones diferentes: 1. Signo positivo y 2. Operación de adición, pero también intento demostrar que una vez que definimos un símbolo único: "⊕" y "+" para "operación" y "signo" respectivamente; entonces, el entendimiento del ejercicio mejora drásticamente, y con ello también su resolución.
 
 El siguiente ejemplo eleva el nivel de incertidumbre.
 
@@ -110,19 +116,19 @@ Imaginemos que una mujer está embarazada por primera vez, y respondamos esta pr
 
 La respuesta debería ser concretamente "sí" o "no" pero, lo que usualmente sucede es que la gente reconsidera su conocimiento de la palabra "madre" antes de responder cualquier cosa. Esta pausa existente para responder, solo demuestra el conocimiento incierto que tenemos de la misma palabra.
 
-Mi apreciación de la palabra "madre" se define de la siguiente manera: Madre es toda aquella mujer que ha tomado la responsabilidad de cuidar a una persona que todavía no es capaz de cuidarse por cuenta propia. Normalmente se asocia la relación de estas personas como "madre" e "hijo" (independientemente del género), sin embargo, también creo que la palabra "hijo" en ningun momento debería implicar una relación sanguinea implícita. Aparte según mi propia definición, la palabra "cuidar" a su vez debe incluir la tarea de preparar de forma personal a para ser autosuficiente, es decir que, el resultado de una madre es evidente en la capacidad que tiene su hijo para enfrentar el mundo por cuenta propia. Ahora, quizá no sea notorio, pero debo enfatizar que toda madre debe tener una participación activa y no pasiva en su rol, por ejemplo, proveer la alimentación y el costo de los estudios de sus hijos es una acción pasiva, por tanto, eso no cubre la expectativa de ser madre según mi apreciación, por el contrario, sentarse con su hijo y enseñarle aquello que como madre y mujer conoce, cubre la participación activa.
+Mi definición de la palabra "madre" es la siguiente: Madre es toda aquella mujer que ha tomado la responsabilidad de cuidar a una persona que todavía no es capaz de cuidarse por cuenta propia. Normalmente se asocia la relación de estas personas como "madre" e "hijo" (independientemente del género), sin embargo, también creo que la palabra "hijo" en ningun momento debería implicar una relación sanguinea implícita. Aparte según mi propia definición, la palabra "cuidar" a su vez debe incluir la tarea de preparar de forma personal a su hijo para ser autosuficiente, es decir que, el resultado de una madre es evidente en la capacidad que tiene su hijo para enfrentar el mundo por cuenta propia. Ahora, quizá no sea notorio, pero debo enfatizar que toda madre debe tener una participación activa y no pasiva en su rol, por ejemplo, proveer la alimentación y el costo de los estudios de sus hijos es una acción pasiva, por tanto, eso no cubre la expectativa de ser madre según mi apreciación, por el contrario, sentarse con su hijo y enseñarle aquello que como madre y mujer conoce, cubre la participación activa.
 
-Mi objetivo al desarrollar la definición anterior es proponer un contraste de perspectivas, y puesto que esta diferencia nos permite explorar las implicaciones del problema, es necesario plantear perspectivas diferentes sobre el mismo tema. Te animo a comparar y evaluar tu propia perspectiva de madre con este ejemplo.
+Mi objetivo al desarrollar la definición anterior es proponer un contraste de perspectivas, y puesto que este contraste nos permite explorar las implicaciones del problema, es necesario plantear perspectivas diferentes sobre el mismo tema. Te animo a comparar y evaluar tu propia perspectiva y definición de madre con este ejemplo.
 
 Ahora, considerando lo que he dicho anteriormente, mi respuesta a la pregunta sería "no" basado en el hecho de que una mujer embarazada todavía no tiene sobre quién ejercer la tarea de cuidar y preparar.
 
   * ¿Sería una madre después de que el bebé nace?
 
-Eso tal vez suene convincente pero, ciertamente hay casos de mujeres que teniendo bebés deciden abandonarlos, así que muy a pesar de que tenga un hijo, aún queda pendiente la intensión propia de la mujer para con su bebé. La respuesta entonces sería no, tener un bebé no convierte a ninguna mujer en madre, pero, tomar la responsabilidad de cuidar y preparar a su bebé sí la convierte en una madre.
+Eso tal vez suene convincente pero, ciertamente hay casos de mujeres que teniendo bebés deciden abandonarlos, así que muy a pesar de que tenga un hijo, aún queda pendiente la intensión propia de la mujer para con su bebé. La respuesta entonces sería no, el simple hecho de engendrar un bebé no convierte a ninguna mujer en madre sino únicamente en progenitora, por el contrario, tomar la responsabilidad de cuidar y preparar a su bebé sí la convierte en una madre.
 
   * ¿Si ella da al bebé en adopción, podría ser considerada madre?
 
-Si dejamos de lado el concepto que definí al principio, normalmente para responder este tipo de preguntas mucha gente suele involucrar emociones e intenciones. El problema con este tipo de respuestas es que la palabra ahora tendría un significado mucho más complejo, es decir, podríamos tener respuestas paradójicas como la del gato de Schrödinger, entiéndase lo siguiente: puede existir una situación tal donde una mujer es madre y no es madre al mismo tiempo, esta idea a su vez genera la posibilidad de la expresión "mala madre", que si bien debe dar a entender que dicha mujer no ejerce correctamente el rol que se supone debe ejercer, a su vez, ya que la definición concreta de "madre" aún es incierta, por consecuencia también lo es el significado de "mala", es decir que; si esta persona es considerada "mala madre", por falta de definición no sabríamos juzgar ¿Qué la hace mala? Nótese que en el inicio del párrafo dejamos de lado la defición con la que empezamos esta sección del ejemplo. Pero, volviendo al concepto que definimos sobre madre, mi respuesta en este caso es que cualquier persona que no hace ejercicio de madre, no debe ser considerada madre.
+Si dejamos de lado el concepto que definí al principio, normalmente para responder este tipo de preguntas mucha gente suele involucrar emociones e intenciones. El problema con este tipo de respuestas es que la palabra ahora tendría un significado mucho más complejo, es decir, podríamos tener respuestas paradójicas como la del gato de Schrödinger, entiéndase lo siguiente: puede existir una situación tal donde una mujer es madre y no es madre al mismo tiempo, esta idea a su vez genera la posibilidad de la expresión "mala madre", que si bien debe dar a entender que dicha mujer no ejerce correctamente el rol que se supone debe ejercer, a su vez, ya que la definición concreta de "madre" aún es incierta, por consecuencia también lo es el significado de "mala", es decir que; si esta persona es considerada "mala madre", por falta de definición no sabríamos juzgar ¿Qué la hace mala? Nótese que al inicio de este párrafo dejamos de lado la defición con la que empezamos esta sección del ejemplo. Pero, volviendo al concepto que definimos sobre madre, mi respuesta en este caso es que cualquier persona que no hace ejercicio de madre no debe ser considerada madre.
 
   * Si ella quiere tener su bebé y además adoptar otro, ¿Ella sería una madre para uno o para ambos?
 
@@ -136,19 +142,17 @@ Ahora, imaginemos que esta mujer pierde sus hijos, esto podría suceder durante 
 
   * ¿Puede alguien que ha sido llamada madre antes, dejar de ser llamada madre después?
 
-Seguro que es posible, según la definición que propuse inicialmente, el único requerimiento para que alguien sea una madre es haber tomado la responsabilidad de ejercer su rol sobre alguien en condiciones tal que dependan de una madre.
+Eso sería lo más correcto. Según la definición que propuse inicialmente, el único requerimiento para que alguien sea una madre es haber tomado la responsabilidad de ejercer su rol sobre alguien en condiciones tal que dependan de una madre.
 
 Ahora, este tema evita algunos detalles que deben ser mencionados a fin de proveer en la medida posible una respuesta que pueda satisfacer cualquier perspectiva de la misma palabra.
 
   1. La expectativa - Para que una palabra finalmente tenga sentido, debe existir una definición concreta sobre la expectativa del uso de la palabra, que a su vez, debe ser entendida por aquellos que usan la palabra. Si existe la palabra "bombero", debe existir una expectativa sobre la función, actividad, tarea, o implicación de un bombero, y esto se supone debe ser entendido por aquella persona que es bombero, y por aquellas otras personas que no son bomberos pero buscan el servicio de los bomberos.
   1. La asociación entre expectativa y sujeto - Todo aquello que nos sirve para reconocer un sujeto sin hacer uso de su identidad, se basa en una expectativa del sujeto mismo. Si consideramos un capitán de infantería, vemos por experiencia que usualmente reconocemos primeramente el título en lugar de su nombre o identidad, de hecho, en el ejercicio práctico los subordinados acostumbran a llamar a sus superiores por su rango, y no por su identidad personal.
-  1. La relación personal (opcional) - Para que una primera persona (A) sea asociada con una palabra expectativa, debe existir otra persona (B) que use esa misma palabra para referirse a la primera persona (A). Si existe la palabra "profesor" para referirnos a quienes ejercen la tarea de enseñar (A), entonces, también debe existir al menos una persona (B) que use esta palabra para llamar a otra persona "profesor". Este caso implica obligatoriamente al menos dos personas, según el ejemplo del profesor, diríamos que la otra persona (B) sería un estudiante. Aquí alguien podría agregar, que además también existe una tercera persona (C) que no es estudiante ni profesor, pero, esta última persona no es requerida, así pues es conveniente evaluar la relación personal desde la perspectiva del profesor, ¿Tiene sentido ser profesor sin estudiantes? o ¿Tiene sentido ser estudiante sin profesor?.
+  1. La relación personal (opcional) - Para que una primera persona (A) sea asociada con una palabra diferente a la identidad de la persona, debe existir otra persona (B) que use esa misma palabra para referirse a la primera persona (A). Si existe la palabra "profesor" (A), entonces, también debe existir al menos una persona (B) que use la palabra "profesor". Este caso implica obligatoriamente al menos dos personas, según este ejemplo diríamos que la otra persona (B) sería un estudiante. Aquí alguien podría agregar, que además también existe una tercera persona (C) que no es estudiante ni profesor, esta observación es incorrecta porque el profesor esta obligado a tener estudiantes para que tenga sentido ser profesor, así pues es conveniente evaluar la relación personal desde la perspectiva del profesor, ¿Tiene sentido ser profesor sin estudiantes? o ¿Tiene sentido ser estudiante sin profesor?.
 
-Estos tres conceptos se conectan a partir de la expectativa, es decir, la expectativa genera la asociación y en algunos casos esta última a su vez da lugar a la relación personal.
+Estos tres conceptos se conectan a partir de la expectativa, es decir, la expectativa genera la asociación y en algunos casos esta última a su vez da lugar a la relación personal, he aquí un ejemplo: Un día Juan decide juntar bolsas de agua con piedras dentro sobre las ramas de los árboles de su casa. Con el pasar del tiempo la gente de alrededor lo empiezan a llamar "piedragüero", luego otra persona empieza a hacer lo mismo y ahora a esta persona en particular lo llaman "piedragüero", y de poco en poco más personas empiezan a actuar igual, luego un extranjero llega a la ciudad y escucha la palabra "piedraguar" y pregunta al respecto, y aprende que "piedraguar" es la tarea de amontonar bolsas de agua con piedras sobre las ramas de los árboles de una casa. Aquí, aunque el ejemplo sea absurdo, la palabra "piedragua" surgió para definir la expectativa de actividad, luego hubo al menos una persona que se encargó de asociar a una persona con esta expectativa, y eventualmente más personas empezaron a asociar a otras personas con la misma palabra.
 
-He aquí un ejemplo, Un día Juan decide juntar bolsas de agua con piedras dentro sobre las ramas de los árboles de su casa. Con el pasar del tiempo la gente de alrededor lo empiezan a llamar "el piedragua", luego otra persona empieza a hacer lo mismo y ahora a esta persona en particular lo llaman "piedragua", y de poco en poco más personas empiezan a actuar igual, luego un extranjero llega a la ciudad y escucha la palabra "piedragua" y pregunta al respecto, y aprende que "piedra" es la tarea de amontonar bolsas de agua con piedras sobre las ramas de los árboles de una casa. Aunque el ejemplo sea absurdo, la palabra nueva "piedragua" surgió para definir una expectativa de actividad, luego hubo al menos una persona que se encargó de asociar a una persona con esta expectativa.
-
-Volviendo al ejemplo de la palabra madre, si usamos el análisis anterior, podríamos decir que si alguien se anticipa a la expectativa de ser madre entonces:
+Volviendo al ejemplo de la palabra madre, si usamos el análisis anterior, podríamos decir que si alguien se anticipa a la expectativa de ser madre, es decir, desarrolla conocimiento previo a la acción, entonces:
 
   - ¿Es posible que una persona pueda ser preparada para ser madre si cumple solamente con la expectativa?
 
@@ -156,50 +160,50 @@ La respuesta es afirmativa y no solo eso sino que efectivamente puede existir un
 
   - Si una mujer está preparada para ser madre pero no tiene con quien ejercer su rol, entonces, ¿Podría ser llamada madre?
 
-Aunque pueda sonar afirmativo, tenemos un problema, si no existe una relación personal entonces, ¿Qué es una madre sin hijos? Tal vez, aquí yo podría argumentar que cualquier persona puede llamarla madre, pero luego mi pregunta sería, ¿Con qué perspectiva e intensión la llaman madre?
+Aunque pueda sonar afirmativo, tenemos un problema, si no existe una relación personal entonces, ¿Qué es una madre sin hijos? Tal vez, aquí yo podría argumentar que realmente cualquier persona puede llamar "madre" a quien quiera, pero luego mi pregunta sería, ¿Con qué perspectiva e intensión la llaman madre?
 
-Ahora, solo para reforzar la importancia del sentido práctico de las palabras con definición concreta. Si en este análisis reemplazáramos la palabra "madre" por "amigo", igual que con el ejercicio anterior también debemos exigir la expectativa de la palabra. Así pues, aunque yo podría llamar amigo a quien yo quiera, la persona debe actuar como amigo para que la palabra tenga sentido, y a su vez la palabra amigo debe estar claramente definida para que ambos sepan cuál es la expectativa que uno tiene del otro. Creo que está de más decir que podríamos aplicar el mismo principio para cualquier título o rol: policia, presidente, médico, padre, etc.
+Ahora, solo para reforzar la importancia del sentido práctico de las palabras con definición concreta. Si en este análisis reemplazáramos la palabra "madre" por "amigo", igual que con el ejercicio anterior también debemos exigir la expectativa de la palabra. Así pues, aunque cualquiera pueda llamar amigo a quien quiera, el "amigo" debe actuar como amigo para que la palabra tenga sentido, y a su vez la palabra amigo debe estar claramente definida y entendida para que ambos sepan cuál es la expectativa que el uno tiene del otro.
 
-## El problema de la ambiguedad
+Creo que está de más decir que podríamos aplicar el mismo principio para cualquier título o rol: policia, presidente, médico, padre, etc.
+
+## El problema de la ambigüedad
 
 El tema principal de esta sección son las definiciones vagas y/o ambiguas. Y algo que pensé por mucho tiempo para resolver este dilema de significados era usar la etimología. Así, al día de hoy todos tendríamos una definición concreta basados en el origen de cada palabra en particular, sin embargo; si usáramos la etimología de esta manera, terminaríamos cayendo en una trampa llamada "falacia etimológica". El problema con esta falacia es que las palabras actuales han redefinido su significado de acuerdo al cambio social, cultural, y muchas otras variables, un ejemplo de esto podría ser la palabra "bug"; que en su significado original en inglés se entiende como insecto o bicho pero, su significado contemporáneo es mayormente reconocido como "error de software", e incluso podríamos decir que hasta cierto punto se pierde el significado original de la palabra por causa de este significado contemporáneo popular. Esa es la razón que sea considerado una falacia, porque es equivocado pensar que todas las palabras de hoy deben significar lo mismo que en su origen. Ahora, si consideramos que existen lenguajes que no tienen una traducción equivalente palabra a palabra, el problema con la etimología se vuelve peor, por ejemplo, la palabra "software" no tiene una traducción directa al español.
 
-En cualquier caso, al día de hoy; las soluciones que vemos para ambiguedad son "definiciones compuestas" como yo lo llamo. Si pensamos en el ejemplo de "madre o no", encontraremos que ya hay un conjunto de palabras para referirse a cada situación posible que pueda presentar una madre: madre adoptiva, madre biológica, madre putativa, etc. Pero, el problema con estas definiciones compuestas es que el significado de la palabra "madre" sigue siendo vago.
+En cualquier caso, al día de hoy; las soluciones que vemos para ambigüedad son "definiciones compuestas" como yo lo llamo. Si pensamos la sección "madre o no" de este libro, encontraremos que ya hay un conjunto de palabras para referirse a cada situación posible que pueda presentar una madre: madre adoptiva, madre biológica, madre putativa, etc. Pero, el problema con estas definiciones compuestas es que el significado de la palabra "madre" sigue siendo vago.
 
 Solo para aclarar, no sugiero que debieramos quitar tales definiciones compuestas de nuestro vocabulario, pues el significado en sí mismo es bastante explícito, pero, mi enfoque es reconocer que de ambas definiciones, con frecuencia sólo una es concreta. Pensamos en esto: si el significado de "madre" es la expresión usada comúnmente para denotar la relación personal entre dos individuos, entonces, decir "madre biólogica" tiene la intensión de expresar la relación biológica de ambos individuos, pero, la responsabilidad y expectativa de dicha relación personal aún es vaga en definición, es decir, si escuchamos "madre biológica" entendemos que son parientes de sangre pero, no sabemos si ella ejerce correctamente su rol de madre, es decir, ¿Es digna de ser llamada madre?. Para evitar este tipo de incertidumbre, podríamos reemplazar la expresión "madre biológica" por "progenitora", y más allá de ser válido, es mucho más concreto en lo que se quiere decir intencionalmente.
 
-Cuando hablamos de ambiguedad, hablamos sobre cómo el significado intencional de un mensaje puede ser afectado. En un sentido básico, todo mensaje tiene un significado intencional concreto pero, dependiendo de múltiples factores este significado puede ser mal entendido. Este problema usualmente sucede porque el mensaje contiene al menos una palabra tal que tiene múltiples significados (para los interesados en linguística, la capacidad de una palabra de tener múltiples significados es conocida como polisemia). Ahora, la solución para este tipo de problemas es mayormente discutida en linguística y filosofía, y yo diría que incluso fuera de estos campos es un tema bastante amplio para debatir. Sin embargo, mi objetivo es ser capaz de indentificar y evitar la ambiguedad apropiadamente.
+Cuando hablamos de ambigüedad, hablamos sobre cómo el significado intencional de un mensaje puede ser afectado. En un sentido básico, todo mensaje tiene un significado intencional concreto pero, dependiendo de múltiples factores este significado puede ser mal entendido. Este problema sucede usualmente porque el mensaje contiene al menos una palabra tal que tiene múltiples significados (para los interesados en linguística, la capacidad de una palabra de tener múltiples significados es conocida como polisemia). La solución para este tipo de problemas es mayormente discutida en linguística y filosofía, y yo diría que incluso fuera de estos campos el problema es bastante amplio para debatir. Sin embargo, mi objetivo es incentivar el cuestionamiento a fin de indentificar y evitar la ambigüedad lo mejor posible.
 
-Empecemos explicando lo que significa "ambiguedad léxica". La ambiguedad léxica sucede cuando un lexema tiene más de un significado. Un lexema es básicamente la unidad de un vocabulario o léxico, por ejemplo, la palabra "manzana" es un lexema en el léxico español. El significado de lexema no se limita únicamente al ejemplo mencionado, de hecho, si profundizamos más en las especificaciones y extensiones de la semántica, el concepto de lexema puede crecer y volverse extremadamente complejo, pero ese tema esta fuera del alcance de este libro.
+Empezaré explicando el problema de la ambigüedad léxica. Esta sucede cuando un mensaje contiene una palabra que tiene más de un significado; y como resultado, es muy probable que el significado intencional del mensaje sea mal entendido, pero, es muy común que los diferentes significados de dicha palabra no estén relacionados entre sí. Podemos recordar en el caso "operación o signo" presentado en la primera sección de este libro, donde el símbolo "+" tiene dos significados concretos y ambos significados son completamente diferentes uno del otro: "operación de adición" y "signo positivo". Para resolver este problema lo ideal es usar el significado correcto en el momento correcto, esto significa, entender bien el contexto.
 
-Respecto a la "ambiguedad léxica", podríamos decir que; para cualquier mensaje existe una palabra tal que tiene múltiples significados concretos; por ende, el significado intencional del mensaje podría ser mal entendido, sin embargo, la mayoría de veces los posibles significados de una palabra no están relacionados, como en el caso del ejemplo "operación o signo", el lexema "+" que pertenece al vocabulario de las matemáticas, tiene dos significados concretos, ambos significados son completamente diferentes uno del otro: "operación de adición" y "signo positivo"; es así que la ambiguedad se supone que debe ser fácilmente resuelta usando el significado correcto en el momento correcto. Este análisis indica que la mayoría de veces, el significado de una palabra depende del contexto semántico.
+Si recapitulamos el caso "madre o no" podemos notar que el problema de la palabra "madre" no encaja con la definición de "ambigüedad léxica", es decir, en primer lugar debe haber definiciones concretas sobre la palabra "madre", pero, la realidad es difícil encontrar una definición que satisfaga todos los casos de uso de la misma palabra. Si describimos el problema tendríamos que para cualquier mensaje, existe una palabra tal que tiene multiples significados, y algunos de estos significados no son de conocimiento común, por ende, el significado intencional del mensaje podría ser parcialmente entendido. A diferencia de la ambigüedad léxica, este problema nos lleva a creer que hemos entendido el mensaje correctamente pero, la realidad es que muy probablemente entendimos solo una parte.
 
-Si recapitulamos el ejemplo "madre o no" podemos notar que el ejemplo no encaja con la definición de "ambiguedad léxica", es decir, si no hubieramos definido un concepto concreto sobre la expectativa de madre, entonces fuera evidente que los posibles significados de la palabra "madre" no tienen una definición concreta. En este caso, la ambiguedad de la palabra "madre" podría ser descrita así: para cualquier mensaje, existe una palabra tal que tiene multiples significados, y todos estos significados comparten muchas similitudes, pero difieren en ciertos casos, por ende, el significado intencional del mensaje podría ser parcialmente entendido. Contrario a "ambiguedad léxica", este problema nos lleva a creer que hemos entendido el mensaje correctamente pero, la realidad es que muy probablemente entendimos solo una parte de ello.
+La importancia de la ambigüedad es que paradójicamente hablando, es gracias a este conocimiento que podemos aclarar muchas otras cosas basados en el sistema de creencias. He aquí un ejemplo: Para un entrenador motivacional la palabra "felicidad" tal vez significa que cada persona debería cumplir sus sueños y metas, pero tal vez, para un monje budista la "felicidad" no tiene ninguna relación con nuestros sueños o metas. Así que, incluso si ambas perspectivas parecen apuntar al mismo objetivo, los caminos para alcanzarlos son diferentes. Es por esta razón que somos propensos a entender las cosas a medias, porque en la realidad sucede que una misma palabra tiene diferentes significados.
 
-La importancia de la ambiguedad es que paradójicamente hablando, es gracias a este conocimiento que podemos aclarar muchas otras cosas basados en el sistema de creencias. He aquí un ejemplo: para un entrenador motivacional la palabra "felicidad" tal vez significa que cada uno debería cumplir sus sueños y ambiciones, pero tal vez, para un monje budista la "felicidad" no tiene ninguna relación con nuestros sueños o ambiciones. Así que, incluso si ambas perspectivas parecen apuntar al mismo objetivo, los caminos para alcanzarlos son diferentes. Esto significa que debido a la falta de este conocimiento, somos propensos a entender las cosas a medias.
+Creo que para este tipo de ambigüedad podemos definir la siguiente regla: para cada posible definición que podamos encontrar para una palabra, debe existir un conjunto de deficiones que comparten la misma perspectiva sobre otras palabras, con el único propósito de crear un sistema de creencias que supuesta y finalmente tenga sentido sobre nuestra cosmovisión. Lo que dije simplemente significa que: dependiendo de lo que creamos, el uso de nuestras palabras tendrán una definición diferente, y las deficiones de estas palabras deben estar relacionadas y conectadas coherentemente entre sí para que tengan sentido en nuestra grande y amplia perspectiva de la realidad.
 
-Creo que para este tipo de ambiguedad podemos definir la siguiente regla: para cada posible definición que podamos encontrar para una palabra, debe existir un conjunto de deficiones que comparten la misma perspectiva sobre otras palabras, con el único propósito de crear un sistema de creencias que supuesta y finalmente tenga sentido sobre nuestra cosmovisión. Lo que dije simplemente significa que: dependiendo de lo que creamos, el uso de nuestras palabras tendrán una definición diferente, y las deficiones de estas palabras deben estar relacionadas y conectadas coherentemente entre sí para que tengan sentido en nuestra grande y amplia perspectiva de la realidad.
+Si consideramos el ejemplo del entrenador motivacional y el monje budista, podemos enfatizar estos detalles:
 
-Si consideramos el ejemplo del entrenador motivacional y el monje budista, podemos enfatizar ciertos detalles:
+  * Si ambos comparten el mismo lenguaje y palabras,
+    * Y Ambos tienen una cosmovisón diferente, entonces,
+  * Es probable que ambos tengan un conjunto de definiciones diferentes para las mismas palabras.
 
-  * Ambos tienen una cosmovisón diferente.
-  * Ambos comparten el mismo lenguaje y palabras.
-  * Ambos tienen un conjunto de definiciones diferentes para las mismas palabras.
-
-Ya que la ambiguedad es un problema común, la próxima vez que tengas un debate, asegúrate de aclarar perspectivas.
+Ya que la ambigüedad es un problema común, la próxima vez que tengas un debate, asegúrate de aclarar perspectivas.
 
 ## Un sistema de creencias es...
 
 Si alguna vez has experimentado ese tipo de situaciones donde la gente esta argumentando sobre diferencias de significado porque tienen diferentes perspectivas, entonces, ¡Felicidades! Ya has experimentado los problemas del sistema de creencias.
 
-Explicar lo que un sistema de creencias significa, es por demas complejo porque no es únicamente un problema de perspectiva. Así que, dejame explicarlo palabra a palabra:
+Explicar lo que un sistema de creencias significa, es por demas complejo porque no es únicamente un problema de perspectiva. Déjame explicarlo palabra a palabra:
 
   * Creencia es el acto de estar convencido de que algo es verdad.
-  * Sistema es el grupo de patrones interactuando juntos en cierto orden.
+  * Sistema es un grupo de patrones interactuando juntos en cierto orden.
 
-La idea detrás de cualquier sistema de creencias es que todo tenga sentido desde la perspectiva correcta. Si consideras que a lo largo de la vida aprendemos muchas cosas de diferentes perspectivas, el problema que tenemos luego es que las cosas no tienen mucho sentido dependiendo de lo que creamos, y es así porque mezclamos perspectivas que pueden ser mutualmente excluyentes, por ejemplo, queremos ser buenos con todos pero nos alejamos de aquellos que son malos, o sea que, probablemente no queremos ser buenos con todos en totalidad, sino con todos aquellos que son buenos con nosotros ¿O, acaso es con todos aquellos que aún no nos han hecho mal?, otro ejemplo similar podría ser que, tal vez queremos experimentar la paz de un monje budista pero la felicidad de un entrenador motivacional, algo así como ser calmado como un árbol pero enérgicos como una tormenta, que si bien en este último ejemplo ambas ideas no son mutualmente excluyentes, ciertamente todavía queda la incertidumbre de cómo coexisten y más que eso es cómo podrían conectarse ambas ideas. La razón de que sea llamado "sistema de creencias" es que se enfoca más en el "sistema" que en la "creencia", porque se supone que todo sistema debe funcionar.
+La idea detrás de cualquier sistema de creencias es que todo tenga sentido desde la perspectiva correcta. Si consideras que a lo largo de la vida aprendemos muchas cosas de diferentes perspectivas, el problema que tenemos luego es que habrán cosas no tengan mucho sentido dependiendo de lo que creamos, y es así porque mezclamos perspectivas que pueden ser mutualmente excluyentes, por ejemplo, hay quienes quieren ser buenos con todos pero se alejan de aquellos que son malos, o sea que, probablemente no quieren ser buenos con todos en totalidad, sino con todos aquellos que son buenos con ellos ¿O, acaso es con todos aquellos que aún no les han hecho mal?, otro ejemplo similar podría ser que tal vez queremos experimentar la paz de un pacifista pero la felicidad de un entrenador motivacional, algo así como ser calmado como un árbol pero enérgicos como una tormenta, que si bien en este último ejemplo ambas ideas no son mutualmente excluyentes, ciertamente todavía queda la incertidumbre de cómo coexisten y más que eso es cómo se conectan ambas ideas. La razón de que sea llamado "sistema de creencias" es que se enfoca más en el "sistema" que en la "creencia", porque se supone que todo sistema debe funcionar.
 
-Lo siguiente es aclarar el significado de "creer", cualquier creencia es conocimiento en sí mismo pero, no es así al revés; esto significa que podemos conocer un montón de cosas pero no significa que creemos en todo lo que conocemos. Existe conocimiento que muchos adultos no creen como la existencia de "Peter Pan" o "Narnia"; y existe conocimiento que muchos adultos sí creen como "el capitalismo" o "la construcción de casas". Esto además implica que no importa cuánto forces a alguien creer en algo, incluso si cualquiera dice creerlo; si la persona no esta convencida de que tal cosa es verdad entonces, no hay creencia, sino solamente conocimiento.
+Lo siguiente es aclarar el significado de "creer". Cualquier creencia es conocimiento en sí mismo pero, no es así al revés; esto significa que podemos conocer un montón de cosas pero estamos obligados a creer en todo lo que conocemos, existe conocimiento que muchos adultos no creen como la existencia de "Peter Pan" o "Narnia"; y existe conocimiento que muchos adultos sí creen como "el capitalismo" o "la construcción de casas". Esto además implica que no importa cuánto forces a alguien creer en algo, incluso si esa persona dice creerlo; si la persona no esta convencida de que tal cosa es verdad entonces, no hay creencia, sino solamente conocimiento, y a pesar de que diga que sí lo cree, sus palabras y su mente son dos cosas diferentes.
 
 ## La percepción y la realidad
 
@@ -221,8 +225,6 @@ Imaginemos que alguien esta caminando a través de un bosque y ve una fruta que 
 
 Una vez más, la percepción sensorial siempre será la primera interfaz que nos ayude a asociar realidad pero, no podemos simplemente decir que creémos en algo simplemente porque lo percibimos agradable, algunas situaciones requieren mucho más que solo percepción, situaciones como esas dependen mayormente de nuestra consciencia.
 
-Por cierto, espero que no olvides las preguntas que formulamos en esta sección, las mismas deberían tener una respuesta al final del capítulo.
-
 ## ¿Cuándo algo se vuelve real?
 
 Cuando pensamos sobre la palabra "realidad", usualmente asociamos "real" con "verdadero" e "irreal" con "falso" pero, ¿Qué significa que algo sea real o falso?
@@ -240,26 +242,25 @@ Si preguntamos sobre Jedis, dragones o sirenas, podríamos tener dos tipos de re
 
 La definición de realidad es bastante compleja si consideramos que hay bastantes ideas de muchos filósofos en este tema. Ahora, no es mi intensión darte una definición final sobre esto pero, quiero compartirte algo que llamo ¨"irrealidades válidas", ésto significa que aunque algo pudiera ser real, no implica que debería ser válido, es decir, pudiera perfectamente ser inválido y seguir siendo real.
 
-La expectativa de válido e inválido es que tal cosa debería ser aplicable, es decir, existe una expectativa de uso de la palabra, y la asociación del sujeto a la palabra cumple con la expectativa. Si por ejemplo comparamos un tenedor hecho de lana y un dibujo digital de un tenedor, diriamos que aunque los dos reales, tambien son inválidos porque aunque tengan la apariencia de un tenedor no pueden desempeñar la función de un tenedor. Esto nos trae una definición adicional: válido es todo aquello que desempeña correctamente la expectativa que implica su nombre.
+La expectativa de válido e inválido es que tal cosa debería ser aplicable, es decir, existe una expectativa de uso de la palabra, y la asociación del sujeto a la palabra cumple con la expectativa. Si por ejemplo comparamos un tenedor hecho de lana y un dibujo digital de un tenedor, diriamos que aunque los dos reales también son inválidos, porque aunque tengan la apariencia de un tenedor no pueden desempeñar la función de un tenedor. Esto nos trae una definición adicional: Válido es todo aquello que desempeña correctamente la expectativa que implica su nombre.
 
-Si somos capaces de evaluar la validez o invalidez basados en la expectativa de su nombre entonces, también es posible deducir si un sistema entero es válido o no, y en este punto, yo considero que esto es posible gracias a la interacción.
+Si somos capaces de evaluar la validez o invalidez basados en la expectativa de su nombre, y esto gracias a que la expectativa produce resultados, entonces, también es posible deducir si un sistema entero es válido o no basados en resultados, y en este punto, yo considero que esto es posible primeramente gracias a la interacción, pues si no puedieramos interactuar con el resultado jamás podríamos evaluarlo.
 
-Considera esto, si dos personas dicen entender el mismo sistema entonces, ambos deberían ser capaces de interactuar entre sí usando únicamente ese sistema en particular. Si eso es cierto entonces, ambos deberían llegar a los mismos resultados, y estos resultados deberían ser correctamente aprobados basados en el sistema que estan usando. Solo entonces decimos que ese sistema es válido.
-
-Analisemos estas condiciones:
+Considera esto, si dos personas dicen entender el mismo sistema entonces, ambos deberían ser capaces de interactuar entre sí usando únicamente ese sistema en particular. Si eso es cierto entonces, ambos deberían llegar a los mismos resultados, y estos resultados deberían ser correctamente aprobados basados en el sistema que estan usando. Solo entonces decimos que ese sistema es válido. Desde otra perspectiva yo diria que:
 
   * Si al menos dos personas pueden interactuar entre sí usando un sistema particular
-    * Entonces, esa interacción es sistemática; es decir; existen reglas y patrones que aprender para poder intactuar.
+    * La interacción es sistemática, es decir, existen reglas y patrones que aprender para poder intactuar.
+    * Por tanto hay predeterminación de resultados.
   * Si al menos dos personas pueden entender un sistema en particular
-    * Entonces, es comunicable y replicable; es decir; no depende únicamente de una experiencia personal, en lugar de ello, la experiencia puede ser compartida y reproducida multiples veces.
+    * Entonces, es comunicable y replicable, es decir, no depende únicamente de una experiencia personal, en lugar de ello, la experiencia puede ser compartida y reproducida multiples veces.
 
-Así que de acuerdo a las condiciones anteriores, las posibilidades de cualquier sistema serían las siguientes:
+Entonces, usando las proposiciones anteriores sobre cualquier sistema, se puede determinar que hay al menos cuatro tipo de sistemas:
 
   * Sistemas reales - Existe conocimiento sistemático que puede ser compartido y entendido.
     * Válido - Son funcionales, como la globalización, mecánica, programación, etc.
     * Inválido - Presenta resultados errados por su contraparte válida, ejemplo, alguien usando mal una herramienta, o alguien respondiendo erroneamente una evaluación, o alguien teniendo resultados equivocados en una fábrica, etc.
 
-  * Sistemas irreales - El conocimiento de esto es ampliamente aceptado como irreal, y probablemente no puede ser entendido ni compartido en totalidad.
+  * Sistemas irreales - El conocimiento de esto es ampliamente aceptado como irreal, o probablemente no puede ser entendido ni compartido en totalidad.
     * Válido - Son funcionales, como los juegos o videojuegos, novelas, peliculas de ficción, etc.
     * Inválido - Su conocimiento nunca ha sido desarrollado y por tanto no es funcional ni puede ser compartido, ejemplo, el lenguaje prohibido de las hadas serpientes, un mapa elefantico hacia el centro de la tierra, alguien hablando incoherencias, etc.
 
@@ -269,11 +270,11 @@ He aquí un ejemplo práctico, dos matemáticos se conocen por primera vez pero 
   * Si ambas respuestas son exactamente iguales, entonces concluimos en que el sistema es real y válido.
   * Si hay al menos una respuesta que es diferente entonces, ambos sistemas son reales, pero uno de ellos es inválido, esto debido a que la cantidad de ejercicios ha reducido las posibilidades de coincidencia.
 
-Entonces, una vez más, ¿Por qué decimos que un celular duplicado es falso? Bueno, parece que en ese sentido es falso debido a que no es válido, es decir, es real que existan celulares que son duplicados ilegalmente, pero, ya que no son aprobados por el sistema que crea los celulares legalmente, entonces decimos que son inválidos, a pesar de que puedan funcionar.
+Entonces, una vez más, ¿Por qué decimos que un celular duplicado es falso? Bueno, parece que en ese sentido es falso debido a que no es válido, es decir, es real que existan celulares que son duplicados ilegalmente, pero, ya que no son aprobados por el sistema que crea los celulares legalmente, entonces decimos que son inválidos, a pesar de que puedan funcionar. Y este mal uso de la palabra se filtra entre los problemas de ambigüedad.
 
-De cualquier forma, aún existen situaciones que estan fuera de este método de análisis. Consideremos por ejemplo las capacidades del lenguaje para expresarnos, lo cierto es que dificilmente podríamos describir con exactitud olores o sabores, ya que ese tipo de percepciones son dificiles de compartir usando únicamente el lenguaje; y es ahí donde entra en uso la palabra "indescriptible". Ahora, si algo resulta indescriptible, la pregunta es, ¿Es real o irreal? ¿Es válido o inválido? Mi única respuesta ante este asunto es no descartar el favor de la duda.
+De cualquier forma, aún existen situaciones que estan fuera de este método de análisis. Consideremos por ejemplo las capacidades del lenguaje para expresarnos, lo cierto es que dificilmente podríamos describir con exactitud olores o sabores, ya que ese tipo de percepciones son difíciles de compartir usando únicamente el lenguaje; y es ahí donde entra en uso la palabra "indescriptible". Pero, si algo resulta indescriptible, la pregunta es, ¿Es real o irreal? ¿Es válido o inválido? Mi única respuesta ante este asunto es no descartar el beneficio de la duda.
 
-Además, la historia ha registrado información de gente experimentando diferentes tipos de misterios que no pueden ser comprendidos, o cosas que no pueden ser experimentadas por nadie más que uno mismo, y aún así, sabemos que hay gente que está dispuesta a creer en estos testimonios como si fueran verdad. Tal vez en este punto estés tentado a pensar que la mayoría de creencias espirituales caen en esta categoría pero eso no es del todo cierto, podríamos tomar como ejemplo algunas teorías que eran popularmente rechazadas, la tierra no era redonda hasta antes de 1492, o que desinfectar las manos antes de cualquier operación reduciría la cantidad de pacientes enfermos (Ignaz Semmelweis, 1847), esas mismas teorías nacieron de ideas aparentemente irreales o inválidas según la época y luego pasaron a volverse reales y válidas.
+Además, la historia ha registrado información de gente experimentando diferentes tipos de misterios que no pueden ser comprendidos, o cosas que no pueden ser experimentadas por nadie más que uno mismo, y aún así, sabemos que hay gente que está dispuesta a creer en estos testimonios como si fueran verdad. Tal vez en este punto estés tentado a pensar que la mayoría de creencias religiosas o anormales caen en esta categoría pero eso no es del todo cierto, podríamos tomar como ejemplo algunas teorías que eran popularmente rechazadas, la tierra no era redonda hasta antes de 1492, o que desinfectar las manos antes de cualquier operación reduciría la cantidad de pacientes enfermos (Ignaz Semmelweis, 1847), esas mismas teorías nacieron de ideas aparentemente irreales o inválidas según la época y luego pasaron a volverse reales y válidas.
 
 Mi intensión en esta sección es simplemente compartir una visión más amplia de este tipo de pensamiento antes de saltar en conclusiones.
 
@@ -291,7 +292,7 @@ Pero, si los sistemas tienen un nivel de determinación, entonces vale preguntar
 
 Por un lado el sistema solar no fue inventado, solo traducimos ese conocimiento en nuestro lenguaje y así es como entendemos y reconocemos el sistema solar al día de hoy, pero, por otro lado si pensamos sobre cómo llegó a funcionar el primer auto, ese sistema no estaba esperando a ser descubierto ¿O sí?, consideremos que hubo varias planificaciones e intentos antes de llegar a una fórmula válida.
 
-Yo creo que ningun sistema es inventado sino que todos son descubiertos. Para aclarar mi postura al respecto debo citar a Aristoteles y su desarrollo sobre "Potencial y Acto". La idea básica es esta, imagina que hay una bolsa llamada "nada" que está completamente vacía, y de esa bolsa quieres sacar una manzana, la lógica diría que sería imposible sacar "algo" de la "nada", si relacionamos esta idea con la existencia, tendríamos que la "no existencia" jamás podría producir la "existencia" de algo pues es imposible que algo que "no existe" luego empiece a "existir". Desde la perspectiva de Aristoteles, todo tiene el "potencial" de cambiar, y cuando esto ha cambiado entonces el potencial ha llegado a su máxima expresion y se convierte en "actual", finalmente, aquello que es "actual" es lo que reconocemos en nuestro presente. Si hablamos de los autos, diríamos que desde los años más precarios los autos modernos existian con un potencial bajo, y con el pasar del tiempo y eventos, este potencial llego a su punto de actualidad en diferentes épocas.
+Yo creo que ningún sistema es inventado sino que todos son descubiertos. Para aclarar mi postura al respecto debo citar a Aristoteles y su desarrollo sobre "Potencial y Acto". La idea básica es esta, imagina que hay una bolsa llamada "nada" que está completamente vacía, y de esa bolsa quieres sacar una manzana, la lógica diría que sería imposible sacar "algo" de la "nada", si relacionamos esta idea con la existencia, tendríamos que la "no existencia" jamás podría producir la "existencia" de algo pues es imposible que algo que "no existe" luego empiece a "existir". Desde la perspectiva de Aristoteles, todo lo que existe tiene el "potencial" de cambiar su presencia a la actualidad, y cuando esto cambia entonces el potencial ha llegado a su máxima expresion y se convierte en "actual", finalmente, aquello que es "actual" es lo que reconocemos como "existente" en nuestro tiempo presente. Si por ejemplo hablamos de los autos, diríamos que desde las épocas más precarias los autos modernos ya existían, pero con un potencial tan bajo que en su tiempo era imposible de si quiera imaginarlo, y luego con el pasar del tiempo y eventos, este potencial llego a su punto de actualidad hasta nuestra época.
 
 Volviendo al tema principal de la sección, la idea de "sistema" indica que existe un conjunto de reglas, condiciones, procesos, decisiones, etc, y seguramente todos estos detalles son diferentes entre múltiples sistemas, pero, hay un proceso que todos los sistemas tienen en común.
 
@@ -322,7 +323,7 @@ Analisemos lo que tenemos hasta aquí. La licencia de conducir al igual que la c
   * Asignar un estado legal basado en la habilidad para desempeñar una responsabilidad.
   * Asignar un estado legal basado en la edad.
 
-Ambas líneas de pensamiento definen un sistema de asignación de estado legal de formas diferentes, como resultado, ambos sistemas se sobreponen en la forma de permitir la interacción social. Es así como tenemos una ambiguedad en la forma en que la constitución legal asigna estados. Pero, como dije antes, dilemas como este nos dejan con un sistema de creencias roto, es decir, no somos conscientes de que funciona a medias pero seguimos viviendo con ello.
+Ambas líneas de pensamiento definen un sistema de asignación de estado legal de formas diferentes, como resultado, ambos sistemas se sobreponen en la forma de permitir la interacción social. Es así como tenemos una ambigüedad en la forma en que la constitución legal asigna estados. Pero, como dije antes, dilemas como este nos dejan con un sistema de creencias roto, es decir, no somos conscientes de que funciona a medias pero seguimos viviendo con ello.
 
 Hay un montón de casos diferentes sobre sistemas de creencia rotos, sin embargo, ser capaz de reconocer el problema nos permite actuar proactivamente en contra de ello. Ahora, mi pregunta hacia el lector es ¿Cuántos casos así conoces? ¿Cuántos sistemas de creencia rotos tienes? ¿Puedes reconocer aquellos sistemas de creencia que son errados?
 
@@ -330,11 +331,11 @@ Hay un montón de casos diferentes sobre sistemas de creencia rotos, sin embargo
 
 Recapitulemos un poco sobre el contenido de este capítulo.
 
-  * El problema de la ambiguedad puede ser sutil pero profundo, es importante reconocer las perspectivas.
-  * Percepción es la interfaz más básica que nos permite interactuar con la realidad, pero, ¿Acaso puedo confiar plenamente en mis sentidos? Evidentemente no, la percepción únicamente no es totalmente confiable.
-  * La realidad es interactiva, y la interacción es perceptible. De otro modo, ¿Cómo puedo estar seguro de que las personas a mi al rededor sienten lo mismo que yo? Porque la interacción lo demuestra.
-  * Los sistemas pueden ser una combinación de real o irreal y válido o inválido. ¿Podría el frío ser una mala percepción de mi cuerpo? Podría ser real que sientas frío, pero si el resto siente calor, entonces es inválido que sientas frío, lo más probable es que haya algún problema de salud.
-  * Podemos ser parte de un sistema sin siquiera saber de ello, y descubrir sistemas nuevos cada vez. Incluso puede existir la coincidencia de que dos personas descubran el mismo sistema en tiempos diferentes y distancias lejanas.
+  * El problema de la ambigüedad puede ser sutil pero profundo, es importante reconocer las perspectivas.
+  * Percepción es la interfaz más básica que nos permite interactuar con la realidad.
+  * La realidad es interactiva, y la interacción es perceptible. Si condiciono pruebas con varias personas y recibo el mismo resultado, entonces puedo confirmar que las personas a mi alrededor experimentan lo mismo que yo.
+  * Los sistemas pueden ser una combinación de real o irreal y válido o inválido. ¿Podría el frío ser una mala percepción de tu cuerpo? Podría ser real que sientas frío pero si el resto siente calor, entonces es inválido que sientas frío, es probable que tengas un problema de salud, o también es posible que te estén engañando para una broma.
+  * Podemos ser parte de un sistema sin siquiera saber de ello, y descubrir sistemas nuevos cada vez. Incluso puede existir la coincidencia de que dos personas descubran el mismo sistema en tiempos diferentes y distancias lejanas, esto conocido como descubrimiento múltiple.
   * Mezclar ideas de diferentes sistemas de creencias puede resultar en cosmovisiones erradas.
 
 Finalmente, creo que en este punto la mejor definición que tengo para sistemas de creencias es esta: Un sistema de creencias es un conjunto sistemático de creencias que definen una cosmovisión.
