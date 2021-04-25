@@ -4,9 +4,17 @@
 
 # Los problemas del sistema
 
+## Preámbulo
+
+Este libro es el resultado de yo queriendo acomodar y ordenar mis ideas a fin de poder expresarlas de mejor manera a quien lo necesite. Además, no planteo hacer una defensa absoluta de todo lo que he escrito, ni quiero profundizar en ideas que, según mi juicio, probablemente no tengan mayor utilidad práctica.
+
+Aparte, estoy seguro de que muchos de los temas que toco brevemente en este libro son desarrollados con mayor profundidad por muchos otros filósofos, pero, honestamente no me he dado el tiempo de estudiar a ninguno en particular con la misma profundidad con la que me he puesto a meditar en lo que he escrito. Así pues, si en algún momento sé que estoy citando a un filósofo en particular citaré su nombre, mientras tanto, no puedo decir absolutamente nada sobre aquellos conceptos que coinciden con otros filósofos que simplemente no conozco.
+
+Finalmente, yo creo que la capacidad de meditar y analizar está en todos aquellos que quieren hacerlo, y las conclusiones que coinciden en diferente tiempo y espacio, son propiedad de la capacidad del ser humano, mas no de ninguna identidad en particular.
+
 ## ¿Qué es un sistema de creencias?
 
-Usualmente no se inicia un primer capítulo con un desafío. Lo usual es tener un preámbulo al contenido del libro, o una vista resumida de lo que el autor va a desarrollar a lo largo de los demás capítulos, o tal vez, una escena entretenida e intrigante que insite al lector a continuar el libro. Pero, este libro es (en pocas palabras) un juego de preguntas y respuestas, así pues, esta introducción empieza cuestionando al lector con la siguiente pregunta: ¿Alguna vez has conversado con alguien que parece usar sus palabras con una precisión extraña?
+La mejor forma de responder esta pregunta es con una secuencia de preguntas, y la razón de esto es que explicar el significado de algo complejo tiende a ser mejor entendido cuando se ejerce una y otra vez el mismo concepto, así pues, esta introducción empieza cuestionando al lector con esta pregunta: ¿Alguna vez has conversado con alguien que parece usar sus palabras con una precisión extraña?
 
 Si todavía no tienes la respuesta. !En hora buena! Porque primero hay que resolver este problema: ¿Acaso la pregunta anterior tiene sentido? Es decir, la palabra "extraño" significa que algo es desconocido y la palabra "precisión" significa que hay exactitud, entonces, ¿Cómo puede "algo desconocido" tener "exactitud"?
 
@@ -26,15 +34,15 @@ Es común que en casi toda conversación haya un intercambio de preguntas y resp
 
 Tal vez, a simple vista las preguntas parecen absurdas, pero juzgarlas de esa forma es simplemente un error. Si observas nuevamente las preguntas, notarás que ninguna de ellas añade algún contexto en donde ubicarlas. La falta de contexto nos impide decir si las preguntas son válidas o no. Si por ejemplo, el contexto de las preguntas fuera un videojuego o una novela fantástica, entonces tal vez tendrían sentido, tal vez haya un juego que permite cambiar el color del sol, o hay una novela que tiene un propósito intrigante con el color del pasto. El contexto es un arma poderosa capaz de dar sentido o volver absurdo cualquier mensaje.
 
-Así también hay ocaciones donde queremos interpretar más allá de la intención del mensaje, queremos interpretar la intención del transmisor. Si por ejemplo  alguien pregunta por vacantes de trabajo, lo más común es asumir que esa persona está buscando una oportunidad laboral, pero podría suceder que la intención de la persona en realidad es presumir, o tal vez solo esta reuniendo información con fines estadísticos para su propio trabajo.
+Así también hay ocaciones donde queremos interpretar más allá de la intención del mensaje; queremos interpretar la intención del transmisor. Si, por ejemplo, alguien pregunta por vacantes de trabajo, lo más común es asumir que esa persona está buscando una oportunidad laboral, pero podría suceder que la intención de la persona en realidad es presumir, o tal vez solo esta reuniendo información con fines estadísticos para su propio trabajo.
 
-Cuando hablamos de la intención del mensaje hablamos de entender correctamente lo que el transmisor quiere transmitir, sin llegar al extremo de juzgar su pregunta por la falta de contexto, o intepretar la intención del transmisor por quere asumir más de lo que la persona está diciendo.
+Cuando hablamos de la intención del mensaje hablamos de entender correctamente lo que el transmisor quiere transmitir, sin llegar al extremo de juzgar su pregunta por la falta de contexto, o intepretar la intención del transmisor por querer asumir más de lo que la persona está diciendo.
 
-Llevar una conversación puede ser tan trivial como problemática, y en cualquiera de esos casos usualmente no somos conscientes de que estamos entendiendo todo a medias, esto por causa de las expresiones ambiguas, en mala hora la ambigüedad es tan frecuente que simplemente pasa desapercibida. Considera estas preguntas:
+Llevar una conversación puede ser tan trivial como problemática, y en cualquiera de esos casos usualmente no somos conscientes de que estamos entendiendo todo a medias, esto es a causa de las expresiones ambiguas, en mala hora la ambigüedad es tan frecuente que simplemente pasa desapercibida. Considera estas preguntas:
 
   * ¿Estás entendiendo exactamente lo que el transmisor quiere decir intencionalmente?
   * ¿Sabes si el transmisor tiene un significado ligeramente diferente a alguna palabra que tu ya conoces?
-  * Asumiendo que la pregunta anterior fue afirmativa, entonces, ¿Cuánto podría esta palabra cambiar el significado intencional de toda la conversación?
+  * Asumiendo que la pregunta anterior fuera afirmativa, entonces, ¿Cuánto podría esta palabra cambiar el significado intencional de toda la conversación?
 
 Desde la perspectiva de la historia, la ambigüedad es el inicio de un mar de posibilidades mayormente no deseadas. Permíteme compartir más ejemplos para demostrar hasta que punto este tipo de problemas son comunes.
 
@@ -110,25 +118,25 @@ El siguiente ejemplo eleva el nivel de incertidumbre.
 
 ### ¿Madre o no?
 
-Imaginemos que una mujer está embarazada por primera vez, y respondamos esta pregunta:
+Imagina que una mujer está embarazada por primera vez, y piensa en esta pregunta:
 
   * ¿Una mujer se vuelve madre cuando está embarazada?
 
 La respuesta debería ser concretamente "sí" o "no" pero, lo que usualmente sucede es que la gente reconsidera su conocimiento de la palabra "madre" antes de responder cualquier cosa. Esta pausa existente para responder, solo demuestra el conocimiento incierto que tenemos de la misma palabra.
 
-Mi definición de la palabra "madre" es la siguiente: Madre es toda aquella mujer que ha tomado la responsabilidad de cuidar a una persona que todavía no es capaz de cuidarse por cuenta propia. Normalmente se asocia la relación de estas personas como "madre" e "hijo" (independientemente del género), sin embargo, también creo que la palabra "hijo" en ningun momento debería implicar una relación sanguinea implícita. Aparte según mi propia definición, la palabra "cuidar" a su vez debe incluir la tarea de preparar de forma personal a su hijo para ser autosuficiente, es decir que, el resultado de una madre es evidente en la capacidad que tiene su hijo para enfrentar el mundo por cuenta propia. Ahora, quizá no sea notorio, pero debo enfatizar que toda madre debe tener una participación activa y no pasiva en su rol, por ejemplo, proveer la alimentación y el costo de los estudios de sus hijos es una acción pasiva, por tanto, eso no cubre la expectativa de ser madre según mi apreciación, por el contrario, sentarse con su hijo y enseñarle aquello que como madre y mujer conoce, cubre la participación activa.
+Mi definición de la palabra "madre" es la siguiente: Madre es aquella mujer que ha tomado la responsabilidad de cuidar a un menor de edad hasta volverse un adulto. Normalmente se asocia la relación de estas personas como "madre" e "hijo", sin embargo, también creo que la palabra "hijo" en ningun momento debería implicar una relación sanguinea. Aparte, según mi propia definición, la palabra "cuidar" a su vez debe incluir la tarea de preparar de forma personal a su hijo para ser autosuficiente, es decir que, el resultado de una madre es evidente en la capacidad que tiene su hijo para desarrollarse el mundo por cuenta propia. Además, quizá no sea notorio, pero debo enfatizar que toda madre debe tener una participación activa y no pasiva en su rol, por ejemplo, proveer la alimentación y el costo de los estudios de sus hijos es una acción pasiva, por tanto, eso no cubre la expectativa de ser madre según mi apreciación, por el contrario, sentarse con su hijo y enseñarle aquello que como madre y mujer conoce, cubre la participación activa.
 
 Mi objetivo al desarrollar la definición anterior es proponer un contraste de perspectivas, y puesto que este contraste nos permite explorar las implicaciones del problema, es necesario plantear perspectivas diferentes sobre el mismo tema. Te animo a comparar y evaluar tu propia perspectiva y definición de madre con este ejemplo.
 
-Ahora, considerando lo que he dicho anteriormente, mi respuesta a la pregunta sería "no" basado en el hecho de que una mujer embarazada todavía no tiene sobre quién ejercer la tarea de cuidar y preparar.
+Ahora, considerando lo que he dicho anteriormente, mi respuesta a la pregunta sería "sí" basado en el hecho de que una mujer embarazada debe preparar y cuidar su cuerpo a fin de recibir a su bebé, la tarea implica no solamente cuidar de ella misma sino también de aquello que pueda afectar positiva o nevatigamente a su bebé. Pero, si por el contrario ella continua con su embarazo ignorando voluntariamente su condición, entonces, es claro que no es madre y más obvio sería asumir que tampoco quiere serlo.
 
-  * ¿Sería una madre después de que el bebé nace?
+  * ¿Una mujer se vuelve después de que nace su bebé?
 
 Eso tal vez suene convincente pero, ciertamente hay casos de mujeres que teniendo bebés deciden abandonarlos, así que muy a pesar de que tenga un hijo, aún queda pendiente la intensión propia de la mujer para con su bebé. La respuesta entonces sería no, el simple hecho de engendrar un bebé no convierte a ninguna mujer en madre sino únicamente en progenitora, por el contrario, tomar la responsabilidad de cuidar y preparar a su bebé sí la convierte en una madre.
 
   * ¿Si ella da al bebé en adopción, podría ser considerada madre?
 
-Si dejamos de lado el concepto que definí al principio, normalmente para responder este tipo de preguntas mucha gente suele involucrar emociones e intenciones. El problema con este tipo de respuestas es que la palabra ahora tendría un significado mucho más complejo, es decir, podríamos tener respuestas paradójicas como la del gato de Schrödinger, entiéndase lo siguiente: puede existir una situación tal donde una mujer es madre y no es madre al mismo tiempo, esta idea a su vez genera la posibilidad de la expresión "mala madre", que si bien debe dar a entender que dicha mujer no ejerce correctamente el rol que se supone debe ejercer, a su vez, ya que la definición concreta de "madre" aún es incierta, por consecuencia también lo es el significado de "mala", es decir que; si esta persona es considerada "mala madre", por falta de definición no sabríamos juzgar ¿Qué la hace mala? Nótese que al inicio de este párrafo dejamos de lado la defición con la que empezamos esta sección del ejemplo. Pero, volviendo al concepto que definimos sobre madre, mi respuesta en este caso es que cualquier persona que no hace ejercicio de madre no debe ser considerada madre.
+Si dejamos de lado el concepto que definí al principio, normalmente para responder este tipo de preguntas mucha gente suele involucrar emociones e intenciones. El problema con este tipo de respuestas es que la palabra ahora tendría un significado mucho más complejo, es decir, podríamos tener respuestas paradójicas como la del gato de Schrödinger, entiéndase lo siguiente: puede existir una situación tal donde una mujer es madre y no es madre al mismo tiempo, esta idea a su vez genera la posibilidad de la expresión "mala madre", que si bien debe dar a entender que dicha mujer no ejerce correctamente el rol que se supone debe ejercer, a su vez, ya que la definición concreta de "madre" aún es incierta, por consecuencia también lo es el significado de "mala", es decir que; si esta persona es considerada "mala madre", por falta de definición no sabríamos juzgar ¿Qué la hace mala? Nota que al inicio de este párrafo dejamos de lado la defición con la que empezamos esta sección del ejemplo. Pero, volviendo a usar el concepto que definí sobre madre, mi respuesta en este caso es que cualquier persona que no hace ejercicio de madre no debe ser considerada madre.
 
   * Si ella quiere tener su bebé y además adoptar otro, ¿Ella sería una madre para uno o para ambos?
 
@@ -136,13 +144,13 @@ Esta pregunta presenta un caso importante: la relación biológica. Personalment
 
   > Madre no es la que pare, sino la que cría.
 
-Y ya que en este punto estamos considerando que ella quiere tomar responsabilidad de ser madre, entonces yo diría que efectivamente ella es madre para ambas criaturas.
+Y ya que en este punto estoy considerando que ella quiere tomar responsabilidad de ser madre, entonces yo diría que efectivamente ella es madre para ambas criaturas.
 
 Ahora, imaginemos que esta mujer pierde sus hijos, esto podría suceder durante o después del embarazo, pero en cualquier caso ahora consideramos que ya no tiene hijos, ni si quiera adoptivos, sobre quien ejercer su rol.
 
   * ¿Puede alguien que ha sido llamada madre antes, dejar de ser llamada madre después?
 
-Eso sería lo más correcto. Según la definición que propuse inicialmente, el único requerimiento para que alguien sea una madre es haber tomado la responsabilidad de ejercer su rol sobre alguien en condiciones tal que dependan de una madre.
+Eso sería lo más correcto. Según la definición que propuse inicialmente, el único requerimiento para que alguien sea una madre es haber tomado la responsabilidad de ejercer su rol sobre alguien menor de edad en condiciones tal que depende de una madre.
 
 Ahora, este tema evita algunos detalles que deben ser mencionados a fin de proveer en la medida posible una respuesta que pueda satisfacer cualquier perspectiva de la misma palabra.
 
